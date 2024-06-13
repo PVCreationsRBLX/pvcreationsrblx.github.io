@@ -1,7 +1,7 @@
 +++
 title = 'L-Series'
 date = 2024-06-12T16:05:20-07:00
-draft = false
+draft = true
 +++
 
 The **System Sensor L-Series** collection is PVC's most popular. It was first released in October 2019. The collection contains 48 devices.
@@ -37,7 +37,16 @@ A total of 48 wall- and ceiling-mounted, indoor-rated alarm appliances are inclu
 * **SPSCWL** – ceiling-mount combination speaker/strobe with FIRE lettering
 
 ### Unmarked
+While not having label decals, the label parts weren't removed, allowing you to easily add labels to them if you want.
 #### Red
+* **CHRL** – full-width wall-mount chime
+* **CHSRL** – full-width wall-mount combination chime/strobe
+* **CHSCRL** – ceiling-mount combination chime/strobe
+* **HRL** – full-width wall-mount horn
+* **HGRL** – single-gang wall-mount horn
+
+
+
 #### White
 
 ### General notification
