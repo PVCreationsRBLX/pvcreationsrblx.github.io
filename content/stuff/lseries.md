@@ -2,6 +2,7 @@
 title = 'L-Series'
 date = 2024-06-12T16:05:20-07:00
 draft = true
+sidebar = true
 +++
 
 The **System Sensor L-Series** collection is PVC's most popular. It was first released in October 2019. The collection contains 48 devices.
