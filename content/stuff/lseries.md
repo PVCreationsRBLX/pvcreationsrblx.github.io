@@ -44,12 +44,34 @@ While not having label decals, the label parts weren't removed, allowing you to 
 * **CHSCRL** – ceiling-mount combination chime/strobe
 * **HRL** – full-width wall-mount horn
 * **HGRL** – single-gang wall-mount horn
-
-
+* **P2RL-P** – full-width wall-mount combination horn/strobe
+* **P2GRL-P** – single-gang wall-mount combination horn/strobe
+* **PC2RL-P** – ceiling-mount combination horn/strobe
+* **SRL-P** – full-width wall-mount strobe
+* **SGRL-P** – single-gang wall-mount strobe
+* **SCRL-P** – ceiling-mount strobe
+* **SPRL** – wall-mount speaker
+* **SPSRL-P** – wall-mount combination speaker/strobe
+* **SPSCRL-P** – ceiling mount combination speaker/strobe
 
 #### White
+* **CHWL** – full-width wall-mount chime
+* **CHSWL** – full-width wall-mount combination chime/strobe
+* **CHSCWL** – ceiling-mount combination chime/strobe
+* **HWL** – full-width wall-mount horn
+* **HGWL** – single-gang wall-mount horn
+* **P2WL-P** – full-width wall-mount combination horn/strobe
+* **P2GWL-P** – single-gang wall-mount combination horn/strobe
+* **PC2WL-P** – ceiling-mount combination horn/strobe
+* **SWL-P** – full-width wall-mount strobe
+* **SGWL-P** – single-gang wall-mount strobe
+* **SCWL-P** – ceiling-mount strobe
+* **SPWL** – wall-mount speaker
+* **SPSWL-P** – wall-mount combination speaker/strobe
+* **SPSCWL-P** – ceiling mount combination speaker/strobe
 
 ### General notification
+(the colored strobes and stuff)
 
 ## Known issues
 * (applies to all alarms excluding the [MT4 pack](/stuff/mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0`. 
