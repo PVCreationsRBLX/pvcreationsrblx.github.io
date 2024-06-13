@@ -21,14 +21,24 @@ A total of 48 wall- and ceiling-mounted, indoor-rated alarm appliances are inclu
 * **P2RL-LF** – full-width wall-mount combination 520 Hz sounder/strobe with FIRE lettering
 * **SRL** – full-width wall-mount strobe with FIRE lettering
 * **SGRL** – single-gang wall-mount strobe with FIRE lettering
-* **SPSRL**
+* **SCRL** – ceiling-mount strobe with FIRE lettering
+* **SPSRL** – wall-mount combination speaker/strobe with FIRE lettering
+* **SPSCRL** – ceiling-mount combination speaker/strobe with FIRE lettering
 
 #### White
 * **P2WL** – full-width wall-mount combination horn/strobe with FIRE lettering
 * **P2GWL** – single-gang wall-mount combination horn/strobe with FIRE lettering
 * **PC2WL** – ceiling-mount combination horn/strobe with FIRE lettering
+* **P2WL-LF** – full-width wall-mount combination 520 Hz sounder/strobe with FIRE lettering
+* **SWL** – full-width wall-mount strobe with FIRE lettering
+* **SGWL** – single-gang wall-mount strobe with FIRE lettering
+* **SCWL** – ceiling-mount strobe with FIRE lettering
+* **SPSWL** – wall-mount combination speaker/strobe with FIRE lettering
+* **SPSCWL** – ceiling-mount combination speaker/strobe with FIRE lettering
 
 ### Unmarked
+#### Red
+#### White
 
 ### General notification
 
