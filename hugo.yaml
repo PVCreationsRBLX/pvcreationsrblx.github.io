@@ -1,5 +1,5 @@
 baseURL: https://pvcreationsrblx.github.io/
-languageCode: en-us
+languageCode: en
 title: PV Creations
 
 module:
@@ -8,9 +8,12 @@ module:
 
 menu:
   main:
-    - name: Stuff
-      pageRef: /stuff
+    - name: Documentation
+      pageRef: /docs
       weight: 1
+    - name: Newsroom
+      pageref: /blogs
+      weight: 2
     - name: Search
       weight: 4
       params:

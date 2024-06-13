@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PV Creations – ETS2/ATS</title>
+    <link>http://localhost:1313/docs/ets2_ats/</link>
+    <description>Recent content in ETS2/ATS on PV Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jun 2024 14:10:37 -0700</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/ets2_ats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

@@ -74,4 +74,4 @@ While not having label decals, the label parts weren't removed, allowing you to 
 (the colored strobes and stuff)
 
 ## Known issues
-* (applies to all alarms excluding the [MT4 pack](/stuff/mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0`. 
+* (applies to all alarms excluding the [MT4 pack](../mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0`. 
