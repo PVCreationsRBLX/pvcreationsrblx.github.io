@@ -9,9 +9,9 @@ All PVC assets for the Roblox platform.
 ## Fire alarms
 {{< cards >}}
     {{< card link="exceder_led3" title="Wheelock Exceder LED3" image="../../images/cards_led3.png" >}}
-    {{< card link="exceder_xe" title="Wheelock Exceder Xenon" >}}
-    {{< card link="lseries" title="System Sensor L-Series" >}}
-    {{< card link="truealert" title="Simplex TrueAlert SmartSync" >}}
+    {{< card link="exceder_xe" title="Wheelock Exceder Xenon" image="../../images/cards_xe.png" >}}
+    {{< card link="lseries" title="System Sensor L-Series" image="../../images/cards_lseries.png" >}}
+    {{< card link="truealert" title="Simplex TrueAlert SmartSync" image="../../images/cards_truealert.png" >}}
     {{< card link="mt4" title="Wheelock MT4" image="../../images/cards_mt4.png" >}}
 {{< /cards >}}
 
