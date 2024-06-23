@@ -25,6 +25,18 @@
         
         
         &lt;p&gt;The &lt;strong&gt;Wheelock Exceder LED3&lt;/strong&gt; collection is PVC&amp;rsquo;s very first – and largest. It was first released in January 2019, with a remastered version releasing in 2021, consisting of completely remodeled wall-mount devices among other updates. Not to mention lower poly count – that&amp;rsquo;s always nice!&lt;/p&gt;
+&lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
+&lt;h2&gt;Details&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;details&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt; (overall): Release Candidate 1 (19 January 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt; (PVC): 21.11 (2 November 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 22.03 (4 March 2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
@@ -39,46 +51,17 @@
         
         
         &lt;p&gt;The &lt;strong&gt;Wheelock Exceder Xenon&lt;/strong&gt; collection was first released in mid-2019, with a remastered version releasing in 2022, consisting of heavily facelifted wall-mount devices. If only you could see how awful and bloated they were prior&amp;hellip;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>TrueAlert</title>
-      <link>http://localhost:1313/docs/roblox/truealert/</link>
-      <pubDate>Thu, 13 Jun 2024 12:35:55 -0700</pubDate>
-      
-      <guid>http://localhost:1313/docs/roblox/truealert/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>MT4</title>
-      <link>http://localhost:1313/docs/roblox/mt4/</link>
-      <pubDate>Wed, 12 Jun 2024 17:02:00 -0700</pubDate>
-      
-      <guid>http://localhost:1313/docs/roblox/mt4/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;strong&gt;Wheelock MT4&lt;/strong&gt; collection is PVC&amp;rsquo;s most recent, having first been released on 24 April 2024. The collection contains 5 devices. If you want to be more technical, it contains 7, as one device combines three models.&lt;/p&gt;
 &lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
-&lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of five wall-mount devices are included.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;MT4-115-R&lt;/strong&gt; – red horn&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MT4-115-S&lt;/strong&gt; – silver horn&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MT4-115-WH-VFR&lt;/strong&gt; – red horn + white 15cd strobe with FIRE lettering&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MT4-115-WH-VNS&lt;/strong&gt; – silver horn + white 15cd unlettered strobe&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MT4-24-LS/MS/IS-VFR&lt;/strong&gt; – red horn + UL 1971-compliant 15/30/75cd strobe with FIRE lettering&lt;/li&gt;
+&lt;h2&gt;Details&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;details&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt; (overall): Release Candidate 1 (31 July 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt; (PVC): 21.06 (19 June 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 23.01 (11 January 2023)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;None&lt;/li&gt;
+&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -96,7 +79,12 @@
         &lt;p&gt;The &lt;strong&gt;System Sensor L-Series&lt;/strong&gt; collection is PVC&amp;rsquo;s most popular. It was first released in October 2019. The collection contains 48 devices.&lt;/p&gt;
 &lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
 &lt;h2&gt;Details&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;details&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt; (overall): Alpha 1 (25 October 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt; (PVC): 21.07 (1 July 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 24.01 (24 January 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of 48 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.&lt;/p&gt;
 &lt;h3&gt;Fire&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;fire&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#fire&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Red&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red&#34;&gt;&lt;/span&gt;
@@ -133,10 +121,8 @@
 &lt;li&gt;&lt;strong&gt;HRL&lt;/strong&gt; – full-width wall-mount horn&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;HGRL&lt;/strong&gt; – single-gang wall-mount horn&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;P2RL-P&lt;/strong&gt; – full-width wall-mount combination horn/strobe&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;P2GRL-P&lt;/strong&gt; – single-gang wall-mount combination horn/strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;PC2RL-P&lt;/strong&gt; – ceiling-mount combination horn/strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SRL-P&lt;/strong&gt; – full-width wall-mount strobe&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SGRL-P&lt;/strong&gt; – single-gang wall-mount strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SCRL-P&lt;/strong&gt; – ceiling-mount strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SPRL&lt;/strong&gt; – wall-mount speaker&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SPSRL-P&lt;/strong&gt; – wall-mount combination speaker/strobe&lt;/li&gt;
@@ -150,10 +136,8 @@
 &lt;li&gt;&lt;strong&gt;HWL&lt;/strong&gt; – full-width wall-mount horn&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;HGWL&lt;/strong&gt; – single-gang wall-mount horn&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;P2WL-P&lt;/strong&gt; – full-width wall-mount combination horn/strobe&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;P2GWL-P&lt;/strong&gt; – single-gang wall-mount combination horn/strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;PC2WL-P&lt;/strong&gt; – ceiling-mount combination horn/strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SWL-P&lt;/strong&gt; – full-width wall-mount strobe&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SGWL-P&lt;/strong&gt; – single-gang wall-mount strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SCWL-P&lt;/strong&gt; – ceiling-mount strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SPWL&lt;/strong&gt; – wall-mount speaker&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SPSWL-P&lt;/strong&gt; – wall-mount combination speaker/strobe&lt;/li&gt;
@@ -161,9 +145,98 @@
 &lt;/ul&gt;
 &lt;h3&gt;General notification&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;general-notification&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#general-notification&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;(the colored strobes and stuff)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SWL-ALERT&lt;/strong&gt; – full-width wall-mount strobe with &lt;span style=&#34;background-color:#ffb00099; color:; font-weight:bolder; padding:2px 4px;&#34;&gt;amber&lt;/span&gt; lens and ALERT lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SWL-CLR-ALERT&lt;/strong&gt; – full-width wall-mount strobe with clear lens and ALERT lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SCWL-CLR-ALERT&lt;/strong&gt; – ceiling-mount strobe with clear lens and ALERT lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SPSWL-ALERT&lt;/strong&gt; – wall-mount combination speaker/strobe with &lt;span style=&#34;background-color:#ffb00099; color:; font-weight:bolder; padding:2px 4px;&#34;&gt;amber&lt;/span&gt; lens and ALERT lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SPSWL-CLR-ALERT&lt;/strong&gt; – wall-mount combination speaker/strobe with clear lens and ALERT lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SPSWL-CLR-ALERT&lt;/strong&gt; – ceiling-mount combination speaker/strobe with clear lens and ALERT lettering&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>TrueAlert</title>
+      <link>http://localhost:1313/docs/roblox/truealert/</link>
+      <pubDate>Thu, 13 Jun 2024 12:35:55 -0700</pubDate>
+      
+      <guid>http://localhost:1313/docs/roblox/truealert/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;strong&gt;Simplex TrueAlert SmartSync&lt;/strong&gt; collection is PVC&amp;rsquo;s first new collection in almost four years!&lt;/p&gt;
+&lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
+&lt;h2&gt;Details&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;details&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt;: 23.07 (4 July 2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 23.07 (4 July 2023)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The pack contains sixteen wall-mount devices. High-intensity models feature 135/177/185 cd strobe options, whereas regular-intensity models feature 15/30/75/110 cd strobe options.&lt;/p&gt;
+&lt;h3&gt;Red&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#red&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;4901-9820&lt;/strong&gt; – horn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4902-9716&lt;/strong&gt; – speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9101&lt;/strong&gt; – strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9109&lt;/strong&gt; – strobe, high intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9127&lt;/strong&gt; – combination horn/strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9139&lt;/strong&gt; – combination horn/strobe, high intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9133&lt;/strong&gt; – combination chime/strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9151&lt;/strong&gt; – combination speaker/strobe, regular intensity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;White&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;white&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#white&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;4901-9820&lt;/strong&gt; – horn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4902-9717&lt;/strong&gt; – speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9103&lt;/strong&gt; – strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9111&lt;/strong&gt; – strobe, high intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9129&lt;/strong&gt; – combination horn/strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9141&lt;/strong&gt; – combination horn/strobe, high intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9134&lt;/strong&gt; – combination chime/strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9153&lt;/strong&gt; – combination speaker/strobe, regular intensity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MT4</title>
+      <link>http://localhost:1313/docs/roblox/mt4/</link>
+      <pubDate>Wed, 12 Jun 2024 17:02:00 -0700</pubDate>
+      
+      <guid>http://localhost:1313/docs/roblox/mt4/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;strong&gt;Wheelock MT4&lt;/strong&gt; collection is PVC&amp;rsquo;s most recent, having first been released on 24 April 2024. The collection contains 5 devices. If you want to be more technical, it contains 7, as one device combines three models.&lt;/p&gt;
+&lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
+&lt;h2&gt;Details&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;details&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt;: 24.04 (24 April 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 24.05 (27 May 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of five wall-mount devices are included.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MT4-115-R&lt;/strong&gt; – red horn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MT4-115-S&lt;/strong&gt; – silver horn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MT4-115-WH-VFR&lt;/strong&gt; – red horn + white 15cd strobe with FIRE lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MT4-115-WH-VNS&lt;/strong&gt; – silver horn + white 15cd unlettered strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MT4-24-LS/MS/IS-VFR&lt;/strong&gt; – red horn + UL 1971-compliant 15/30/75cd strobe with FIRE lettering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

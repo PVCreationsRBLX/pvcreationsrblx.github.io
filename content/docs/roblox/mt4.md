@@ -2,10 +2,16 @@
 title = 'MT4'
 date = 2024-06-12T17:02:00-07:00
 draft = false
+weight = 5
 +++
+
 The **Wheelock MT4** collection is PVC's most recent, having first been released on 24 April 2024. The collection contains 5 devices. If you want to be more technical, it contains 7, as one device combines three models. 
 
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
+
+## Details
+* **First release**: 24.04 (24 April 2024)
+* **Latest release**: 24.05 (27 May 2024)
 
 ## Contents
 A total of five wall-mount devices are included.

@@ -1,7 +1,8 @@
 +++
 title = 'L-Series'
 date = 2024-06-12T16:05:20-07:00
-draft = true
+draft = false
+weight = 3
 +++
 
 The **System Sensor L-Series** collection is PVC's most popular. It was first released in October 2019. The collection contains 48 devices.
@@ -9,6 +10,9 @@ The **System Sensor L-Series** collection is PVC's most popular. It was first re
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
 
 ## Details
+* **First release** (overall): Alpha 1 (25 October 2019)
+* **First release** (PVC): 21.07 (1 July 2021)
+* **Latest release**: 24.01 (24 January 2024)
 
 ## Contents
 A total of 48 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.
@@ -45,10 +49,8 @@ While not having label decals, the label parts weren't removed, allowing you to 
 * **HRL** – full-width wall-mount horn
 * **HGRL** – single-gang wall-mount horn
 * **P2RL-P** – full-width wall-mount combination horn/strobe
-* **P2GRL-P** – single-gang wall-mount combination horn/strobe
 * **PC2RL-P** – ceiling-mount combination horn/strobe
 * **SRL-P** – full-width wall-mount strobe
-* **SGRL-P** – single-gang wall-mount strobe
 * **SCRL-P** – ceiling-mount strobe
 * **SPRL** – wall-mount speaker
 * **SPSRL-P** – wall-mount combination speaker/strobe
@@ -61,10 +63,8 @@ While not having label decals, the label parts weren't removed, allowing you to 
 * **HWL** – full-width wall-mount horn
 * **HGWL** – single-gang wall-mount horn
 * **P2WL-P** – full-width wall-mount combination horn/strobe
-* **P2GWL-P** – single-gang wall-mount combination horn/strobe
 * **PC2WL-P** – ceiling-mount combination horn/strobe
 * **SWL-P** – full-width wall-mount strobe
-* **SGWL-P** – single-gang wall-mount strobe
 * **SCWL-P** – ceiling-mount strobe
 * **SPWL** – wall-mount speaker
 * **SPSWL-P** – wall-mount combination speaker/strobe
@@ -72,6 +72,12 @@ While not having label decals, the label parts weren't removed, allowing you to 
 
 ### General notification
 (the colored strobes and stuff)
+* **SWL-ALERT** – full-width wall-mount strobe with {{< colorbox background-color="#ffb00099" font-weight="bolder">}}amber{{< /colorbox >}} lens and ALERT lettering
+* **SWL-CLR-ALERT** – full-width wall-mount strobe with clear lens and ALERT lettering
+* **SCWL-CLR-ALERT** – ceiling-mount strobe with clear lens and ALERT lettering
+* **SPSWL-ALERT** – wall-mount combination speaker/strobe with {{< colorbox background-color="#ffb00099" font-weight="bolder">}}amber{{< /colorbox >}} lens and ALERT lettering
+* **SPSWL-CLR-ALERT** – wall-mount combination speaker/strobe with clear lens and ALERT lettering
+* **SPSWL-CLR-ALERT** – ceiling-mount combination speaker/strobe with clear lens and ALERT lettering
 
 ## Known issues
-* (applies to all alarms excluding the [MT4 pack](../mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0`. 
+* (applies to all alarms excluding the [MT4 pack](../mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0` or continuous. 

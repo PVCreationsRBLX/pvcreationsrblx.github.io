@@ -1,16 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PV Creations – </title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on PV Creations</description>
+    <title>PV Creations – Test1</title>
+    <link>http://localhost:1313/tags/test1/</link>
+    <description>Recent content in Test1 on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jun 2024 15:33:52 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 22:27:57 -0700</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/test1/index.xml" rel="self" type="application/rss+xml" />
     
     
       
+        
       
     
     

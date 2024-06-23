@@ -12,10 +12,21 @@ menu:
       pageRef: /docs
       weight: 1
     - name: Newsroom
-      pageref: /blogs
+      pageref: /blog
       weight: 2
+    - name: Links
+      pageRef: /links
+      weight: 3
     - name: Search
       weight: 4
       params:
         type: search
-
+    - name: PV Creations on X
+      weight: 6
+      url: "https://x.com/PVC_RB"
+      params:
+        icon: x-twitter
+    
+taxonomies:
+  category: categories
+  tag: tags
