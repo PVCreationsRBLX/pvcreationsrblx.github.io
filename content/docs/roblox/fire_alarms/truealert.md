@@ -9,6 +9,11 @@ The **Simplex TrueAlert SmartSync** collection is PVC's first new collection in 
 
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
 
+{{< cards >}}
+    {{< card link="https://create.roblox.com/store/asset/13904668666/" title="Roblox Creator Store" icon="robloxstudio" >}}
+    {{< card link="https://ko-fi.com/s/8417d72c37" title="Ko-fi Shop" icon="kofi" >}}
+{{< /cards >}}
+
 ## Details
 * **First release**: 23.07 (4 July 2023)
 * **Latest release**: 23.07 (4 July 2023)

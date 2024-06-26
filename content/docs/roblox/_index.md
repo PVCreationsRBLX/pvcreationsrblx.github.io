@@ -8,14 +8,19 @@ weight = 1
 All PVC assets for the Roblox platform.
 
 ## Fire alarms
+
 {{< cards >}}
-    {{< card link="exceder_led3" title="Wheelock Exceder LED3" image="../../images/cards_led3.webp" >}}
-    {{< card link="exceder_xe" title="Wheelock Exceder Xenon" image="../../images/cards_xe.webp" >}}
-    {{< card link="lseries" title="System Sensor L-Series" image="../../images/cards_lseries.webp" >}}
-    {{< card link="truealert" title="Simplex TrueAlert SmartSync" image="../../images/cards_truealert.webp" >}}
-    {{< card link="mt4" title="Wheelock MT4" image="../../images/cards_mt4.webp" >}}
+    {{< card link="fire_alarms/exceder_led3" title="Wheelock Exceder LED3" >}}
+    {{< card link="fire_alarms/exceder_xe" title="Wheelock Exceder Xenon" >}}
+    {{< card link="fire_alarms/lseries" title="System Sensor L-Series" >}}
+    {{< card link="fire_alarms/truealert" title="Simplex TrueAlert SmartSync" >}}
+    {{< card link="fire_alarms/mt4" title="Wheelock MT4" >}}
 {{< /cards >}}
 
 ## Furniture
 
+WIP
+
 ## Misc
+
+WIP

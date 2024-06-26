@@ -9,6 +9,11 @@ The **System Sensor L-Series** collection is PVC's most popular. It was first re
 
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
 
+{{< cards >}}
+    {{< card link="https://create.roblox.com/store/asset/7031992297/" title="Roblox Creator Store" icon="robloxstudio" >}}
+    {{< card link="https://ko-fi.com/s/af3470e12b" title="Ko-fi Shop" icon="kofi" >}}
+{{< /cards >}}
+
 ## Details
 * **First release** (overall): Alpha 1 (25 October 2019)
 * **First release** (PVC): 21.07 (1 July 2021)

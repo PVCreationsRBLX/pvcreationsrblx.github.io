@@ -1,6 +1,13 @@
 baseURL: https://pvcreationsrblx.github.io/
 languageCode: en
+defaultContentLanguage: en
 title: PV Creations
+
+hasCJKLanguage: true
+languages:
+  en:
+    languageName: English
+    weight: 1
 
 module:
   imports:
@@ -8,25 +15,42 @@ module:
 
 menu:
   main:
-    - name: Documentation
+    - name: Docs
       pageRef: /docs
       weight: 1
     - name: Newsroom
       pageref: /blog
       weight: 2
-    - name: Links
-      pageRef: /links
-      weight: 3
     - name: Search
       weight: 4
       params:
         type: search
-    - name: PV Creations on X
+    - name: PV Creations on Roblox
+      weight: 5
+      url: "https://www.roblox.com/groups/11056797"
+      params:
+        icon: roblox
+    - name: PV Creations Discord server
       weight: 6
+      url: "https://discord.com/invite/kFckVRv56b"
+      params:
+        icon: discord
+    - name: PV Creations on X
+      weight: 7
       url: "https://x.com/PVC_RB"
       params:
         icon: x-twitter
-    
+
 taxonomies:
   category: categories
   tag: tags
+
+params:
+  blog:
+    list:
+      displayTags: true
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+  navbar:
+    displayLogo: false

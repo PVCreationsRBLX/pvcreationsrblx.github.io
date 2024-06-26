@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PV Creations – Furniture</title>
+    <link>http://localhost:1313/docs/roblox/furniture/</link>
+    <description>Recent content in Furniture on PV Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jun 2024 16:10:56 -0700</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/roblox/furniture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Lounge chairs</title>
+      <link>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</link>
+      <pubDate>Tue, 25 Jun 2024 16:21:19 -0700</pubDate>
+      
+      <guid>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Flourish II</title>
+      <link>http://localhost:1313/docs/roblox/furniture/flourish_2/</link>
+      <pubDate>Tue, 25 Jun 2024 16:21:04 -0700</pubDate>
+      
+      <guid>http://localhost:1313/docs/roblox/furniture/flourish_2/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Apex Desks</title>
+      <link>http://localhost:1313/docs/roblox/furniture/apex_desks/</link>
+      <pubDate>Tue, 25 Jun 2024 16:21:11 -0700</pubDate>
+      
+      <guid>http://localhost:1313/docs/roblox/furniture/apex_desks/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

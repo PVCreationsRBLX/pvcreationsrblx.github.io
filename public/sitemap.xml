@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</loc>
+    <lastmod>2024-06-25T16:21:19-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/roblox/fire_alarms/</loc>
+    <lastmod>2024-06-25T16:08:23-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/roblox/</loc>
     <lastmod>2024-06-13T14:02:51-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/roblox/exceder_led3/</loc>
+    <loc>http://localhost:1313/docs/roblox/fire_alarms/exceder_led3/</loc>
     <lastmod>2024-06-13T13:27:02-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/roblox/furniture/flourish_2/</loc>
+    <lastmod>2024-06-25T16:21:04-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/roblox/furniture/</loc>
+    <lastmod>2024-06-25T16:10:56-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/ets2_ats/</loc>
     <lastmod>2024-06-13T14:10:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/roblox/exceder_xe/</loc>
+    <loc>http://localhost:1313/docs/roblox/fire_alarms/exceder_xe/</loc>
     <lastmod>2024-06-13T13:26:56-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/roblox/lseries/</loc>
+    <loc>http://localhost:1313/docs/roblox/furniture/apex_desks/</loc>
+    <lastmod>2024-06-25T16:21:11-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/roblox/misc/</loc>
+    <lastmod>2024-06-25T16:11:04-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/roblox/fire_alarms/lseries/</loc>
     <lastmod>2024-06-12T16:05:20-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/roblox/truealert/</loc>
+    <loc>http://localhost:1313/docs/roblox/fire_alarms/truealert/</loc>
     <lastmod>2024-06-13T12:35:55-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/roblox/mt4/</loc>
+    <loc>http://localhost:1313/docs/roblox/fire_alarms/mt4/</loc>
     <lastmod>2024-06-12T17:02:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/links/</loc>
