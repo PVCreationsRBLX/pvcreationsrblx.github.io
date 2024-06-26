@@ -19,7 +19,11 @@ All PVC assets for the Roblox platform.
 
 ## Furniture
 
-WIP
+{{< cards >}}
+    {{< card link="furniture/lounge_chairs" title="Lounge Chairs" >}}
+    {{< card link="furniture/flourish_2" title="Flourish II" >}}
+    {{< card link="furniture/apex_desks" title="Apex! Desks" >}}
+{{< /cards >}}
 
 ## Misc
 

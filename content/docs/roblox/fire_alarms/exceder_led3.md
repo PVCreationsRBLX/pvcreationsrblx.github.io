@@ -22,6 +22,8 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 ## Contents
 
+A total of 106 devices are included.
+
 ### Fire
 
 ### Plain
