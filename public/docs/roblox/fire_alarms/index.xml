@@ -24,7 +24,8 @@
       <description>
         
         
-        &lt;p&gt;The &lt;strong&gt;Wheelock Exceder LED3&lt;/strong&gt; collection is PVC&amp;rsquo;s very first – and largest. It was first released in January 2019, with a remastered version releasing in 2021, consisting of completely remodeled wall-mount devices among other updates. Not to mention lower poly count – that&amp;rsquo;s always nice!&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/images/main_led3.webp&#34; alt=&#34;LED3 Main&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Wheelock Exceder LED3&lt;/strong&gt; collection is PVC&amp;rsquo;s very first – and largest. It was first released in January 2019, with a remastered version releasing in 2021, consisting of completely remodeled wall-mount devices among other updates. Not to mention lower poly count – that&amp;rsquo;s always nice!&lt;/p&gt;
 &lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
     &lt;a
@@ -44,9 +45,192 @@
 &lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of 106 devices are included.&lt;/p&gt;
 &lt;h3&gt;Fire&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;fire&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#fire&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Plain&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;plain&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#plain&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;General notification&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;general-notification&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#general-notification&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#fire&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Red&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#red&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHSR3&lt;/strong&gt; – wall-mount combination horn/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSRC3&lt;/strong&gt; – ceiling-mount combination horn/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTR3&lt;/strong&gt; – wall-mount strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTRC3&lt;/strong&gt; – ceiling-mount strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPKR&lt;/strong&gt; – wall-mount speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTR3&lt;/strong&gt; – wall-mount combination speaker/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTRC3&lt;/strong&gt; – ceiling-mount combination speaker/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHNKR3&lt;/strong&gt; – wall-mount low-frequency sounder&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSKR3&lt;/strong&gt; – wall-mount combination low-frequency sounder/110 cd strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSHR3&lt;/strong&gt; – wall-mount combination low-frequency sounder/177 cd strobe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;White&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;white&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#white&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHSW3&lt;/strong&gt; – wall-mount combination horn/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSWC3&lt;/strong&gt; – ceiling-mount combination horn/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTW3&lt;/strong&gt; – wall-mount strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTWC3&lt;/strong&gt; – ceiling-mount strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPKW&lt;/strong&gt; – wall-mount speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTW3&lt;/strong&gt; – wall-mount combination speaker/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTWC3&lt;/strong&gt; – ceiling-mount combination speaker/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHNKW3&lt;/strong&gt; – wall-mount low-frequency sounder&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSKW3&lt;/strong&gt; – wall-mount combination low-frequency sounder/110 cd strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSHW3&lt;/strong&gt; – wall-mount combination low-frequency sounder/177 cd strobe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;General notification&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;general-notification&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general-notification&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Red; plain&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red-plain&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#red-plain&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHNR3&lt;/strong&gt; – wall-mount horn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHNRC3&lt;/strong&gt; – ceiling-mount horn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSR3-N&lt;/strong&gt; – wall-mount combination horn/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSRC3-N&lt;/strong&gt; – ceiling-mount combination horn/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHSRC3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSRC3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTR3-N&lt;/strong&gt; – wall-mount strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSTR3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTR3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTRC3-N&lt;/strong&gt; – ceiling-mount strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSTRC3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTRC3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPKR-N&lt;/strong&gt; – wall-mount speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPKRC&lt;/strong&gt; – ceiling-mount speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTR3-N&lt;/strong&gt; – wall-mount combination speaker/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTR3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTR3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTRC3-N&lt;/strong&gt; – ceiling-mount combination speaker/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTRC3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTRC3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHNKR3-N&lt;/strong&gt; – wall-mount low-frequency sounder&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSKR3-N&lt;/strong&gt; – wall-mount combination low-frequency sounder/110 cd strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSHR3-N&lt;/strong&gt; – wall-mount combination low-frequency sounder/177 cd strobe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;White; plain&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;white-plain&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#white-plain&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHNW3&lt;/strong&gt; – wall-mount horn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHNWC3&lt;/strong&gt; – ceiling-mount horn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSW3-N&lt;/strong&gt; – wall-mount combination horn/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSWC3-N&lt;/strong&gt; – ceiling-mount combination horn/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHSWC3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSWC3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTW3-N&lt;/strong&gt; – wall-mount strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSTW3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTW3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTWC3-N&lt;/strong&gt; – ceiling-mount strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSTWC3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTWC3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPKW-N&lt;/strong&gt; – wall-mount speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPKWC&lt;/strong&gt; – ceiling-mount speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTW3-N&lt;/strong&gt; – wall-mount combination speaker/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTW3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTW3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTWC3-N&lt;/strong&gt; – ceiling-mount combination speaker/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTWC3-NA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTWC3-NB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHNKW3-N&lt;/strong&gt; – wall-mount low-frequency sounder&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSKW3-N&lt;/strong&gt; – wall-mount combination low-frequency sounder/110 cd strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSHW3-N&lt;/strong&gt; – wall-mount combination low-frequency sounder/177 cd strobe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Red; ALERT&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red-alert&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#red-alert&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHSR3-AL&lt;/strong&gt; – wall-mount combination horn/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSRC3-AL&lt;/strong&gt; – ceiling-mount combination horn/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHSRC3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSRC3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTR3-AL&lt;/strong&gt; – wall-mount strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSTR3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTR3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTRC3-AL&lt;/strong&gt; – ceiling-mount strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSTRC3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTRC3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPKR-AL&lt;/strong&gt; – wall-mount speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTR3-AL&lt;/strong&gt; – wall-mount combination speaker/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTR3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTR3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTRC3-AL&lt;/strong&gt; – ceiling-mount combination speaker/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTRC3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTRC3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHNKR3-AL&lt;/strong&gt; – wall-mount low-frequency sounder&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSKR3-AL&lt;/strong&gt; – wall-mount combination low-frequency sounder/110 cd strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSHR3-AL&lt;/strong&gt; – wall-mount combination low-frequency sounder/177 cd strobe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;White; ALERT&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;white-alert&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#white-alert&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHSW3-AL&lt;/strong&gt; – wall-mount combination horn/strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSWC3-AL&lt;/strong&gt; – ceiling-mount combination horn/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LHSWC3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LHSWC3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTW3-AL&lt;/strong&gt; – wall-mount strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSTW3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTW3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTWC3-AL&lt;/strong&gt; – ceiling-mount strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSTWC3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSTWC3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPKW-AL&lt;/strong&gt; – wall-mount speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTW3-AL&lt;/strong&gt; – wall-mount combination speaker/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTW3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTW3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTWC3-AL&lt;/strong&gt; – ceiling-mount combination speaker/strobe
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTWC3-ALA&lt;/strong&gt; – with amber lens&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LSPSTWC3-ALB&lt;/strong&gt; – with blue lens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHNKW3-AL&lt;/strong&gt; – wall-mount low-frequency sounder&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSKW3-AL&lt;/strong&gt; – wall-mount combination low-frequency sounder/110 cd strobe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LFHSHW3-AL&lt;/strong&gt; – wall-mount combination low-frequency sounder/177 cd strobe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
 &lt;/ul&gt;
@@ -303,6 +487,28 @@
 &lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt;: 23.07 (4 July 2023)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 23.07 (4 July 2023)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2&gt;Strobe intensities&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;strobe-intensities&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#strobe-intensities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Strobe type&lt;/th&gt;
+&lt;th&gt;Options&lt;/th&gt;
+&lt;th&gt;Models&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Regular intensity&lt;/td&gt;
+&lt;td&gt;15/30/75/110 cd&lt;/td&gt;
+&lt;td&gt;9101, 9103, 9127, 9129, 9133, 9134, 9151, 9153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;High intensity&lt;/td&gt;
+&lt;td&gt;135/177/185 cd&lt;/td&gt;
+&lt;td&gt;9109, 9111, 9139, 9141&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The pack contains sixteen wall-mount devices. High-intensity models feature 135/177/185 cd strobe options, whereas regular-intensity models feature 15/30/75/110 cd strobe options.&lt;/p&gt;
 &lt;h3&gt;Red&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red&#34;&gt;&lt;/span&gt;

@@ -18,6 +18,12 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 * **First release**: 23.07 (4 July 2023)
 * **Latest release**: 23.07 (4 July 2023)
 
+## Strobe intensities
+| Strobe type       | Options         | Models |
+| --------          | -------         | -------         | 
+| Regular intensity | 15/30/75/110 cd | 9101, 9103, 9127, 9129, 9133, 9134, 9151, 9153 |
+| High intensity    | 135/177/185 cd  | 9109, 9111, 9139, 9141 |
+
 ## Contents
 The pack contains sixteen wall-mount devices. High-intensity models feature 135/177/185 cd strobe options, whereas regular-intensity models feature 15/30/75/110 cd strobe options.
 
