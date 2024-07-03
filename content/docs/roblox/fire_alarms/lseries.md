@@ -5,6 +5,8 @@ draft = false
 weight = 3
 +++
 
+![L-Series Main](images/main_lseries.webp)
+
 The **System Sensor L-Series** collection is PVC's most popular. It was first released in October 2019. The collection contains 48 devices.
 
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
