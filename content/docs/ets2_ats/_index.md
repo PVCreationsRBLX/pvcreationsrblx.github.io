@@ -1,7 +1,7 @@
 +++
 title = 'ETS2/ATS'
 date = 2024-06-13T14:10:37-07:00
-draft = true
+draft = false
 weight = 2
 +++
 
@@ -34,10 +34,3 @@ Tested with ETS2 version 1.50 (**minimum required version**).
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing" icon="googledrive" title="Download" subtitle="Google Drive; .scs; 16 KiB" >}}
 {{< /cards >}}
-
-### Actros Black Edition for Quick Jobs
-This mod adds Dotec's Actros MP2 Black Edition to the Quick Job truck pool. I primarily made this for myself because I was too impatient to get to level 50 in order to hear that beautiful bi-turbo V8! I'm pretty sure my original ETS2 profile has been screwed ever since 1.40 came out, so I haven't touched it since. The MP2 Black Edition is already available in the Truck Dealer, so this mod was incredibly easy to make.
-
-**[Dotec's Mercedes-Benz Actros MP2](https://forum.scssoft.com/viewtopic.php?t=289988) is required,** for obvious reasons.
-
-Tested with ETS2 version 1.49, but works without issues with version 1.50.
