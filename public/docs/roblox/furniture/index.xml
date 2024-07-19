@@ -16,19 +16,6 @@
     
     
     <item>
-      <title>Lounge chairs</title>
-      <link>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</link>
-      <pubDate>Tue, 25 Jun 2024 16:21:19 -0700</pubDate>
-      
-      <guid>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Flourish II</title>
       <link>http://localhost:1313/docs/roblox/furniture/flourish_2/</link>
       <pubDate>Tue, 25 Jun 2024 16:21:04 -0700</pubDate>
@@ -37,20 +24,29 @@
       <description>
         
         
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Apex! Desks</title>
-      <link>http://localhost:1313/docs/roblox/furniture/apex_desks/</link>
-      <pubDate>Tue, 25 Jun 2024 16:21:11 -0700</pubDate>
-      
-      <guid>http://localhost:1313/docs/roblox/furniture/apex_desks/</guid>
-      <description>
-        
-        
-        
+        &lt;p&gt;&lt;strong&gt;Flourish II&lt;/strong&gt; – also known as &lt;strong&gt;Flourish 2&lt;/strong&gt; or &lt;strong&gt;Flourish Deux&lt;/strong&gt; – the successor to the legendary Flourish collection first introduced in 2015.&lt;/p&gt;
+&lt;p&gt;I had worked on Flourish II sporadically between August 2022 and May 2023 (lack of time :P), and while I think the original Flourish series aged quite well for an 8-year-old design – better than a lot of my older (and even some newer) furniture designs – but after a while, I felt it was time for its successor.&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+    &lt;a
+      class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://create.roblox.com/store/asset/13309315255/&#34;
+        target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;m13.936 15.356l-12.11-3.244L0 18.93L18.928 24l2.68-9.99l-6.818-1.83zM5.072 0L2.394 9.992l6.816 1.83l.854-3.178l12.11 3.246L24 5.072z&#34;/&gt;&lt;/svg&gt;Roblox Creator Store&lt;/span&gt;&lt;/a&gt;
+    &lt;a
+      class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://ko-fi.com/s/f4ee28d6f3&#34;
+        target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.023 11.966-.049c2.438-.426 2.683-2.566 2.658-3.734c4.352.24 7.422-2.831 6.649-6.916m-11.062 3.511c-1.246 1.453-4.011 3.976-4.011 3.976s-.121.119-.31.023c-.076-.057-.108-.09-.108-.09c-.443-.441-3.368-3.049-4.034-3.954c-.709-.965-1.041-2.7-.091-3.71c.951-1.01 3.005-1.086 4.363.407c0 0 1.565-1.782 3.468-.963s1.832 3.011.723 4.311m6.173.478c-.928.116-1.682.028-1.682.028V7.284h1.77s1.971.551 1.971 2.638c0 1.913-.985 2.667-2.059 3.015&#34;/&gt;&lt;/svg&gt;Ko-fi Shop&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Details&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;details&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt;: 23.05 (13 May 2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 23.05 (13 May 2023)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of 10 chairs are available.&lt;/p&gt;
+&lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     

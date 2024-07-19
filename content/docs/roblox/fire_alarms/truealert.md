@@ -48,4 +48,4 @@ The pack contains sixteen wall-mount devices. High-intensity models feature 135/
 * **4906-9153** – combination speaker/strobe, regular intensity
 
 ## Known issues
-* (applies to all alarms excluding the [MT4 pack](../mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0` or continuous.
+* (applies to all alarms excluding the [MT4](../mt4) and [L-Series](../lseries) packs) Strobes will only flash once on continuous visual circuits.

@@ -7,7 +7,7 @@ weight = 3
 
 ![L-Series Main](/images/main_lseries.webp)
 
-The **System Sensor L-Series** collection is PVC's most popular. It was first released in October 2019. The collection contains 48 devices.
+The **System Sensor L-Series** collection is PVC's most popular. It was first released in October 2019. The collection contains 58 devices.
 
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
 
@@ -19,10 +19,10 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 ## Details
 * **First release** (overall): Alpha 1 (25 October 2019)
 * **First release** (PVC): 21.07 (1 July 2021)
-* **Latest release**: 24.01 (24 January 2024)
+* **Latest release**: 24.07 (5 July 2024)
 
 ## Contents
-A total of 48 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.
+A total of 58 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.
 
 ### Fire
 #### Red
@@ -46,6 +46,21 @@ A total of 48 wall- and ceiling-mounted, indoor-rated alarm appliances are inclu
 * **SCWL** – ceiling-mount strobe with FIRE lettering
 * **SPSWL** – wall-mount combination speaker/strobe with FIRE lettering
 * **SPSCWL** – ceiling-mount combination speaker/strobe with FIRE lettering
+
+### Fuego (Spanish)
+#### Red
+* **P2RL-SP** – full-width wall-mount combination horn/strobe with FUEGO lettering
+* **P2GRL-SP** – single-gang wall-mount combination horn/strobe with FUEGO lettering
+* **SRL-SP** – full-width wall-mount strobe with FUEGO lettering
+* **SGRL-SP** – single-gang wall-mount strobe with FUEGO lettering
+* **SPSRL-SP** – wall-mount combination speaker/strobe with FUEGO lettering
+
+#### White
+* **P2WL-SP** – full-width wall-mount combination horn/strobe with FUEGO lettering
+* **P2GWL-SP** – single-gang wall-mount combination horn/strobe with FUEGO lettering
+* **SWL-SP** – full-width wall-mount strobe with FUEGO lettering
+* **SGWL-SP** – single-gang wall-mount strobe with FUEGO lettering
+* **SPSWL-SP** – wall-mount combination speaker/strobe with FUEGO lettering
 
 ### Unmarked
 While not having label decals, the label parts weren't removed, allowing you to easily add labels to them if you want.
@@ -87,4 +102,4 @@ While not having label decals, the label parts weren't removed, allowing you to 
 * **SPSWL-CLR-ALERT** – ceiling-mount combination speaker/strobe with clear lens and ALERT lettering
 
 ## Known issues
-* (applies to all alarms excluding the [MT4 pack](../mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0` or continuous. 
+* None

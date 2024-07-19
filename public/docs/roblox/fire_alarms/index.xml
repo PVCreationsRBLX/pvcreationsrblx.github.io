@@ -24,8 +24,7 @@
       <description>
         
         
-        &lt;p&gt;
-    &lt;img src=&#34;../images/main_led3.webp&#34; alt=&#34;LED3 Main&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/main_led3.webp&#34; alt=&#34;LED3 Main&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;Wheelock Exceder LED3&lt;/strong&gt; collection is PVC&amp;rsquo;s very first – and largest. It was first released in January 2019, with a remastered version releasing in 2021, consisting of completely remodeled wall-mount devices among other updates. Not to mention lower poly count – that&amp;rsquo;s always nice!&lt;/p&gt;
 &lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
@@ -233,7 +232,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
+&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4&lt;/a&gt; and &lt;a href=&#34;../lseries&#34; &gt;L-Series&lt;/a&gt; packs) Strobes will only flash once on continuous visual circuits.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -354,7 +353,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
+&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4&lt;/a&gt; and &lt;a href=&#34;../lseries&#34; &gt;L-Series&lt;/a&gt; packs) Strobes will only flash once on continuous visual circuits.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -369,9 +368,8 @@
       <description>
         
         
-        &lt;p&gt;
-    &lt;img src=&#34;../images/main_lseries.webp&#34; alt=&#34;L-Series Main&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;System Sensor L-Series&lt;/strong&gt; collection is PVC&amp;rsquo;s most popular. It was first released in October 2019. The collection contains 48 devices.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/main_lseries.webp&#34; alt=&#34;L-Series Main&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;System Sensor L-Series&lt;/strong&gt; collection is PVC&amp;rsquo;s most popular. It was first released in October 2019. The collection contains 58 devices.&lt;/p&gt;
 &lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
     &lt;a
@@ -386,10 +384,10 @@
     &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt; (overall): Alpha 1 (25 October 2019)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt; (PVC): 21.07 (1 July 2021)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 24.01 (24 January 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 24.07 (5 July 2024)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of 48 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.&lt;/p&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of 58 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.&lt;/p&gt;
 &lt;h3&gt;Fire&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;fire&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#fire&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Red&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#red&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
@@ -415,10 +413,27 @@
 &lt;li&gt;&lt;strong&gt;SPSWL&lt;/strong&gt; – wall-mount combination speaker/strobe with FIRE lettering&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SPSCWL&lt;/strong&gt; – ceiling-mount combination speaker/strobe with FIRE lettering&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Fuego (Spanish)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;fuego-spanish&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#fuego-spanish&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Red&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#red-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;P2RL-SP&lt;/strong&gt; – full-width wall-mount combination horn/strobe with FUEGO lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;P2GRL-SP&lt;/strong&gt; – single-gang wall-mount combination horn/strobe with FUEGO lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SRL-SP&lt;/strong&gt; – full-width wall-mount strobe with FUEGO lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SGRL-SP&lt;/strong&gt; – single-gang wall-mount strobe with FUEGO lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SPSRL-SP&lt;/strong&gt; – wall-mount combination speaker/strobe with FUEGO lettering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;White&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;white-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#white-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;P2WL-SP&lt;/strong&gt; – full-width wall-mount combination horn/strobe with FUEGO lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;P2GWL-SP&lt;/strong&gt; – single-gang wall-mount combination horn/strobe with FUEGO lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SWL-SP&lt;/strong&gt; – full-width wall-mount strobe with FUEGO lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SGWL-SP&lt;/strong&gt; – single-gang wall-mount strobe with FUEGO lettering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SPSWL-SP&lt;/strong&gt; – wall-mount combination speaker/strobe with FUEGO lettering&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;Unmarked&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;unmarked&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#unmarked&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;While not having label decals, the label parts weren&amp;rsquo;t removed, allowing you to easily add labels to them if you want.&lt;/p&gt;
-&lt;h4&gt;Red&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#red-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;h4&gt;Red&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;red-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#red-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;CHRL&lt;/strong&gt; – full-width wall-mount chime&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;CHSRL&lt;/strong&gt; – full-width wall-mount combination chime/strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;CHSCRL&lt;/strong&gt; – ceiling-mount combination chime/strobe&lt;/li&gt;
@@ -432,8 +447,8 @@
 &lt;li&gt;&lt;strong&gt;SPSRL-P&lt;/strong&gt; – wall-mount combination speaker/strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SPSCRL-P&lt;/strong&gt; – ceiling mount combination speaker/strobe&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;White&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;white-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#white-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;h4&gt;White&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;white-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#white-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;CHWL&lt;/strong&gt; – full-width wall-mount chime&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;CHSWL&lt;/strong&gt; – full-width wall-mount combination chime/strobe&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;CHSCWL&lt;/strong&gt; – ceiling-mount combination chime/strobe&lt;/li&gt;
@@ -459,7 +474,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
+&lt;li&gt;None&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -538,7 +553,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Known issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4 pack&lt;/a&gt;) Strobes will only flash once if the parent NAC&amp;rsquo;s &lt;code&gt;VisualCoding&lt;/code&gt; is set to &lt;code&gt;0&lt;/code&gt; or continuous.&lt;/li&gt;
+&lt;li&gt;(applies to all alarms excluding the &lt;a href=&#34;../mt4&#34; &gt;MT4&lt;/a&gt; and &lt;a href=&#34;../lseries&#34; &gt;L-Series&lt;/a&gt; packs) Strobes will only flash once on continuous visual circuits.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -569,6 +584,29 @@
 &lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt;: 24.04 (24 April 2024)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 24.05 (27 May 2024)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2&gt;Strobe intensities&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;strobe-intensities&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#strobe-intensities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Strobe type&lt;/th&gt;
+&lt;th&gt;Intensity&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;WH, LS&lt;/td&gt;
+&lt;td&gt;15 cd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MS&lt;/td&gt;
+&lt;td&gt;30 cd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IS&lt;/td&gt;
+&lt;td&gt;75 cd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of five wall-mount devices are included.&lt;/p&gt;
 &lt;ul&gt;

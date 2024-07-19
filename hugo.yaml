@@ -32,7 +32,7 @@ menu:
         icon: roblox
     - name: PV Creations Discord server
       weight: 6
-      url: "https://discord.com/invite/kFckVRv56b"
+      url: "https://discord.gg/kFckVRv56b"
       params:
         icon: discord
     - name: PV Creations on X

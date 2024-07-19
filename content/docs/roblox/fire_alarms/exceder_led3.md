@@ -156,4 +156,4 @@ A total of 106 devices are included.
 * **LFHSHW3-AL** – wall-mount combination low-frequency sounder/177 cd strobe
 
 ## Known issues
-* (applies to all alarms excluding the [MT4 pack](../mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0` or continuous.
+* (applies to all alarms excluding the [MT4](../mt4) and [L-Series](../lseries) packs) Strobes will only flash once on continuous visual circuits.

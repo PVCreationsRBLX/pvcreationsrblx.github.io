@@ -92,4 +92,4 @@ A total of 43 devices are included in this collection. This is one of two PVC fi
     * **STWC-ALA** – with amber lens
 
 ## Known issues
-* (applies to all alarms excluding the [MT4 pack](../mt4)) Strobes will only flash once if the parent NAC's `VisualCoding` is set to `0` or continuous. 
+* (applies to all alarms excluding the [MT4](../mt4) and [L-Series](../lseries) packs) Strobes will only flash once on continuous visual circuits.
