@@ -22,11 +22,13 @@ Questions? Comments? Want to report an issue with the site? Feel free to leave y
 
 ## Supporting PV Creations
 
-PV Creations accepts donations!
+If you appreciate PV Creations' work, please consider donating!
 
 {{<cards>}}
     {{<card link="https://ko-fi.com/pvcreations" icon="kofi" title="Donate via Ko-fi">}}
 {{</cards>}}
+
+If you are unable to donate, simply using PVC assets and spreading the word helps a lot!
 
 ## Thanks
 

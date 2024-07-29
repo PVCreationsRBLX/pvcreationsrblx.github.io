@@ -9,7 +9,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 
 ## Installing ETS2/ATS mods
 
- Save to your respective mods folder. This is usually in `C:\Users\<your name>\Documents\<game>\mod` for Windows, `~/Library/Application Support/<game>/mod` for macOS, or ` ~/".local/share/<game>/mod"` for Linux. This guide applies to most SCS games with modding support.
+ Save to your respective mods folder. This is usually in `C:\Users\<your name>\Documents\<game>\mod` for Windows, `~/Library/Application Support/<game>/mod` for macOS, or ` ~/".local/share/<game>/mod"` for Linux. This applies to most SCS games with modding support.
 
  **American Truck Simulator and Euro Truck Simulator 2 treat .zip files and .scs files equally, so unless mod instructions say otherwise, .zip mods should not be extracted.**
 
@@ -27,7 +27,9 @@ Tested with ATS version 1.46 (**minimum required version**), but works without i
 
 ### Buyable E-Tech T
 
-This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck created such a mod. 
+This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck had already created such a mod.
+
+The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer.
 
 Tested with ETS2 version 1.50 (**minimum required version**).
 
