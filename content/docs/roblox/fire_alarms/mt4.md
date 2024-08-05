@@ -16,7 +16,7 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 ## Details
 * **First release**: 24.04 (24 April 2024)
-* **Latest release**: 24.05 (27 May 2024)
+* **Latest release**: 24.08 (4 August 2024)
 
 ## Strobe intensities
 | Strobe type       | Intensity       |
