@@ -16,6 +16,19 @@
     
     
     <item>
+      <title>Lounge chairs</title>
+      <link>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</link>
+      <pubDate>Tue, 25 Jun 2024 16:21:19 -0700</pubDate>
+      
+      <guid>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Flourish II</title>
       <link>http://localhost:1313/docs/roblox/furniture/flourish_2/</link>
       <pubDate>Tue, 25 Jun 2024 16:21:04 -0700</pubDate>
@@ -59,7 +72,7 @@
       <description>
         
         
-        &lt;p&gt;&lt;strong&gt;Apex&lt;/strong&gt; – a desk set designed to complement the &lt;a href=&#34;../flourish_2&#34; &gt;Flourish II&lt;/a&gt; chair set.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Apex&lt;/strong&gt; – a desk set designed to complement the &lt;a href=&#34;../flourish_2&#34; &gt;Flourish II&lt;/a&gt; chairs.&lt;/p&gt;
 &lt;p&gt;I started working on Apex in early 2023 and released in the middle of that year.&lt;/p&gt;
 &lt;p&gt;Largely inspired by the &lt;a href=&#34;https://smithsystem.com/lines/silhouette/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silhouette&lt;/a&gt; series by Smith System, Apex features three book box options, two height options, two width options, and two surface options. All versions are also height-adjustable, although they can only be adjusted in Studio for the time being. Since Release 23.09, all versions of Apex support the use of SurfaceAppearance.&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;

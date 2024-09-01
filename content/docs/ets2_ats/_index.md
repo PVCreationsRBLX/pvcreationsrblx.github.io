@@ -9,7 +9,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 
 ## Installing ETS2/ATS mods
 
- Save to your respective mods folder. This is usually in `C:\Users\<your name>\Documents\<game>\mod` for Windows, `~/Library/Application Support/<game>/mod` for macOS, or ` ~/".local/share/<game>/mod"` for Linux. This applies to most SCS games with modding support.
+ Save to your respective mods folder. This is usually in `C:\Users\<your name>\Documents\<game>\mod` for Windows, `~/Library/Application Support/<game>/mod` for macOS, or ` ~/".local/share/<game>/mod"` for Linux. This applies to most moddable SCS games.
 
  **American Truck Simulator and Euro Truck Simulator 2 treat .zip files and .scs files equally, so unless mod instructions say otherwise, .zip mods should not be extracted.**
 
@@ -22,7 +22,8 @@ This mod changes the indicator and brake pressure warning sound effects for SCS'
 Tested with ATS version 1.46 (**minimum required version**), but works without issues with version 1.50.
 
 {{< cards >}}
-    {{< card link="https://drive.google.com/file/d/1hBxZltRKGQCcrIGOHGVYLnJuGlkK1m2r/view?usp=sharing" icon="googledrive" title="Download" subtitle="Google Drive; .scs; 275 KiB" >}}
+    {{< card link="https://drive.google.com/file/d/1hBxZltRKGQCcrIGOHGVYLnJuGlkK1m2r/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
+    {{< card link="https://truckymods.io/american-truck-simulator/sound/western-star-5700xe-sfx-patch" icon="" title="TruckyMods" >}}
 {{< /cards >}}
 
 ### Buyable E-Tech T
@@ -34,5 +35,5 @@ The config also uses the less powerful 330 kW "engine" option so you don't need 
 Tested with ETS2 version 1.50 (**minimum required version**).
 
 {{< cards >}}
-    {{< card link="https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing" icon="googledrive" title="Download" subtitle="Google Drive; .scs; 16 KiB" >}}
+    {{< card link="https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
 {{< /cards >}}

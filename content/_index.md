@@ -14,7 +14,7 @@ This site is a **work in progress**!
 
 ## About this site
 
-This website is designed to be a reference for all things PV Creations. It's going to be quite detailed, containing tidbits about a lot of things that probably wouldn't fit elsewhere.
+This website is intended to serve as a reference for all things PV Creations. It's going to be quite detailed, containing tidbits about a lot of things that wouldn't fit elsewhere.
 
 ## Feedback
 

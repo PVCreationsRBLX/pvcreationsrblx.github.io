@@ -5,7 +5,7 @@ draft = false
 weight = 3
 +++
 
-**Apex** – a desk set designed to complement the [Flourish II](../flourish_2) chair set.
+**Apex** – a desk set designed to complement the [Flourish II](../flourish_2) chairs.
 
 I started working on Apex in early 2023 and released in the middle of that year.
 
