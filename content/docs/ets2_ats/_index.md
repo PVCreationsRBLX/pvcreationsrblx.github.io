@@ -16,7 +16,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 ## Mods
 
 {{<callout type="warning">}}
-**IMPORTANT:** As of 10 September 2024, American Truck Simulator has been updated to version 1.51. None of the mods have been tested with the new version, but unless SCS has changed anything regarding what they affect, they *should* still work with it. That being said, use them at your own risk.
+**IMPORTANT:** As of 12 September 2024, American Truck Simulator and Euro Truck Simulator 2 have been updated to version 1.51. None of my mods have been tested with the new version, but unless SCS has changed anything regarding what they affect, they *should* still work with it. That being said, use them at your own risk.
 
 If you are running mods that are extremely version-sensitive, such as map mods, you should remain on 1.50 until they have been updated.
 {{</callout>}}
