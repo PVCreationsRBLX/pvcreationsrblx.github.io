@@ -9,4 +9,5 @@ weight = 2
     {{< card link="lounge_chairs" title="Lounge Chairs" >}}
     {{< card link="flourish_2" title="Flourish II" >}}
     {{< card link="apex_desks" title="Apex! Desks" >}}
+    {{< card link="legacy_seet" title="Legacy" >}}
 {{< /cards >}}

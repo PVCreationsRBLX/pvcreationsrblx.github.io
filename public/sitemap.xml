@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/guides/setattribute/</loc>
+    <lastmod>2024-09-05T21:14:17-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</loc>
     <lastmod>2024-06-25T16:21:19-07:00</lastmod>
   </url><url>
@@ -26,6 +29,9 @@
     <loc>http://localhost:1313/docs/roblox/fire_alarms/exceder_xe/</loc>
     <lastmod>2024-06-13T13:26:56-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/guides/</loc>
+    <lastmod>2024-09-05T05:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/roblox/furniture/apex_desks/</loc>
     <lastmod>2024-06-25T16:21:11-07:00</lastmod>
   </url><url>
@@ -40,9 +46,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/roblox/fire_alarms/mt4/</loc>
     <lastmod>2024-06-12T17:02:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/guides/guides/setattribute/</loc>
-    <lastmod>2024-09-05T21:14:17-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2024-07-05T16:41:49-07:00</lastmod>

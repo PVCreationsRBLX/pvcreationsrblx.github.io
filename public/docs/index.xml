@@ -35,7 +35,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Already have these? Skip to the &lt;a href=&#34;#setting-an-attribute&#34; &gt;main section&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This guide assumes you are not enrolled in the &lt;a href=&#34;https://devforum.roblox.com/t/next-gen-studio-ui-preview-is-here-beta/3075390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Next Generation Studio Preview beta&lt;/a&gt;, but if you are, the instructions here should be mostly similar.&lt;/p&gt;
+&lt;p&gt;Already have these? Skip to the &lt;a href=&#34;#setting-an-attribute&#34; &gt;main section&lt;/a&gt;.&lt;/p&gt;
 &lt;h3&gt;To toggle the Object Explorer panel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;to-toggle-the-object-explorer-panel&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#to-toggle-the-object-explorer-panel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;On the ribbon, in the &lt;strong&gt;View&lt;/strong&gt; group, click the &lt;strong&gt;Explorer&lt;/strong&gt; button. Alternatively, you can press Alt+X (Windows) or Option+X (macOS).&lt;/li&gt;
@@ -300,8 +301,9 @@
       <description>
         
         
-        &lt;p&gt;&lt;strong&gt;Flourish II&lt;/strong&gt; – also known as &lt;strong&gt;Flourish 2&lt;/strong&gt; or &lt;strong&gt;Flourish Deux&lt;/strong&gt; – the successor to the legendary Flourish collection first introduced in 2015.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Flourish II&lt;/strong&gt; – also known as &lt;strong&gt;Flourish 2&lt;/strong&gt;, &lt;strong&gt;Flourish Series 2&lt;/strong&gt;, or &lt;strong&gt;Flourish Deux&lt;/strong&gt; – the successor to the legendary Flourish collection first introduced in early 2015 (15 March 2015 to be exact). Its release date was &lt;em&gt;not&lt;/em&gt; coincidental.&lt;/p&gt;
 &lt;p&gt;I had worked on Flourish II sporadically between August 2022 and May 2023 (lack of time :P), and while I think the original Flourish series aged quite well for an 8-year-old design – better than a lot of my older (and even some newer) furniture designs – but after a while, I felt it was time for its successor.&lt;/p&gt;
+&lt;p&gt;The original Flourish was heavily inspired by Artcobell&amp;rsquo;s Alphabet and HON&amp;rsquo;s SmartLink lines, but Flourish II additionally takes inspiration from Virco&amp;rsquo;s Zuma and Parison lines.&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
     &lt;a
       class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://create.roblox.com/store/asset/13309315255/&#34;
@@ -313,8 +315,33 @@
 
 &lt;h2&gt;Details&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;details&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt;: 23.05 (13 May 2023)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: 23.05 (13 May 2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt;: &lt;a href=&#34;#version-2305-13-may-2023&#34; &gt;23.05&lt;/a&gt; (13 May 2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: &lt;a href=&#34;#version-2409-15-september-2024&#34; &gt;24.09&lt;/a&gt; (15 September 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changelog&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;changelog&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#changelog&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Version 24.09 (15 September 2024)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;version-2409-15-september-2024&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#version-2409-15-september-2024&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Added three new models, with or without cushions (total 16):
+&lt;ul&gt;
+&lt;li&gt;4-leg chair with casters&lt;/li&gt;
+&lt;li&gt;4-leg stool (Flourish I style) with casters&lt;/li&gt;
+&lt;li&gt;4-leg stool (HON® SmartLink style) with casters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fixed some instance names for consistency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Version 23.05 (13 May 2023)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;version-2305-13-may-2023&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#version-2305-13-may-2023&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;First version to be released to the public.&lt;/li&gt;
+&lt;li&gt;Includes five frame options, with or without cushions (total 10):
+&lt;ul&gt;
+&lt;li&gt;4-leg chair with glides&lt;/li&gt;
+&lt;li&gt;Cantilever chair&lt;/li&gt;
+&lt;li&gt;Sled-base chair&lt;/li&gt;
+&lt;li&gt;4-leg stool (Flourish I style) with glides&lt;/li&gt;
+&lt;li&gt;4-leg stool (HON® SmartLink style) with glides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of 10 chairs are available.&lt;/p&gt;
