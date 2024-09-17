@@ -25,10 +25,10 @@ The original Flourish was heavily inspired by Artcobell's Alphabet and HON's Sma
 
 ### Version 24.09 (15 September 2024)
 
-* Added three new models, with or without cushions (total 16):
+* Added three new models, with or without cushions (total 6):
     * 4-leg chair with casters
-    * 4-leg stool (Flourish I style) with casters
-    * 4-leg stool (HON&reg; SmartLink style) with casters
+    * 4-leg stool (Flourish I/Virco Sage-style) with casters
+    * 4-leg stool (HON&reg; SmartLink-style) with casters
 * Fixed some instance names for consistency
 
 ### Version 23.05 (13 May 2023)
