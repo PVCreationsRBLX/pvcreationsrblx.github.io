@@ -16,9 +16,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 ## Mods
 
 {{<callout type="warning">}}
-**IMPORTANT:** As of 12 September 2024, American Truck Simulator and Euro Truck Simulator 2 have been updated to version 1.51. None of my ETS2 mods have been tested with the new version, but unless SCS has changed anything regarding what they affect, their functionality should not be compromised. That being said, use them at your own risk.
-
-If you are running mods that are extremely version-sensitive, such as map mods, you should remain on 1.50 until they have been updated.
+**IMPORTANT:** As of 12 September 2024, American Truck Simulator and Euro Truck Simulator 2 have been updated to version 1.51. If you are using mods that are extremely version-sensitive, such as map mods, you should remain on 1.50 or, if you're playing on 1.51, deactivate them until they have been updated.
 {{</callout>}}
 
 ### Western Star 5700XE SFX Patch
@@ -40,7 +38,7 @@ This mod allows you to buy an E-Tech T of your own – or several, if you so des
 
 The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer.
 
-Tested with ETS2 version 1.50 (**minimum required version**).
+Tested with ETS2 version 1.50 (**minimum required version**) and works without issues with version 1.51.
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
