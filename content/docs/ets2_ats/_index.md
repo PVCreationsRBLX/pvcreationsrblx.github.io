@@ -34,6 +34,8 @@ Tested with ATS version 1.46 (**minimum required version**) and works without is
 
 ### Buyable E-Tech T
 
+![LED3 Main](/images/mod_etecht_buyable.webp)
+
 This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck had already created such a mod.
 
 The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer.
