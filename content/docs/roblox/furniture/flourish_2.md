@@ -9,7 +9,7 @@ weight = 2
 
 I had worked on Flourish II sporadically between August 2022 and May 2023 (lack of time :P), and while I think the original Flourish series aged quite well for an 8-year-old design – better than a lot of my older (and even some newer) furniture designs – but after a while, I felt it was time for its successor.
 
-The original Flourish was heavily inspired by Artcobell's Alphabet and HON's SmartLink lines, but Flourish II additionally takes inspiration from Virco's Zuma and Parison lines.
+The original Flourish was heavily inspired by Artcobell's Alphabet and HON's SmartLink lines, but Flourish II additionally takes inspiration from Virco's Civitas frame, which is used on the manufacturer's Analogy, Sage and ZUMA lines.
 
 {{< cards >}}
     {{< card link="https://create.roblox.com/store/asset/13309315255/" title="Roblox Creator Store" icon="robloxstudio" >}}
@@ -31,8 +31,8 @@ The original Flourish was heavily inspired by Artcobell's Alphabet and HON's Sma
 
 * Added three new models, with or without cushions (total 6):
     * 4-leg chair with casters
-    * 4-leg stool (Flourish I/Virco Sage-style) with casters
-    * 4-leg stool (HON&reg; SmartLink-style) with casters
+    * 4-leg stool (Flourish I/Virco Civitas-style) with casters
+    * 4-leg stool (HON SmartLink-style) with casters
 * Fixed some instance names for consistency
 
 ### Version 23.05 (13 May 2023)
@@ -42,8 +42,8 @@ The original Flourish was heavily inspired by Artcobell's Alphabet and HON's Sma
     * 4-leg chair with glides
     * Cantilever chair
     * Sled-base chair
-    * 4-leg stool (Flourish I style) with glides
-    * 4-leg stool (HON&reg; SmartLink style) with glides
+    * 4-leg stool (Flourish I/Virco Civitas-style) with glides
+    * 4-leg stool (HON SmartLink style) with glides
 
 ## Contents
 
