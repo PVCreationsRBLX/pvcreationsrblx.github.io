@@ -1,0 +1,48 @@
++++
+title = 'Legacy SEET'
+date = 2024-09-26T19:40:50-07:00
+draft = false
+weight = 999999
++++
+
+All legacy SEET products.
+
+## Impact
+
+The de-facto replacement for Intent. Released December 2017.
+
+## Intent
+
+Seemingly abstract block arrangements that don't seem to have done too well. Released January 2017.
+
+## Nova
+
+Chairs inspired by Allsteel's Seek line. I tried to be very quirky, which ultimately led to the failure of the first generation released in 2015. A second generation, dubbed **Nova2**, was released in 2017.
+
+## Consolidate
+
+Released in 2015.
+
+## Brillia
+
+Released in 2015, facelifted in December 2017 (or was it January 2018?) with **Brillia Series 1.5**. An upholstered variant was also introduced then.
+
+## Enrich
+
+Huh? Released in 2015.
+
+## Excel
+
+Chairs inspired by Allsteel's Take-5 line. Released in 2015.
+
+## Flourish I
+
+The venerable Flourish legacy series has cemented itself as SEET's quintessential product line (i.e. the one that's held up better than the rest). First released in 2015 with further variants being released up to 2018.
+
+## Explore
+
+Inspired by Artcobell's Discover series. Not very good. Released in 2015.
+
+## Hoist
+
+Released in 2014(?)
