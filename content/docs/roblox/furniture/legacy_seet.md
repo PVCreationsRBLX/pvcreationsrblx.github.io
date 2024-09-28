@@ -6,7 +6,7 @@ weight = 999999
 +++
 
 {{<callout type="warning">}}
-    The following items are considered **unsupported** and thus will not receive any updates. It should also be noted that a majority of these **lack support for R15** as they use a script to compensate for an ages-old issue with anchored Seats. You are free to use them in your projects, although better options exist. 
+The following items are considered **unsupported** and thus will not receive any updates. It should also be noted that a majority of these **lack support for R15** as they use a script to compensate for an ages-old issue with anchored Seats. You are free to use them in your projects, although better options exist. 
 {{</callout>}}
 
 All legacy SEET products.
@@ -19,15 +19,16 @@ The de-facto replacement for Intent. Released December 2017.
 
 Seemingly abstract block arrangements that don't seem to have done too well. Released January 2017.
 
+## Consolidate
+
+Released in 2015.
+
 ## Nova
 
 Chairs inspired by Allsteel's Seek line. I tried to be very quirky, which ultimately led to the failure of the first generation released in 2015. A second generation, dubbed **Nova2**, was released in 2017.
 
 **No R15 support for Nova 1**
 
-## Consolidate
-
-Released in 2015.
 
 ## Brillia
 
