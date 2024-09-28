@@ -8,7 +8,7 @@ weight = 1
 A collection of lounge chairs I made in about five hours. They are heavily based on HON's Grove series and designed with an emphasis on color customization and modularity. There are four versions: single seat, double seat, double seat with middle table, and triple seat. All versions come in three arm styles: no arms, square arms, and tapered arms. 
 
 {{< cards >}}
-    {{< card link="https://create.roblox.com/store/asset/13309315255/" title="Roblox Creator Store" icon="robloxstudio" >}}
+    {{< card link="https://create.roblox.com/store/asset/11229245322/" title="Roblox Creator Store" icon="robloxstudio" >}}
     {{< card link="https://ko-fi.com/s/97950f9202" title="Ko-fi Shop" icon="kofi" >}}
 {{< /cards >}}
 
