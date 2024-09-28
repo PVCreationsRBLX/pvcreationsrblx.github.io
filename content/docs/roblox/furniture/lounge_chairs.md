@@ -25,12 +25,16 @@ A collection of lounge chairs I made in about five hours. They are heavily based
 released 9 October 2022
 
 * First version to be released to the public.
-* Includes five frame options, with or without cushions (total 10):
-    * 4-leg chair with glides
-    * Cantilever chair
-    * Sled-base chair
-    * 4-leg stool (Flourish I/Virco Civitas-style) with glides
-    * 4-leg stool (HON SmartLink style) with glides
+* Includes four seat styles with three arm options (total 12)
+ * Seat options
+    * One-person seat
+    * Two-person seat
+    * Three-person seat
+    * Two-person seat with intermediate table
+ * Arm options
+    * No arms
+    * Square arms
+    * Tapered arms
 
 ## Contents
 
