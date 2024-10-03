@@ -19,7 +19,7 @@ The original Flourish was heavily inspired by Artcobell's Alphabet and HON's Sma
 ## Details
 
 * **First release**: [23.05](#version-2305-13-may-2023) (13 May 2023)
-* **Latest release**: [24.09b](#version-2409b-2-ocober-2024) (2 October 2024)
+* **Latest release**: [24.09b](#version-2409b-2-october-2024) (2 October 2024)
 
 ## Changelog
 
