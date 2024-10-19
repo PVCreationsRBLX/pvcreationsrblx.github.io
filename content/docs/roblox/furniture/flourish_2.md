@@ -53,6 +53,10 @@ The original Flourish was heavily inspired by Artcobell's Alphabet and HON's Sma
 
 A total of 16 chairs are available.
 
+## Gallery
+
+{{< image-gallery gallery_dir="/images/galleries/flourish_2/variants" >}}
+
 ## Known issues
 
 * None
