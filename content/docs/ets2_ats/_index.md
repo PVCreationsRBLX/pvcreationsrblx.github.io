@@ -23,7 +23,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 
 This mod changes the indicator and brake pressure warning sound effects for SCS' Western Star 5700XE to be more accurate. It's just like the pre-2017 Freightliner Cascadia. Apparently this was too laborious for SCS.
 
-Tested with ATS version 1.46 (**minimum required version**) and works without issues with version 1.52.
+Tested with ATS version 1.46 (**minimum version**) and works without issues with version 1.52.
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1hBxZltRKGQCcrIGOHGVYLnJuGlkK1m2r/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
@@ -38,7 +38,7 @@ This mod allows you to buy an E-Tech T of your own – or several, if you so des
 
 The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer.
 
-Tested with ETS2 version 1.50 (**minimum required version**) and works without issues with version 1.52.
+Tested with ETS2 version 1.50 (**minimum version**) and works without issues with version 1.52.
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing" icon="googledrive" title="Google Drive" >}}

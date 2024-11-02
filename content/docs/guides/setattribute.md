@@ -14,22 +14,27 @@ You will need:
     * Object Explorer panel
     * Properties panel
 
+## Assumptions
 This guide assumes you are not enrolled in the [Next Generation Studio Preview beta](https://devforum.roblox.com/t/next-gen-studio-ui-preview-is-here-beta/3075390), but if you are, the instructions here should be mostly similar.
 
 Already have these? Skip to the [main section](#setting-an-attribute).
 
-### To toggle the Object Explorer panel
+## Steps
 
-1. On the ribbon, in the **View** group, click the **Explorer** button. Alternatively, you can press Alt+X (Windows) or Option+X (macOS).
+{{% steps %}}
 
-### To toggle the Properties panel
+### Toggle the Object Explorer panel
 
-1. On the ribbon, in the **View** group, click the **Properties** button.
+On the ribbon, in the **View** group, click the **Explorer** button. Alternatively, you can press Alt+X (Windows) or Option+X (macOS).
 
-## Setting an attribute
+### Toggle the Properties panel
 
-Okay, now for the good stuff.
+On the ribbon, in the **View** group, click the **Properties** button.
 
-1. Select the desired instance in the viewport or the Object Explorer. The instance's properties appear in the Properties panel.
-2. If necessary, scroll down to the **Attributes** section.
-3. Set the desired attributes.
+### Setting an attribute
+
+Select the desired instance in the viewport or the Object Explorer. The instance's properties appear in the Properties panel.
+If necessary, scroll down to the **Attributes** section.
+Set the desired attributes.
+
+{{% /steps %}}

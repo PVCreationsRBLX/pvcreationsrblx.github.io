@@ -46,6 +46,8 @@ taxonomies:
   category: categories
   tag: tags
 
+enableInlineShortcodes: true
+
 params:
   blog:
     list:
