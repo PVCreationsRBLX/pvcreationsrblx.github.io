@@ -14,10 +14,11 @@ You will need:
     * Object Explorer panel
     * Properties panel
 
+Already have these? Skip to the [main section](#setting-an-attribute).
+
 ## Assumptions
 This guide assumes you are not enrolled in the [Next Generation Studio Preview beta](https://devforum.roblox.com/t/next-gen-studio-ui-preview-is-here-beta/3075390), but if you are, the instructions here should be mostly similar.
 
-Already have these? Skip to the [main section](#setting-an-attribute).
 
 ## Steps
 
