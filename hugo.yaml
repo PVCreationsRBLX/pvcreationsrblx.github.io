@@ -14,6 +14,16 @@ module:
     - path: github.com/imfing/hextra
     - path: github.com/hphaavikko/dimbox
 
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
 menu:
   main:
     - name: Docs
