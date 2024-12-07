@@ -15,8 +15,8 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 {{< /cards >}}
 
 ## Details
-* **First release**: 23.07 (4 July 2023)
-* **Latest release**: 23.07 (4 July 2023)
+* **First release**: [23.07](#version-2307-4-july-2023) (4 July 2023)
+* **Latest release**: [24.12](#version-2412-7-december-2024) (7 December 2024)
 
 ## Strobe intensities
 | Strobe type       | Options         | Models |
@@ -25,10 +25,12 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 | High intensity    | 135/177/185 cd  | 9109, 9111, 9139, 9141 |
 
 ## Contents
-The pack contains sixteen wall-mount devices. High-intensity models feature 135/177/185 cd strobe options, whereas regular-intensity models feature 15/30/75/110 cd strobe options.
+The pack contains 18 wall-mount devices.
 
-### Red
+{{< tabs items="Red, White">}}
+{{< tab >}}
 * **4901-9820** – horn
+* **4902-9210** – chime
 * **4902-9716** – speaker
 * **4906-9101** – strobe, regular intensity
 * **4906-9109** – strobe, high intensity
@@ -36,9 +38,10 @@ The pack contains sixteen wall-mount devices. High-intensity models feature 135/
 * **4906-9139** – combination horn/strobe, high intensity
 * **4906-9133** – combination chime/strobe, regular intensity
 * **4906-9151** – combination speaker/strobe, regular intensity
-
-### White
+{{< /tab >}}
+{{< tab >}}
 * **4901-9820** – horn
+* **4902-9211** – chime
 * **4902-9717** – speaker
 * **4906-9103** – strobe, regular intensity
 * **4906-9111** – strobe, high intensity
@@ -46,6 +49,31 @@ The pack contains sixteen wall-mount devices. High-intensity models feature 135/
 * **4906-9141** – combination horn/strobe, high intensity
 * **4906-9134** – combination chime/strobe, regular intensity
 * **4906-9153** – combination speaker/strobe, regular intensity
+{{< /tab >}}
+{{< /tabs >}}
+
+## Changelog
+
+### Version 24.12 (7 December 2024)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* 2 new models: 4902-9210/-9211 chimes
+* More detailed horn and speaker models. They should look better without ambient occlusion enabled... and maybe with, too.
+* Upgraded all models to use Attributes (excl. 9820s)
+* Label improvements! All models now feature make/model labels, and all labels now follow the curve of the alarms.
+* Fixed an issue where strobes would only flash once with continuous visual circuits
+
+{{% /details %}}
+
+### Version 23.07 (4 July 2023)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* First version released to the public.
+* Happy fourth of July!
+
+{{% /details %}}
 
 ## Known issues
-* (applies to all alarms excluding the [MT4](../mt4) and [L-Series](../lseries) packs) Strobes will only flash once on continuous visual circuits.
+* None

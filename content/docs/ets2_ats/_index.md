@@ -16,30 +16,48 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 ## Mods
 
 {{<callout type="warning">}}
-**IMPORTANT:** As of 16 October 2024, American Truck Simulator and Euro Truck Simulator 2 have been updated to version 1.52. All mods that worked with 1.51 seem to have minimal (if any) issues with the new version.
+**IMPORTANT:** As of 28 November 2024, Euro Truck Simulator 2 and American Truck Simulator has been updated to version 1.53. My mods should have minimal (if any) issues with the new version due to their size, but if you have any issues with them, please let me know!
 {{</callout>}}
 
-### Western Star 5700XE SFX Patch
+
+### American Truck Simulator
+{{< tabs items="5700XE Sound Patch">}}
+
+{{< tab >}}
+
+**5700XE Sound Patch**
 
 This mod changes the indicator and brake pressure warning sound effects for SCS' Western Star 5700XE to be more accurate. It's just like the pre-2017 Freightliner Cascadia. Apparently this was too laborious for SCS.
 
-Tested with ATS version 1.46 (**minimum version**) and works without issues with version 1.52.
+Tested with ATS version 1.46 (**minimum version**) and works without issues with version 1.53.
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1hBxZltRKGQCcrIGOHGVYLnJuGlkK1m2r/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
     {{< card link="https://truckymods.io/american-truck-simulator/sound/western-star-5700xe-sfx-patch" icon="" title="TruckyMods" >}}
 {{< /cards >}}
 
-### Buyable E-Tech T
+{{< /tab >}}
 
-![LED3 Main](/images/mod_etecht_buyable.webp)
+{{< /tabs >}}
+
+### Euro Truck Simulator 2 
+
+{{< tabs items="Buyable E-Tech T" >}}
+
+{{< tab >}}
+
+**Buyable E-Tech T**
+
+![Buyable E-Tech T](/images/mod_etecht_buyable.webp)
 
 This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck had already created such a mod.
 
 The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer.
 
-Tested with ETS2 version 1.50 (**minimum version**) and works without issues with version 1.52.
+Tested with ETS2 version 1.50 (**minimum version**) and works without issues with version 1.53.
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
-{{< /cards >}}
+{{< /cards >}} {{< /tab >}}
+
+{{< /tabs >}}

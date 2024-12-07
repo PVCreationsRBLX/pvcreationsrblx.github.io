@@ -28,8 +28,8 @@ A total of 106 devices are included.
 
 ### Fire
 
-#### Red
-
+{{< tabs items="Red, White">}}
+{{< tab >}}
 * **LHSR3** – wall-mount combination horn/strobe
 * **LHSRC3** – ceiling-mount combination horn/strobe
 * **LSTR3** – wall-mount strobe
@@ -40,9 +40,9 @@ A total of 106 devices are included.
 * **LFHNKR3** – wall-mount low-frequency sounder
 * **LFHSKR3** – wall-mount combination low-frequency sounder/110 cd strobe
 * **LFHSHR3** – wall-mount combination low-frequency sounder/177 cd strobe
+{{< /tab >}}
 
-#### White
-
+{{< tab >}}
 * **LHSW3** – wall-mount combination horn/strobe
 * **LHSWC3** – ceiling-mount combination horn/strobe
 * **LSTW3** – wall-mount strobe
@@ -53,11 +53,15 @@ A total of 106 devices are included.
 * **LFHNKW3** – wall-mount low-frequency sounder
 * **LFHSKW3** – wall-mount combination low-frequency sounder/110 cd strobe
 * **LFHSHW3** – wall-mount combination low-frequency sounder/177 cd strobe
+{{< /tab >}}
+
+{{< /tabs >}}
 
 ### General notification
 
-#### Red; plain
+{{< tabs items="Red; plain, White; plain, Red; ALERT, White; ALERT">}}
 
+{{< tab >}}
 * **LHNR3** – wall-mount horn
 * **LHNRC3** – ceiling-mount horn
 * **LHSR3-N** – wall-mount combination horn/strobe
@@ -81,9 +85,9 @@ A total of 106 devices are included.
 * **LFHNKR3-N** – wall-mount low-frequency sounder
 * **LFHSKR3-N** – wall-mount combination low-frequency sounder/110 cd strobe
 * **LFHSHR3-N** – wall-mount combination low-frequency sounder/177 cd strobe
+{{< /tab >}}
 
-#### White; plain
-
+{{< tab >}}
 * **LHNW3** – wall-mount horn
 * **LHNWC3** – ceiling-mount horn
 * **LHSW3-N** – wall-mount combination horn/strobe
@@ -107,10 +111,9 @@ A total of 106 devices are included.
 * **LFHNKW3-N** – wall-mount low-frequency sounder
 * **LFHSKW3-N** – wall-mount combination low-frequency sounder/110 cd strobe
 * **LFHSHW3-N** – wall-mount combination low-frequency sounder/177 cd strobe
+{{< /tab >}}
 
-
-#### Red; ALERT
-
+{{< tab >}}
 * **LHSR3-AL** – wall-mount combination horn/strobe
 * **LHSRC3-AL** – ceiling-mount combination horn/strobe
     * **LHSRC3-ALA** – with amber lens
@@ -131,9 +134,9 @@ A total of 106 devices are included.
 * **LFHNKR3-AL** – wall-mount low-frequency sounder
 * **LFHSKR3-AL** – wall-mount combination low-frequency sounder/110 cd strobe
 * **LFHSHR3-AL** – wall-mount combination low-frequency sounder/177 cd strobe
+{{< /tab >}}
 
-#### White; ALERT
-
+{{< tab >}}
 * **LHSW3-AL** – wall-mount combination horn/strobe
 * **LHSWC3-AL** – ceiling-mount combination horn/strobe
     * **LHSWC3-ALA** – with amber lens
@@ -154,6 +157,9 @@ A total of 106 devices are included.
 * **LFHNKW3-AL** – wall-mount low-frequency sounder
 * **LFHSKW3-AL** – wall-mount combination low-frequency sounder/110 cd strobe
 * **LFHSHW3-AL** – wall-mount combination low-frequency sounder/177 cd strobe
+{{< /tab >}}
+
+{{< /tabs >}}
 
 ## Known issues
-* (applies to all alarms excluding the [MT4](../mt4) and [L-Series](../lseries) packs) Strobes will only flash once on continuous visual circuits.
+* Strobes will only flash once on continuous visual circuits.
