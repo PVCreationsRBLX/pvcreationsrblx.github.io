@@ -29,7 +29,7 @@ The pack contains 18 wall-mount devices.
 
 {{< tabs items="Red, White">}}
 {{< tab >}}
-* **4901-9820** – horn
+* **4901-9820** with **4905-9988 cover** – horn
 * **4902-9210** – chime
 * **4902-9716** – speaker
 * **4906-9101** – strobe, regular intensity
@@ -40,7 +40,7 @@ The pack contains 18 wall-mount devices.
 * **4906-9151** – combination speaker/strobe, regular intensity
 {{< /tab >}}
 {{< tab >}}
-* **4901-9820** – horn
+* **4901-9820** with **4905-9989 cover** – horn
 * **4902-9211** – chime
 * **4902-9717** – speaker
 * **4906-9103** – strobe, regular intensity

@@ -25,7 +25,9 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 A total of 58 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.
 
 ### Fire
-#### Red
+
+{{< tabs items="Red, White">}}
+{{< tab >}}
 * **P2RL** – full-width wall-mount combination horn/strobe with FIRE lettering
 * **P2GRL** – single-gang wall-mount combination horn/strobe with FIRE lettering
 * **PC2RL** – ceiling-mount combination horn/strobe with FIRE lettering
@@ -35,8 +37,9 @@ A total of 58 wall- and ceiling-mounted, indoor-rated alarm appliances are inclu
 * **SCRL** – ceiling-mount strobe with FIRE lettering
 * **SPSRL** – wall-mount combination speaker/strobe with FIRE lettering
 * **SPSCRL** – ceiling-mount combination speaker/strobe with FIRE lettering
+{{< /tab >}}
 
-#### White
+{{< tab >}}
 * **P2WL** – full-width wall-mount combination horn/strobe with FIRE lettering
 * **P2GWL** – single-gang wall-mount combination horn/strobe with FIRE lettering
 * **PC2WL** – ceiling-mount combination horn/strobe with FIRE lettering
@@ -46,25 +49,33 @@ A total of 58 wall- and ceiling-mounted, indoor-rated alarm appliances are inclu
 * **SCWL** – ceiling-mount strobe with FIRE lettering
 * **SPSWL** – wall-mount combination speaker/strobe with FIRE lettering
 * **SPSCWL** – ceiling-mount combination speaker/strobe with FIRE lettering
+{{< /tab >}}
+{{< /tabs >}}
 
 ### Fuego (Spanish)
-#### Red
+{{< tabs items="Red, White">}}
+{{< tab >}}
 * **P2RL-SP** – full-width wall-mount combination horn/strobe with FUEGO lettering
 * **P2GRL-SP** – single-gang wall-mount combination horn/strobe with FUEGO lettering
 * **SRL-SP** – full-width wall-mount strobe with FUEGO lettering
 * **SGRL-SP** – single-gang wall-mount strobe with FUEGO lettering
 * **SPSRL-SP** – wall-mount combination speaker/strobe with FUEGO lettering
+{{< /tab >}}
 
-#### White
+{{< tab >}}
 * **P2WL-SP** – full-width wall-mount combination horn/strobe with FUEGO lettering
 * **P2GWL-SP** – single-gang wall-mount combination horn/strobe with FUEGO lettering
 * **SWL-SP** – full-width wall-mount strobe with FUEGO lettering
 * **SGWL-SP** – single-gang wall-mount strobe with FUEGO lettering
 * **SPSWL-SP** – wall-mount combination speaker/strobe with FUEGO lettering
+{{< /tab >}}
+{{< /tabs >}}
 
 ### Unmarked
-While not having label decals, the label parts weren't removed, allowing you to easily add labels to them if you want.
-#### Red
+The label parts weren't removed from these models, allowing you to easily add labels to them if you wish.
+
+{{< tabs items="Red, White">}}
+{{< tab >}}
 * **CHRL** – full-width wall-mount chime
 * **CHSRL** – full-width wall-mount combination chime/strobe
 * **CHSCRL** – ceiling-mount combination chime/strobe
@@ -77,8 +88,9 @@ While not having label decals, the label parts weren't removed, allowing you to 
 * **SPRL** – wall-mount speaker
 * **SPSRL-P** – wall-mount combination speaker/strobe
 * **SPSCRL-P** – ceiling mount combination speaker/strobe
+{{< /tab >}}
 
-#### White
+{{< tab >}}
 * **CHWL** – full-width wall-mount chime
 * **CHSWL** – full-width wall-mount combination chime/strobe
 * **CHSCWL** – ceiling-mount combination chime/strobe
@@ -91,6 +103,8 @@ While not having label decals, the label parts weren't removed, allowing you to 
 * **SPWL** – wall-mount speaker
 * **SPSWL-P** – wall-mount combination speaker/strobe
 * **SPSCWL-P** – ceiling mount combination speaker/strobe
+{{< /tab >}}
+{{< /tabs >}}
 
 ### General notification
 (the colored strobes and stuff)
