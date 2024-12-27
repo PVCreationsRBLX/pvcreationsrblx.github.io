@@ -16,7 +16,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 ## Mods
 
 {{<callout type="warning">}}
-**IMPORTANT:** As of 28 November 2024, Euro Truck Simulator 2 and American Truck Simulator has been updated to version 1.53. My mods should have minimal (if any) issues with the new version due to their size, but if you have any issues with them, please let me know!
+**IMPORTANT:** As of 28 November 2024, Euro Truck Simulator 2 and American Truck Simulator has been updated to version 1.53. My mods should have minimal (if any) issues with the new version due to their scope  – and because they, unlike a certain paid truck mod, don't mess with important files – but if you have any issues with them, please let me know!
 {{</callout>}}
 
 
@@ -42,7 +42,7 @@ Tested with ATS version 1.46 (**minimum version**) and works without issues with
 
 ### Euro Truck Simulator 2 
 
-{{< tabs items="Buyable E-Tech T" >}}
+{{< tabs items="Buyable E-Tech T, Additional FH5 & FH6 Transmissions" >}}
 
 {{< tab >}}
 
@@ -52,12 +52,28 @@ Tested with ATS version 1.46 (**minimum version**) and works without issues with
 
 This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck had already created such a mod.
 
-The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer.
+The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer, and you mnay catch one in the Used Truck Dealer as well.
 
 Tested with ETS2 version 1.50 (**minimum version**) and works without issues with version 1.53.
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
-{{< /cards >}} {{< /tab >}}
+{{< /cards >}}
+
+{{< /tab >}}
+
+{{< tab >}}
+
+**Additional FH5 & FH6 Transmissions**
+
+This mod adds additional transmissions for the Volvo FH5 and FH6: I-Shift Dual Clutch (SPO2812A) and I-Shift ATO3512F (FH5)/ATO3812G (FH6) with ASO-(UL)C + ARSO-MSR.
+
+Tested with ETS2 version 1.53 (**minimum version** unless you backport these to the FH4).
+
+{{< cards >}}
+    {{< card link="https://drive.google.com/file/d/1vZzBRKNy-kBUwDBAfeSZym2IeHMPblef/view?usp=sharing" icon="googledrive" title="Google Drive">}}
+{{< /cards >}}
+
+{{< /tab >}}
 
 {{< /tabs >}}
