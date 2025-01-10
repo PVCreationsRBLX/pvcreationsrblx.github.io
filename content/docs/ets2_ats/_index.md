@@ -66,12 +66,13 @@ Tested with ETS2 version 1.50 (**minimum version**) and works without issues wit
 
 **Additional FH5 & FH6 Transmissions**
 
-This mod adds additional transmissions for the Volvo FH5 and FH6: I-Shift Dual Clutch (SPO2812A) and I-Shift ATO3512F (FH5)/ATO3812G (FH6) with ASO-(UL)C + ARSO-MSR.
+This mod adds additional transmissions for the Volvo FH5 and FH6: I-Shift Dual Clutch (SPO2812A) and I-Shift ATO3512F (FH5)/ATO3812G (FH6) with ASO-(UL)C + ARSO-MSR. All are available with or without a retarder.
 
 Tested with ETS2 version 1.53 (**minimum version** unless you backport these to the FH4).
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1vZzBRKNy-kBUwDBAfeSZym2IeHMPblef/view?usp=sharing" icon="googledrive" title="Google Drive">}}
+    {{< card link="https://truckymods.io/euro-truck-simulator-2/other/additional-fh5-fh6-transmissions" icon="" title="TruckyMods" >}}
 {{< /cards >}}
 
 {{< /tab >}}
