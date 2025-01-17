@@ -16,9 +16,9 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 ## Details
 
-* **First release** (overall): Release Candidate 1α (31 July 2019)
-* **First release** (PVC): 21.06 (19 June 2021)
-* **Latest release**: 25.01 (17 January 2025)
+* **First release** (overall): [Release Candidate 1α](#release-candidate-1α-31-july-2019) (31 July 2019)
+* **First release** (PVC): [21.06](#version-2106-19-june-2021) (19 June 2021)
+* **Latest release**: [25.01](#version-2501-17-january-2025) (17 January 2025)
 
 ## Contents
 
