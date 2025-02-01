@@ -1,9 +1,9 @@
-+++
-title = 'L-Series'
-date = 2024-06-12T16:05:20-07:00
-draft = false
-weight = 3
-+++
+---
+date: "2024-06-12T16:05:20-07:00"
+draft: false
+title: L-Series
+weight: 3
+---
 
 ![L-Series Main](/images/main_lseries.webp)
 

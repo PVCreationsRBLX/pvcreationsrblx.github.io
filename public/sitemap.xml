@@ -50,6 +50,21 @@
     <loc>http://localhost:1313/docs/roblox/furniture/legacy_seet/</loc>
     <lastmod>2024-09-26T19:40:50-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-02-01T08:10:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/news/</loc>
+    <lastmod>2025-02-01T08:10:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/news/</loc>
+    <lastmod>2025-02-01T08:10:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/rebrand/</loc>
+    <lastmod>2025-02-01T08:10:34-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-01T08:10:34-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2024-07-05T16:41:49-07:00</lastmod>
   </url><url>
@@ -57,12 +72,6 @@
     <lastmod>2024-06-23T08:36:47-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/a/</loc>
-    <lastmod>2024-06-19T22:27:57-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-06-19T22:27:57-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-19T22:27:57-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/test1/</loc>

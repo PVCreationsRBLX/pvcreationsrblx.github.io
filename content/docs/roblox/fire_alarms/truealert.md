@@ -1,13 +1,15 @@
-+++
-title = 'TrueAlert'
-date = 2024-06-13T12:35:55-07:00
-draft = false
-weight = 4
-+++
+---
+date: "2024-06-13T12:35:55-07:00"
+draft: false
+title: TrueAlert
+weight: 4
+---
 
 The **Simplex TrueAlert SmartSync** collection is PVC's first new collection in almost four years!
 
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
+
+**IMPORTANT:**  With Release 25.02, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the "!Scripts_PVC_P10" folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which individual scripts are needed – this is by no means essential.
 
 {{< cards >}}
     {{< card link="https://create.roblox.com/store/asset/13904668666/" title="Roblox Creator Store" icon="robloxstudio" >}}
@@ -16,16 +18,18 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 ## Details
 * **First release**: [23.07](#version-2307-4-july-2023) (4 July 2023)
-* **Latest release**: [24.12](#version-2412-7-december-2024) (7 December 2024)
+* **Latest release**: [25.02](#version-2502-1-february-2025) (1 February 2025)
 
 ## Strobe intensities
 | Strobe type       | Options         | Models |
 | --------          | -------         | -------         | 
 | Regular intensity | 15/30/75/110 cd | 9101, 9103, 9127, 9129, 9133, 9134, 9151, 9153 |
 | High intensity    | 135/177/185 cd  | 9109, 9111, 9139, 9141 |
+| Outdoor intensities (UL) | 15/60/75 cd | 9105, 9106, 9131, 9132 |
+| Outdoor intensities (ULC) | 5/20/30 cd | 9113, 9143
 
 ## Contents
-The pack contains 18 wall-mount devices.
+The pack contains 24 wall-mount devices.
 
 {{< tabs items="Red, White">}}
 {{< tab >}}
@@ -33,10 +37,14 @@ The pack contains 18 wall-mount devices.
 * **4902-9210** – chime
 * **4902-9716** – speaker
 * **4906-9101** – strobe, regular intensity
+* **4906-9105** – outdoor strobe, UL intensities
 * **4906-9109** – strobe, high intensity
+* **4906-9113** - outdoor strobe, ULC intensities
 * **4906-9127** – combination horn/strobe, regular intensity
+* **4906-9131** – outdoor combination horn/strobe, UL intensities
+* **4906-9133** – chime/strobe, regular intensity
 * **4906-9139** – combination horn/strobe, high intensity
-* **4906-9133** – combination chime/strobe, regular intensity
+* **4906-9143** – outdoor combination horn/strobe, ULC intensities 
 * **4906-9151** – combination speaker/strobe, regular intensity
 {{< /tab >}}
 {{< tab >}}
@@ -44,15 +52,28 @@ The pack contains 18 wall-mount devices.
 * **4902-9211** – chime
 * **4902-9717** – speaker
 * **4906-9103** – strobe, regular intensity
+* **4906-9106** – outdoor strobe, UL intensities
 * **4906-9111** – strobe, high intensity
 * **4906-9129** – combination horn/strobe, regular intensity
-* **4906-9141** – combination horn/strobe, high intensity
+* **4906-9132** – outdoor combination horn/strobe, UL intensities
 * **4906-9134** – combination chime/strobe, regular intensity
+* **4906-9141** – combination horn/strobe, high intensity
 * **4906-9153** – combination speaker/strobe, regular intensity
 {{< /tab >}}
 {{< /tabs >}}
 
 ## Changelog
+### Version 25.02 (1 February 2025)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* Updated all models to use CollectionService. This will make things easier for you AND me!
+* New attribute entitled "ContVisualCircuit" (boolean). Set to TRUE for strobe to flash continuously or FALSE for the strobe to flash if VisualCircuit is set to 1.
+* 6 new models:
+ * 4906-9105/-9106/-9113 weatherproof strobes
+ * 4906-9131/-9132/-9143 weatherproof horn strobes
+
+{{% /details %}}
 
 ### Version 24.12 (7 December 2024)
 

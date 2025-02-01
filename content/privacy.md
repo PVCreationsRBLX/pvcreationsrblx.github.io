@@ -1,8 +1,8 @@
-+++
-title = 'Privacy Policy'
-date = 2024-07-05T16:41:49-07:00
-draft = false
-+++
+---
+date: "2024-07-05T16:41:49-07:00"
+draft: false
+title: Privacy Policy
+---
 
 Most terms of service and privacy policies are extremely long passages of Legalese, which is pretty much incomprehensible to anyone who's not a lawyer – or ChatGPT. This privacy policy is not that. 
 

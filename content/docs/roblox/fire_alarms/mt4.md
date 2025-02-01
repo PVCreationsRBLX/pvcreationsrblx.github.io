@@ -1,9 +1,9 @@
-+++
-title = 'MT4'
-date = 2024-06-12T17:02:00-07:00
-draft = false
-weight = 5
-+++
+---
+date: "2024-06-12T17:02:00-07:00"
+draft: false
+title: MT4
+weight: 5
+---
 
 The **Wheelock MT4** collection is PVC's most recent, having first been released on 24 April 2024. The collection contains 5 devices. If you want to be more technical, it contains 7, as one device combines three models. 
 

@@ -1,9 +1,9 @@
-+++
-title = 'Exceder Xenon'
-date = 2024-06-13T13:26:56-07:00
-draft = false
-weight = 2
-+++
+---
+date: "2024-06-13T13:26:56-07:00"
+draft: false
+title: Exceder Xenon
+weight: 2
+---
 
 The **Wheelock Exceder Xenon** collection was first released in mid-2019, with a remastered version releasing in 2022, consisting of heavily facelifted wall-mount devices. If only you could see how awful and bloated they were prior...
 

@@ -1,9 +1,9 @@
-+++
-title = 'Flourish II'
-date = 2024-06-25T16:21:04-07:00
-draft = false
-weight = 2
-+++
+---
+date: "2024-06-25T16:21:04-07:00"
+draft: false
+title: Flourish II
+weight: 2
+---
 
 **Flourish II** – also known as **Flourish 2**, **Flourish Series 2**, or **Flourish Deux** – the successor to the legendary Flourish collection first introduced in early 2015 (15 March 2015 to be exact). Its release date was *not* coincidental.
 

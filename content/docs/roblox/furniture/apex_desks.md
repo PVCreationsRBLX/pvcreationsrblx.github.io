@@ -1,9 +1,9 @@
-+++
-title = 'Apex! Desks'
-date = 2024-06-25T16:21:11-07:00
-draft = false
-weight = 3
-+++
+---
+date: "2024-06-25T16:21:11-07:00"
+draft: false
+title: Apex! Desks
+weight: 3
+---
 
 **Apex** – a desk set designed to complement the [Flourish II](../flourish_2) chairs.
 

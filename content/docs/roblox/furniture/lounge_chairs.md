@@ -1,9 +1,9 @@
-+++
-title = 'Lounge chairs'
-date = 2024-06-25T16:21:19-07:00
-draft = false
-weight = 1
-+++
+---
+date: "2024-06-25T16:21:19-07:00"
+draft: false
+title: Lounge chairs
+weight: 1
+---
 
 A collection of lounge chairs I made in about five hours. They are heavily based on HON's Grove series and designed with an emphasis on color customization and modularity. There are four versions: single seat, double seat, double seat with middle table, and triple seat. All versions come in three arm styles: no arms, square arms, and tapered arms. 
 

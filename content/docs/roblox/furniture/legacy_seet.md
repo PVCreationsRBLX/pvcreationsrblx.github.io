@@ -1,9 +1,9 @@
-+++
-title = 'Legacy SEET'
-date = 2024-09-26T19:40:50-07:00
-draft = false
-weight = 999999
-+++
+---
+date: "2024-09-26T19:40:50-07:00"
+draft: false
+title: Legacy SEET
+weight: 999999
+---
 
 {{<callout type="warning">}}
 The following items are considered **unsupported** and thus will not receive any updates. If you receive a pop-up regarding the chairs having scripts, this is generally because they use a script to compensate for an ages-old issue with anchored Seats (the Roblox instance); these also **lack support for R15**. The issues with anchored seats have been resolved     for several years. You are free to use them in your projects, although better options exist. 

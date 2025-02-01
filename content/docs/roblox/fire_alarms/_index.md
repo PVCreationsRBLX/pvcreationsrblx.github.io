@@ -1,9 +1,9 @@
-+++
-title = 'Fire Alarms'
-date = 2024-06-25T16:08:23-07:00
-draft = false
-weight = 1
-+++
+---
+date: "2024-06-25T16:08:23-07:00"
+draft: false
+title: Fire Alarms
+weight: 1
+---
 
 {{< cards >}}
     {{< card link="exceder_led3" title="Wheelock Exceder LED3" >}}
