@@ -41,7 +41,7 @@ Tested with ATS version 1.46 (**minimum version**) and works without issues with
 
 ### Euro Truck Simulator 2 
 
-{{< tabs items="Buyable E-Tech T, Additional FH5 & FH6 Transmissions" >}}
+{{< tabs items="Buyable E-Tech T, Additional FH5 & FH6 Transmissions, Modern FH Deflector for FH4 Globetrotter XL" >}}
 
 {{< tab >}}
 
@@ -74,6 +74,23 @@ Tested with ETS2 version 1.53.
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1vZzBRKNy-kBUwDBAfeSZym2IeHMPblef/view?usp=sharing" icon="googledrive" title="Google Drive">}}
     {{< card link="https://truckymods.io/euro-truck-simulator-2/other/additional-fh5-fh6-transmissions" icon="" title="TruckyMods" >}}
+{{< /cards >}}
+
+{{< /tab >}}
+
+{{< tab >}}
+
+**Modern FH Deflector for FH4 Globetrotter XL**
+
+This mod adds the rear deflectors (standard and LED) from the FH5/6 Globetrotter XL cabin to the FH4.
+
+**The [FH Tuning Pack](https://store.steampowered.com/app/1299530/) is required**, but only if you wish to use the LED rear deflector.
+
+Tested with ETS2 version 1.53 (**minimum version**). 
+
+{{< cards >}}
+    {{< card link="https://drive.google.com/file/d/1d4EmTStSCRUbXqX8lRRdYw8cafE9djgk/view?usp=drive_link" icon="googledrive" title="Google Drive">}}
+    {{< card link="https://truckymods.io/euro-truck-simulator-2/truck-patches/modern-fh-deflector-for-fh4-globetrotter-xl" icon="" title="TruckyMods" >}}
 {{< /cards >}}
 
 {{< /tab >}}
