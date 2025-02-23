@@ -16,6 +16,20 @@
     
     
     <item>
+      <title>ETS2-QJTI</title>
+      <link>http://localhost:1313/docs/ets2_ats/ets2-qjti/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ets2_ats/ets2-qjti/</guid>
+      <description>
+        
+        
+        &lt;p&gt;ETS2-QJTI (short for Euro Truck Simulator 2 Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for Euro Truck Simulator 2.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Setting an attribute</title>
       <link>http://localhost:1313/docs/guides/setattribute/</link>
       <pubDate>Thu, 05 Sep 2024 21:14:17 -0700</pubDate>
@@ -947,6 +961,7 @@ Set the desired attributes.&lt;/p&gt;
         
         &lt;p&gt;The &lt;strong&gt;Simplex TrueAlert SmartSync&lt;/strong&gt; collection is PVC&amp;rsquo;s first new collection in almost four years!&lt;/p&gt;
 &lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IMPORTANT:&lt;/strong&gt;  With Release 25.02, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the &amp;ldquo;!Scripts_PVC_P10&amp;rdquo; folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which individual scripts are needed – this is by no means essential.&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
     &lt;a
       class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://create.roblox.com/store/asset/13904668666/&#34;
@@ -959,7 +974,7 @@ Set the desired attributes.&lt;/p&gt;
 &lt;h2&gt;Details&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;details&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#details&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;First release&lt;/strong&gt;: &lt;a href=&#34;#version-2307-4-july-2023&#34; &gt;23.07&lt;/a&gt; (4 July 2023)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: &lt;a href=&#34;#version-2412-7-december-2024&#34; &gt;24.12&lt;/a&gt; (7 December 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latest release&lt;/strong&gt;: &lt;a href=&#34;#version-2502-1-february-2025&#34; &gt;25.02&lt;/a&gt; (1 February 2025)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Strobe intensities&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;strobe-intensities&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#strobe-intensities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
@@ -981,10 +996,20 @@ Set the desired attributes.&lt;/p&gt;
           &lt;td&gt;135/177/185 cd&lt;/td&gt;
           &lt;td&gt;9109, 9111, 9139, 9141&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Outdoor intensities (UL)&lt;/td&gt;
+          &lt;td&gt;15/60/75 cd&lt;/td&gt;
+          &lt;td&gt;9105, 9106, 9131, 9132&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Outdoor intensities (ULC)&lt;/td&gt;
+          &lt;td&gt;5/20/30 cd&lt;/td&gt;
+          &lt;td&gt;9113, 9143&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The pack contains 18 wall-mount devices.&lt;/p&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The pack contains 24 wall-mount devices.&lt;/p&gt;
 &lt;div class=&#34;hextra-scrollbar hx-overflow-x-auto hx-overflow-y-hidden hx-overscroll-x-contain&#34;&gt;
   &lt;div class=&#34;hx-mt-4 hx-flex hx-w-max hx-min-w-full hx-border-b hx-border-gray-200 hx-pb-px dark:hx-border-neutral-800&#34;&gt;&lt;button
         class=&#34;hextra-tabs-toggle data-[state=selected]:hx-border-primary-500 data-[state=selected]:hx-text-primary-600 hx-mr-2 hx-rounded-t hx-p-2 hx-font-medium hx-leading-5 hx-transition-colors -hx-mb-0.5 hx-select-none hx-border-b-2 hx-border-transparent hx-text-gray-600 hover:hx-border-gray-200 hover:hx-text-black dark:hx-text-gray-200 dark:hover:hx-border-neutral-800 dark:hover:hx-text-white&#34;
@@ -1005,10 +1030,14 @@ Set the desired attributes.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;4902-9210&lt;/strong&gt; – chime&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4902-9716&lt;/strong&gt; – speaker&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9101&lt;/strong&gt; – strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9105&lt;/strong&gt; – outdoor strobe, UL intensities&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9109&lt;/strong&gt; – strobe, high intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9113&lt;/strong&gt; - outdoor strobe, ULC intensities&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9127&lt;/strong&gt; – combination horn/strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9131&lt;/strong&gt; – outdoor combination horn/strobe, UL intensities&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9133&lt;/strong&gt; – chime/strobe, regular intensity&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9139&lt;/strong&gt; – combination horn/strobe, high intensity&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;4906-9133&lt;/strong&gt; – combination chime/strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9143&lt;/strong&gt; – outdoor combination horn/strobe, ULC intensities&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9151&lt;/strong&gt; – combination speaker/strobe, regular intensity&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -1020,16 +1049,33 @@ Set the desired attributes.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;4902-9211&lt;/strong&gt; – chime&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4902-9717&lt;/strong&gt; – speaker&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9103&lt;/strong&gt; – strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9106&lt;/strong&gt; – outdoor strobe, UL intensities&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9111&lt;/strong&gt; – strobe, high intensity&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9129&lt;/strong&gt; – combination horn/strobe, regular intensity&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;4906-9141&lt;/strong&gt; – combination horn/strobe, high intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9132&lt;/strong&gt; – outdoor combination horn/strobe, UL intensities&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9134&lt;/strong&gt; – combination chime/strobe, regular intensity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4906-9141&lt;/strong&gt; – combination horn/strobe, high intensity&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4906-9153&lt;/strong&gt; – combination speaker/strobe, regular intensity&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2&gt;Changelog&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;changelog&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#changelog&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Version 24.12 (7 December 2024)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;version-2412-7-december-2024&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#changelog&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Version 25.02 (1 February 2025)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;version-2502-1-february-2025&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#version-2502-1-february-2025&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;details class=&#34;last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group&#34; &gt;
+  &lt;summary class=&#34;hx-flex hx-items-center hx-cursor-pointer hx-select-none hx-list-none hx-p-1 hx-rounded hx-transition-colors hover:hx-bg-gray-100 dark:hover:hx-bg-neutral-800 before:hx-mr-1 before:hx-inline-block before:hx-transition-transform before:hx-content-[&#39;&#39;] dark:before:hx-invert rtl:before:hx-rotate-180 group-open:before:hx-rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx-text-lg&#34;&gt;Click me to reveal&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx-p-2 hx-overflow-hidden&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;Updated all models to use CollectionService. This will make things easier for you AND me!&lt;/li&gt;
+&lt;li&gt;New attribute entitled &amp;ldquo;ContVisualCircuit&amp;rdquo; (boolean). Set to TRUE for strobe to flash continuously or FALSE for the strobe to flash if VisualCircuit is set to 1.&lt;/li&gt;
+&lt;li&gt;6 new models:&lt;/li&gt;
+&lt;li&gt;4906-9105/-9106/-9113 weatherproof strobes&lt;/li&gt;
+&lt;li&gt;4906-9131/-9132/-9143 weatherproof horn strobes&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h3&gt;Version 24.12 (7 December 2024)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;version-2412-7-december-2024&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#version-2412-7-december-2024&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;details class=&#34;last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group&#34; &gt;
   &lt;summary class=&#34;hx-flex hx-items-center hx-cursor-pointer hx-select-none hx-list-none hx-p-1 hx-rounded hx-transition-colors hover:hx-bg-gray-100 dark:hover:hx-bg-neutral-800 before:hx-mr-1 before:hx-inline-block before:hx-transition-transform before:hx-content-[&#39;&#39;] dark:before:hx-invert rtl:before:hx-rotate-180 group-open:before:hx-rotate-90&#34;&gt;
     &lt;strong class=&#34;hx-text-lg&#34;&gt;Click me to reveal&lt;/strong&gt;

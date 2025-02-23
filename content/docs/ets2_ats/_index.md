@@ -41,7 +41,7 @@ Tested with ATS version 1.46 (**minimum version**) and works without issues with
 
 ### Euro Truck Simulator 2 
 
-{{< tabs items="Buyable E-Tech T, Additional FH5 & FH6 Transmissions, Modern FH Deflector for FH4 Globetrotter XL" >}}
+{{< tabs items="Buyable E-Tech T, Additional FH5 & FH6 Transmissions, Modern FH Deflector for FH4 Globetrotter XL, ETS2-QJTI" >}}
 
 {{< tab >}}
 
@@ -92,6 +92,12 @@ Tested with ETS2 version 1.53 (**minimum version**).
     {{< card link="https://drive.google.com/file/d/1d4EmTStSCRUbXqX8lRRdYw8cafE9djgk/view?usp=drive_link" icon="googledrive" title="Google Drive">}}
     {{< card link="https://truckymods.io/euro-truck-simulator-2/truck-patches/modern-fh-deflector-for-fh4-globetrotter-xl" icon="" title="TruckyMods" >}}
 {{< /cards >}}
+
+{{< /tab >}}
+
+{{< tab >}}
+
+See [this page](ets2-qjti)
 
 {{< /tab >}}
 
