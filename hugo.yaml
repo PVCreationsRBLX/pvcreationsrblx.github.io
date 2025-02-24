@@ -66,4 +66,8 @@ params:
     displayCopyright: true
     displayPoweredBy: true
   navbar:
-    displayLogo: false
+    displayLogo: true
+    logo:
+     path: images/pvc-logo.svg
+     dark: images/pvc-logo-darkmode.svg
+     width: 45
