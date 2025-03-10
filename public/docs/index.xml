@@ -48,11 +48,11 @@
     &lt;a href=&#34;#iveco-s-way&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Configs that originally used metallic paintjobs now use solid ones&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Volvo FH6&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;volvo-fh6&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#volvo-fh6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Volvo FH5/6&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;volvo-fh56&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#volvo-fh56&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Added new 6×4 heavy/oversize configs (standard front only)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The FH6 does not feature custom beacon options like the New Gen DAFs do. In their place, the heavy config uses the “Bonfire” beacon from the base game, and the oversize config uses the “Star” beacon from the Special Transport DLC.&lt;/p&gt;
+&lt;p&gt;The FH5 and 6 do not feature custom beacon options. In their place, the heavy configs use the &amp;ldquo;Bonfire&amp;rdquo; beacon from the base game, and the oversize configs use the &amp;ldquo;Star&amp;rdquo; beacon from the Special Transport DLC.&lt;/p&gt;
 &lt;p&gt;This configuration is also available at any Volvo dealer or the Mod Dealer.&lt;/p&gt;
 &lt;h2&gt;Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
@@ -437,6 +437,20 @@ Set the desired attributes.&lt;/p&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Strobes will only flash once on continuous visual circuits.&lt;/li&gt;
 &lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>ATS-QJTI</title>
+      <link>http://localhost:1313/docs/ets2_ats/ats-qjti/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ets2_ats/ats-qjti/</guid>
+      <description>
+        
+        
+        &lt;p&gt;ATS-QJTI (short for American Truck Simulator Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for American Truck Simulator. However, it focuses more on adding new configs to the Quick Job pool than fixing pre-existing ones, which was the primary goal of its &lt;a href=&#34;ets2-qjti&#34; &gt;ETS2 counterpart&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>

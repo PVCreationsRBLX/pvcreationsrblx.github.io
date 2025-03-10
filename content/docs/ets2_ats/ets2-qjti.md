@@ -34,11 +34,11 @@ The 2012 configurations will appear in the Used Dealer at random.
 
 * Configs that originally used metallic paintjobs now use solid ones
 
-### Volvo FH6
+### Volvo FH5/6
 
 * Added new 6×4 heavy/oversize configs (standard front only)
 
-The FH6 does not feature custom beacon options like the New Gen DAFs do. In their place, the heavy config uses the “Bonfire” beacon from the base game, and the oversize config uses the “Star” beacon from the Special Transport DLC.
+The FH5 and 6 do not feature custom beacon options. In their place, the heavy configs use the "Bonfire" beacon from the base game, and the oversize configs use the "Star" beacon from the Special Transport DLC.
 
 This configuration is also available at any Volvo dealer or the Mod Dealer.
 
