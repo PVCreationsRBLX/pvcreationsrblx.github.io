@@ -59,10 +59,10 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-02-01T08:10:34-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/news/</loc>
+    <loc>http://localhost:1313/categories/news/</loc>
     <lastmod>2025-02-01T08:10:34-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/news/</loc>
+    <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2025-02-01T08:10:34-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/rebrand/</loc>
@@ -80,16 +80,16 @@
     <loc>http://localhost:1313/blog/a/</loc>
     <lastmod>2024-06-19T22:27:57-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/test1/</loc>
-    <lastmod>2024-06-19T22:27:57-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/test1/</loc>
     <lastmod>2024-06-19T22:27:57-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/test2/</loc>
+    <loc>http://localhost:1313/tags/test1/</loc>
     <lastmod>2024-06-19T22:27:57-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/test2/</loc>
+    <lastmod>2024-06-19T22:27:57-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/test2/</loc>
     <lastmod>2024-06-19T22:27:57-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>

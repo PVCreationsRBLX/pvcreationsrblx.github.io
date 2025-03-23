@@ -1,8 +1,7 @@
 ---
-date: "2025-02-20"
 draft: false
 title: ETS2-QJTI
-weight: 1
+weight: 4
 ---
 
 ETS2-QJTI (short for Euro Truck Simulator 2 Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for Euro Truck Simulator 2.

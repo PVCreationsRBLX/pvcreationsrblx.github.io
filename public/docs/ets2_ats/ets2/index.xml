@@ -1,0 +1,120 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PV Creations – Euro Truck Simulator 2</title>
+    <link>http://localhost:1313/docs/ets2_ats/ets2/</link>
+    <description>Recent content in Euro Truck Simulator 2 on PV Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/ets2_ats/ets2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Additional FH4/5/6 Transmissions</title>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/fh456_transmissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/fh456_transmissions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This mod adds additional transmissions for the SCS Volvo FH4, FH5 and FH6: I-Shift Dual Clutch (SPO2812) and I-Shift ATO3512F (FH4/5)/ATO3812G (FH6) with ASO-(UL)C + ARSO-MSR. All are available with or without a retarder.&lt;/p&gt;
+&lt;h2&gt;Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+ &lt;a
+   class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://truckymods.io/euro-truck-simulator-2/other/additional-fh5-fh6-transmissions&#34;
+     target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;TruckyMods&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>ETS2-QJTI</title>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/ets2-qjti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/ets2-qjti/</guid>
+      <description>
+        
+        
+        &lt;p&gt;ETS2-QJTI (short for Euro Truck Simulator 2 Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for Euro Truck Simulator 2.&lt;/p&gt;
+&lt;p&gt;See its (in-development) ATS counterpart &lt;a href=&#34;../ats-qjti&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Changes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;DAF NGD&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;daf-ngd&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#daf-ngd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Replaced original 4×2 heavy/oversize configs with 6×4 XG+ config (2021)&lt;/li&gt;
+&lt;li&gt;Added 6×4 and 8×4 configs for XFC and XG+ (2021 and 2025)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These configurations are also available at any DAF dealer or the Mod Dealer.&lt;/p&gt;
+&lt;h3&gt;DAF XD&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;daf-xd&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#daf-xd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Replaced original 4×2 heavy/oversize configs with 6×4 XDC config (2021)&lt;/li&gt;
+&lt;li&gt;Added new 2025 6×4 heavy/oversize config&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These configurations are also available at any DAF dealer or the Mod Dealer.&lt;/p&gt;
+&lt;h3&gt;DAF XF Euro 6&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;daf-xf-euro-6&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#daf-xf-euro-6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Pre-existing configs now use facelift interiors if they didn’t already&lt;/li&gt;
+&lt;li&gt;Added 2012 configs based on the originals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The 2012 configurations will appear in the Used Dealer at random.&lt;/p&gt;
+&lt;h3&gt;Iveco S-Way&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;iveco-s-way&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#iveco-s-way&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Configs that originally used metallic paintjobs now use solid ones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Volvo FH5/6&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;volvo-fh56&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#volvo-fh56&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Added new 6×4 heavy/oversize configs (standard front only)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The FH5 and 6 do not feature custom beacon options. In their place, the heavy configs use the &amp;ldquo;Bonfire&amp;rdquo; beacon from the base game, and the oversize configs use the &amp;ldquo;Star&amp;rdquo; beacon from the Special Transport DLC.&lt;/p&gt;
+&lt;p&gt;This configuration is also available at any Volvo dealer or the Mod Dealer.&lt;/p&gt;
+&lt;h2&gt;Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+ &lt;a
+   class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://truckymods.io/euro-truck-simulator-2/truck-patches/ets2-qjti&#34;
+     target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;TruckyMods&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>S-Way Interior Sound Fix (Temp)</title>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/sway_sfx_fix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/sway_sfx_fix/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This mod is an interim solution for &lt;a href=&#34;https://forum.scssoft.com/viewtopic.php?p=2002167&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this issue&lt;/a&gt; where the Iveco S-Way&amp;rsquo;s interior sounds conflict with those of the Volvo FH5 and FH6. It will likely be fixed by SCS with ETS2 1.54, so once it&amp;rsquo;s released, this mod should still work, but you should remove it from your mods folder as there will be no need for it.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t want its engine sounds to conflict with those trucks as well, use an engine sound mod for the S-Way.&lt;/p&gt;
+&lt;h2&gt;Discuss&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;discuss&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#discuss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+ &lt;a
+   class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://forum.scssoft.com/viewtopic.php?p=2022217&#34;
+     target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;SCS Forums&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+ &lt;a
+   class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://truckymods.io/euro-truck-simulator-2/other/truck-patches/s-way-interior-sound-fix&#34;
+     target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;TruckyMods&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

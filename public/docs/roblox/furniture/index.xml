@@ -144,36 +144,36 @@
 
 &lt;ul class=&#34;image-gallery&#34;&gt;
 &lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever_hu11125019427433609389.png&#34; title=&#34;Cantilever&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever_hu3084910333475149590.png&#34; alt=&#34;Cantilever&#34; title=&#34;Cantilever&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever_hu_35a9eea3fed3b655.png&#34; title=&#34;Cantilever&#34; class=&#34;lightbox-image&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever_hu_60fc023d83d77696.png&#34; alt=&#34;Cantilever&#34; title=&#34;Cantilever&#34;&gt;
         &lt;span&gt;Cantilever&lt;/span&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
 &lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg_hu5435387344030318068.png&#34; title=&#34;Four-Leg&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg_hu9057690213409107906.png&#34; alt=&#34;Four-Leg&#34; title=&#34;Four-Leg&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg_hu_212c8d3758aa910.png&#34; title=&#34;Four-Leg&#34; class=&#34;lightbox-image&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg_hu_acbdba97cf4728c1.png&#34; alt=&#34;Four-Leg&#34; title=&#34;Four-Leg&#34;&gt;
         &lt;span&gt;Four-Leg&lt;/span&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
 &lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled_hu13247718379379821144.png&#34; title=&#34;Sled&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled_hu2416277263719122369.png&#34; alt=&#34;Sled&#34; title=&#34;Sled&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled_hu_21c75d931ee3b354.png&#34; title=&#34;Sled&#34; class=&#34;lightbox-image&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled_hu_3f81906d857c98c0.png&#34; alt=&#34;Sled&#34; title=&#34;Sled&#34;&gt;
         &lt;span&gt;Sled&lt;/span&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
 &lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201_hu9126969069831284625.png&#34; title=&#34;Stool 1&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201_hu11298926762676170351.png&#34; alt=&#34;Stool 1&#34; title=&#34;Stool 1&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201_hu_a691bbaad3349e2e.png&#34; title=&#34;Stool 1&#34; class=&#34;lightbox-image&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201_hu_9294426d383ab5c3.png&#34; alt=&#34;Stool 1&#34; title=&#34;Stool 1&#34;&gt;
         &lt;span&gt;Stool 1&lt;/span&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
 &lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202_hu5140970357150144508.png&#34; title=&#34;Stool 2&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202_hu9772549573191292334.png&#34; alt=&#34;Stool 2&#34; title=&#34;Stool 2&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202_hu_deb087ec1c5fbf73.png&#34; title=&#34;Stool 2&#34; class=&#34;lightbox-image&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202_hu_703e47c5a58eb693.png&#34; alt=&#34;Stool 2&#34; title=&#34;Stool 2&#34;&gt;
         &lt;span&gt;Stool 2&lt;/span&gt;
       &lt;/a&gt;
     &lt;/li&gt;
@@ -233,33 +233,11 @@
       <description>
         
         
-        
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ⚠️
-      &lt;/div&gt;&lt;/div&gt;
+        &lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;⚠️&lt;/div&gt;&lt;/div&gt;
 
   &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      The following items are considered &lt;strong&gt;unsupported&lt;/strong&gt; and thus will not receive any updates. If you receive a pop-up regarding the chairs having scripts, this is generally because they use a script to compensate for an ages-old issue with anchored Seats (the Roblox instance); these also &lt;strong&gt;lack support for R15&lt;/strong&gt;. The issues with anchored seats have been resolved     for several years. You are free to use them in your projects, although better options exist.
-    &lt;/div&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;The following items are considered &lt;strong&gt;unsupported&lt;/strong&gt; and thus will not receive any updates. If you receive a pop-up regarding the chairs having scripts, this is generally because they use a script to compensate for an ages-old issue with anchored Seats (the Roblox instance); these also &lt;strong&gt;lack support for R15&lt;/strong&gt;. The issues with anchored seats have been resolved     for several years. You are free to use them in your projects, although better options exist.&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 

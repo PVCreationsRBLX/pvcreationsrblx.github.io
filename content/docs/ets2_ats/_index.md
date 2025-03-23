@@ -41,6 +41,14 @@ Tested with ATS version 1.46 (**minimum version**) and works without issues with
 
 ### Euro Truck Simulator 2 
 
+{{< cards >}}
+    {{< card link="ets2/buyable_etech_t" title="Buyable E-Tech T" >}}
+    {{< card link="ets2/fh456_transmissions" image="images/ets2_ats_mods/cards_fh456_trnsm.webp" title="Additional FH4/5/6 Transmissions" >}}
+    {{< card link="ets2/fh456_deflectors" image="/images/ets2_ats_mods/cards_fh456_defl.webp" title="Additional FH4/5/6 Deflectors" >}}
+    {{< card link="ets2/ets2-qjti" image="/images/ets2_ats_mods/cards_ets2-qjti.webp" title="ETS2-QJTI" >}}
+{{< /cards >}}
+
+
 {{< tabs items="Buyable E-Tech T, Additional FH5 & FH6 Transmissions, Modern FH Deflector for FH4 Globetrotter XL, ETS2-QJTI" >}}
 
 {{< tab >}}
