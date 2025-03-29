@@ -16,7 +16,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 ## Mods
 
 {{<callout type="warning">}}
-**IMPORTANT:** As of 28 November 2024, Euro Truck Simulator 2 and American Truck Simulator has been updated to version 1.53. My mods should have minimal (if any) issues with the new version due to their scope  – and because they, unlike a certain paid truck mod, don't mess with important files – but if you have any issues with them, please let me know!
+**IMPORTANT:** As of 29 March 2025, American Truck Simulator has been updated to version 1.54. My mods should have minimal (if any) issues with the new version as they're not trailer/cargo mods, but if you have any issues with them, please let me know!
 {{</callout>}}
 
 
@@ -41,73 +41,4 @@ Tested with ATS version 1.46 (**minimum version**) and works without issues with
 
 ### Euro Truck Simulator 2 
 
-{{< cards >}}
-    {{< card link="ets2/buyable_etech_t" image="/images/ets2_ats_mods/cards_etecht_buyable.webp" title="Buyable E-Tech T" >}}
-    {{< card link="ets2/fh456_transmissions" image="images/ets2_ats_mods/cards_fh456_trnsm.webp" title="Additional FH4/5/6 Transmissions" >}}
-    {{< card link="ets2/fh456_deflectors" image="/images/ets2_ats_mods/cards_fh456_defl.webp" title="Additional FH4/5/6 Deflectors" >}}
-    {{< card link="ets2/ets2-qjti" image="/images/ets2_ats_mods/cards_ets2-qjti.webp" title="ETS2-QJTI" >}}
-    {{< card link="ets2/sway_sfx_fix" image="/images/ets2_ats_mods/cards_sway_sfx_fix.webp" title="S-Way Interior Sound Fix" >}}
-{{< /cards >}}
-
-
-{{< tabs items="Buyable E-Tech T, Additional FH5 & FH6 Transmissions, Modern FH Deflector for FH4 Globetrotter XL, ETS2-QJTI" >}}
-
-{{< tab >}}
-
-**Buyable E-Tech T**
-
-![Buyable E-Tech T](/images/mod_etecht_buyable.webp)
-
-This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck had already created such a mod.
-
-The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer, and you might catch one in the Used Truck Dealer as well.
-
-Tested with ETS2 version 1.50 (**minimum version**) and works without issues with version 1.53.
-
-{{< cards >}}
-    {{< card link="https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
-{{< /cards >}}
-
-{{< /tab >}}
-
-{{< tab >}}
-
-**Additional FH5 & FH6 Transmissions**
-
-(now called **Additional FH4, FH5, and FH6 Transmissions from 22 January 2025**)
-
-This mod adds additional transmissions for the Volvo FH4, FH5 and FH6: I-Shift Dual Clutch (SPO2812A) and I-Shift ATO3512F (FH4/5)/ATO3812G (FH6) with ASO-(UL)C + ARSO-MSR. All are available with or without a retarder.
-
-Tested with ETS2 version 1.53.
-
-{{< cards >}}
-    {{< card link="https://drive.google.com/file/d/1vZzBRKNy-kBUwDBAfeSZym2IeHMPblef/view?usp=sharing" icon="googledrive" title="Google Drive">}}
-    {{< card link="https://truckymods.io/euro-truck-simulator-2/other/additional-fh5-fh6-transmissions" icon="" title="TruckyMods" >}}
-{{< /cards >}}
-
-{{< /tab >}}
-
-{{< tab >}}
-
-**Modern FH Deflector for FH4 Globetrotter XL**
-
-This mod adds the rear deflectors (standard and LED) from the FH5/6 Globetrotter XL cabin to the FH4.
-
-**The [FH Tuning Pack](https://store.steampowered.com/app/1299530/) is required**, but only if you wish to use the LED rear deflector.
-
-Tested with ETS2 version 1.53 (**minimum version**). 
-
-{{< cards >}}
-    {{< card link="https://drive.google.com/file/d/1d4EmTStSCRUbXqX8lRRdYw8cafE9djgk/view?usp=drive_link" icon="googledrive" title="Google Drive">}}
-    {{< card link="https://truckymods.io/euro-truck-simulator-2/truck-patches/modern-fh-deflector-for-fh4-globetrotter-xl" icon="" title="TruckyMods" >}}
-{{< /cards >}}
-
-{{< /tab >}}
-
-{{< tab >}}
-
-See [this page](ets2-qjti)
-
-{{< /tab >}}
-
-{{< /tabs >}}
+ETS2 mods can be found [here](ets2).

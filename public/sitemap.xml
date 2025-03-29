@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/ets2_ats/ets2-qjti/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/docs/guides/setattribute/</loc>
     <lastmod>2024-09-05T21:14:17-07:00</lastmod>
   </url><url>
@@ -20,7 +17,12 @@
     <loc>http://localhost:1313/docs/roblox/fire_alarms/exceder_led3/</loc>
     <lastmod>2024-06-13T13:27:02-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/ets2_ats/ats-qjti/</loc>
+    <loc>http://localhost:1313/docs/ets2_ats/ets2/buyable_etech_t/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ets2_ats/ets2/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/ets2_ats/ats/ats-qjti/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/roblox/furniture/flourish_2/</loc>
@@ -35,6 +37,8 @@
     <loc>http://localhost:1313/docs/roblox/fire_alarms/exceder_xe/</loc>
     <lastmod>2024-06-13T13:26:56-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/ets2_ats/ets2/fh456_transmissions/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/guides/</loc>
     <lastmod>2024-09-05T05:00:00-07:00</lastmod>
   </url><url>
@@ -47,11 +51,17 @@
     <loc>http://localhost:1313/docs/roblox/fire_alarms/lseries/</loc>
     <lastmod>2024-06-12T16:05:20-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/ets2_ats/ets2/fh456_deflectors/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/roblox/fire_alarms/truealert/</loc>
     <lastmod>2024-06-13T12:35:55-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/ets2_ats/ets2/ets2-qjti/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/roblox/fire_alarms/mt4/</loc>
     <lastmod>2024-06-12T17:02:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/ets2_ats/ets2/sway_sfx_fix/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/roblox/furniture/legacy_seet/</loc>
     <lastmod>2024-09-26T19:40:50-07:00</lastmod>
