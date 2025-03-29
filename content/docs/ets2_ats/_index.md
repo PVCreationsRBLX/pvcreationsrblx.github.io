@@ -29,7 +29,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 
 This mod changes the indicator and brake pressure warning sound effects for SCS' Western Star 5700XE to be more accurate. It's just like the pre-2017 Freightliner Cascadia. Apparently this was too laborious for SCS.
 
-Tested with ATS version 1.46 (**minimum version**) and works without issues with version 1.53.
+Tested with ATS version 1.46 (**minimum version**) and works without issues with version 1.54.
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1hBxZltRKGQCcrIGOHGVYLnJuGlkK1m2r/view?usp=sharing" icon="googledrive" title="Google Drive" >}}
