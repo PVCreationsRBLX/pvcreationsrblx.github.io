@@ -17,5 +17,5 @@ If you don't want its engine sounds to conflict with those trucks as well, use a
 ## Download
 
 {{< cards >}}
- {{< card link="https://truckymods.io/euro-truck-simulator-2/other/truck-patches/s-way-interior-sound-fix" icon="" title="TruckyMods" >}}
+ {{< card link="https://truckymods.io/euro-truck-simulator-2/truck-patches/s-way-interior-sound-fix" icon="" title="TruckyMods" >}}
 {{< /cards >}}
