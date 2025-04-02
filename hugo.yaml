@@ -1,3 +1,5 @@
+include: [".well-known"]
+
 baseURL: https://pvcreationsrblx.github.io/
 languageCode: en
 defaultContentLanguage: en
