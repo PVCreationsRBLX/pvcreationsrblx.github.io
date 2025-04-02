@@ -1,5 +1,3 @@
-include: [".well-known"]
-
 baseURL: https://pvcreationsrblx.github.io/
 languageCode: en
 defaultContentLanguage: en
@@ -48,11 +46,11 @@ menu:
       url: "https://discord.gg/kFckVRv56b"
       params:
         icon: discord
-    - name: PV Creations on X
+    - name: PV Creations on Bluesky
       weight: 7
-      url: "https://x.com/PVC_RB"
+      url: "https://bsky.app/profile/pvcreationsrblx.github.io"
       params:
-        icon: x-twitter
+        icon: bluesky
 
 taxonomies:
   category: categories
