@@ -26,7 +26,7 @@ These configurations are also available at any DAF dealer or the Mod Dealer.
 
 ### DAF XF Euro 6
 
-* Pre-existing configs now use facelift interiors if they didn’t already
+* Pre-existing configs now use facelift interiors if they didn't already
 * Added 2012 configs based on the originals
 
 The 2012 configurations will appear in the Used Dealer at random.
@@ -37,11 +37,11 @@ The 2012 configurations will appear in the Used Dealer at random.
 
 ### Volvo FH5/6
 
-* Added new 6×4 heavy/oversize configs (standard front only)
+* Added new 6×4 heavy/oversize configs (standard front only for the FH6)
 
 The FH5 and 6 do not feature custom beacon options. In their place, the heavy configs use the "Bonfire" beacon from the base game, and the oversize configs use the "Star" beacon from the Special Transport DLC.
 
-This configuration is also available at any Volvo dealer or the Mod Dealer.
+These configurations are also available at any Volvo dealer or the Mod Dealer.
 
 ## Download
 

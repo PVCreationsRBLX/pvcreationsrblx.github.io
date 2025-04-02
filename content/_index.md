@@ -33,4 +33,4 @@ If you are unable to donate, simply using PVC assets and spreading the word help
 ## Thanks
 
 * [Luke Smith](https://www.youtube.com/watch?v=cvDyQUpaFf4), some guy who went on a lengthy tirade about modern web bloat
-* [Simple Icons](https://icon-sets.iconify.design/simple-icons/) for the Roblox, Ko-fi and Google Drive icons used
+* [Simple Icons](https://icon-sets.iconify.design/simple-icons/) for the Roblox, Ko-fi, Linktree, Bluesky and Google Drive icons used
