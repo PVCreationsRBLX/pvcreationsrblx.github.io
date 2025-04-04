@@ -25,13 +25,23 @@ The original Flourish was heavily inspired by Artcobell's Alphabet and HON's Sma
 
 ### Version 24.09b (2 October 2024)
 
+{{% details title="Click me to reveal" closed="false" %}}
+
 * Slightly adjusted legs for caster variants for consistency
+
+{{% /details %}}
 
 ### Version 24.09a (25 September 2024)
 
+{{% details title="Click me to reveal" closed="true" %}}
+
 * Slightly adjusted caster model to be smoother
 
+{{% /details %}}
+
 ### Version 24.09 (15 September 2024)
+
+{{% details title="Click me to reveal" closed="true" %}}
 
 * Added three new models, with or without cushions (total 6):
     * 4-leg chair with casters
@@ -39,7 +49,11 @@ The original Flourish was heavily inspired by Artcobell's Alphabet and HON's Sma
     * 4-leg stool (HON SmartLink-style) with casters
 * Fixed some instance names for consistency
 
+{{% /details %}}
+
 ### Version 23.05 (13 May 2023)
+
+{{% details title="Click me to reveal" closed="true" %}}
 
 * First version to be released to the public.
 * Includes five frame options, with or without cushions (total 10):
@@ -48,6 +62,8 @@ The original Flourish was heavily inspired by Artcobell's Alphabet and HON's Sma
     * Sled-base chair
     * 4-leg stool (Flourish I/Virco Civitas-style) with glides
     * 4-leg stool (HON SmartLink style) with glides
+
+{{% /details %}}
 
 ## Contents
 

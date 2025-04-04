@@ -101,29 +101,5 @@
       </description>
     </item>
     
-    <item>
-      <title>ATS-QJTI</title>
-      <link>http://localhost:1313/docs/ets2_ats/ats/ats-qjti/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/ets2_ats/ats/ats-qjti/</guid>
-      <description>
-        
-        
-        &lt;p&gt;ATS-QJTI (short for American Truck Simulator Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for American Truck Simulator. However, it focuses more on adding new configs to the Quick Job pool than fixing pre-existing ones, which was the primary goal of its &lt;a href=&#34;../ets2/ets2-qjti&#34; &gt;ETS2 counterpart&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Changes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;changes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;All trucks with a 4×2 chassis option&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;all-trucks-with-a-42-chassis-option&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#all-trucks-with-a-42-chassis-option&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Added new 4×2 config&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;As of March 2025, these trucks are: Freightliner Cascadia (2019 and 2024), International LT, Kenworth T680 2014, Mack Anthem, Peterbilt 579, Volvo VNL (2014 and 2018), Western Star 57X. Truck-specific changes are described below.&lt;/p&gt;
-&lt;h3&gt;International LT&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;international-lt&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#international-lt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Added facelift configs (plus powertrain changes) based on originals&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
   </channel>
 </rss>

@@ -9,5 +9,6 @@ weight: 2
     {{< card link="lounge_chairs" title="Lounge Chairs" >}}
     {{< card link="flourish_2" title="Flourish II" >}}
     {{< card link="apex_desks" title="Apex! Desks" >}}
-    {{< card link="legacy_seet" title=" (Unsupported) Legacy" >}}
+    {{< card link="_mesa_tables" title="Mesa Tables" >}}
+    {{< card link="legacy_seet" title="(Unsupported) Legacy" >}}
 {{< /cards >}}
