@@ -18,7 +18,7 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 ## Details
 * **First release**: [23.07](#version-2307-4-july-2023) (4 July 2023)
-* **Latest release**: [25.02](#version-2502-1-february-2025) (1 February 2025)
+* **Latest release**: [25.02a](#version-2502-1-february-2025) (10 April 2025)
 
 ## Strobe intensities
 | Strobe type       | Options         | Models |
@@ -63,6 +63,14 @@ The pack contains 24 wall-mount devices.
 {{< /tabs >}}
 
 ## Changelog
+### Version 25.02a (10 April 2025)
+
+{{% details title="Click me to reveal" closed="false" %}}
+
+* Fixed issue where some alarms simply wouldn't work; this was traced back to improperly defined functions
+
+{{% /details %}}
+
 ### Version 25.02 (1 February 2025)
 
 {{% details title="Click me to reveal" closed="true" %}}
