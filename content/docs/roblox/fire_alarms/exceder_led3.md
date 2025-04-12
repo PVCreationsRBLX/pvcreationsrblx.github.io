@@ -18,9 +18,9 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 ## Details
 
-* **First release** (overall): Release Candidate 1 (19 January 2019)
-* **First release** (PVC): 21.11 (2 November 2021)
-* **Latest release**: 22.03 (4 March 2022)
+* **First release** (overall): [Release Candidate 1](#release-candidate-1-19-january-2019) (19 January 2019)
+* **First release** (PVC): [21.11](#release-2111-2-november-2021) (2 November 2021)
+* **Latest release**: [25.04](#release-2504-11-april-2025) (4 March 2022)
 
 ## Contents
 
@@ -161,5 +161,79 @@ A total of 106 devices are included.
 
 {{< /tabs >}}
 
+
+## Changelog
+### Release 25.04 (11 April 2025)
+
+{{% details title="Click me to reveal" closed="false" %}}
+
+* Significant functionality improvements, including:
+ * Updated all alarms to use CollectionService and Attributes
+ * New attribute entitled "ContVisualCircuit" (boolean). Set to TRUE for strobe to flash continuously or FALSE for the strobe to flash if VisualCircuit is set to 1.
+*  Improved sound effects for low-frequency sounders
+* All horn sounds use "InverseTapered" roll-off mode
+
+{{% /details %}}
+
+### Release 22.03 (4 March 2022)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* Refreshed ceiling-mount devices: new strobe parts, less detailed horn
+* More lax license
+
+{{% /details %}}
+
+### Release 21.11 (2 November 2021)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* First release under PVC group
+* Changes from the legacy edition:
+ * Slightly larger scale
+ * Traditional horns and horn strobes now have a Temporal 3 tone option that is intended for larger/heavier games that don't wish to use a voice-evacuation system. Of course, the panel-coded option is still there. Note that for the LHN/LHS models, the Temporal 3 option might not be able to keep up with other devices with a Temporal 3 audio.
+ * Switched strobes to use the BillboardGui style that has been pretty much traditional since 2013
+ * LSPK/LSPST/LFHNK/LFHSH/LFHSK models are now taller than LHN/LHS/LST models, akin to their real-life counterparts
+ * Makes use of new task.wait() system instead of wait() which should improve performance when used en masse
+ * New models for all 60 wall-mount appliances which are more optimized and accurate (the ceiling-mount devices are not available for the time being; they will be facelifted — but not remodeled — in due course)
+
+{{% /details %}}
+
+### Release Candidate 3.5 (30 July 2019)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* Fixed LHSHW3 models' intensity labels - changed color from white to red
+* New free-running API. It waits for a little bit of time before flashing, if at all. All NAs are still synchronized by default, however.
+* Improved sounds
+
+{{% /details %}}
+
+### Release Candidate 3 (18 May 2019)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* 46 new alarms!
+* Some alarms didn't have Horn sounds. That's been fixed.
+
+{{% /details %}}
+
+### Release Candidate 2 (1 February 2019)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* 8 new alarms with blue lenses AND their respective luminous intensity settings.
+* ALL alarms use the material SmoothPlastic
+
+{{% /details %}}
+
+### Release Candidate 1 (19 January 2019)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* Initial release
+
+{{% /details %}}
+
 ## Known issues
-* Strobes will only flash once on continuous visual circuits.
+* None

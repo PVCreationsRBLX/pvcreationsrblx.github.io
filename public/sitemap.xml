@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/ets2_ats/ats/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/guides/setattribute/</loc>
     <lastmod>2024-09-05T21:14:17-07:00</lastmod>
   </url><url>
@@ -71,9 +74,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/roblox/furniture/legacy_seet/</loc>
     <lastmod>2024-09-26T19:40:50-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/ets2_ats/ats/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-02-01T08:10:34-08:00</lastmod>
