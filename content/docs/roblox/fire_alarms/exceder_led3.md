@@ -168,9 +168,9 @@ A total of 106 devices are included.
 {{% details title="Click me to reveal" closed="false" %}}
 
 * Significant functionality improvements, including:
- * Updated all alarms to use CollectionService and Attributes
- * New attribute entitled "ContVisualCircuit" (boolean). Set to TRUE for strobe to flash continuously or FALSE for the strobe to flash if VisualCircuit is set to 1.
-*  Improved sound effects for low-frequency sounders
+    * Updated all alarms to use CollectionService and Attributes
+    * New attribute entitled "ContVisualCircuit" (boolean). Set to TRUE for strobe to flash continuously or FALSE for the strobe to flash if VisualCircuit is set to 1.
+* Improved sound effects for low-frequency sounders
 * All horn sounds use "InverseTapered" roll-off mode
 
 {{% /details %}}
@@ -190,8 +190,8 @@ A total of 106 devices are included.
 
 * First release under PVC group
 * Changes from the legacy edition:
- * Slightly larger scale
- * Traditional horns and horn strobes now have a Temporal 3 tone option that is intended for larger/heavier games that don't wish to use a voice-evacuation system. Of course, the panel-coded option is still there. Note that for the LHN/LHS models, the Temporal 3 option might not be able to keep up with other devices with a Temporal 3 audio.
+    * Slightly larger scale
+    * Traditional horns and horn strobes now have a Temporal 3 tone option that is intended for larger/heavier games that don't wish to use a voice-evacuation system. Of course, the panel-coded option is still there. Note that for the LHN/LHS models, the Temporal 3 option might not be able to keep up with other devices with a Temporal 3 audio.
  * Switched strobes to use the BillboardGui style that has been pretty much traditional since 2013
  * LSPK/LSPST/LFHNK/LFHSH/LFHSK models are now taller than LHN/LHS/LST models, akin to their real-life counterparts
  * Makes use of new task.wait() system instead of wait() which should improve performance when used en masse
