@@ -10,7 +10,7 @@ This mod allows you to buy an E-Tech T of your own – or several, if you so des
 
 The config also uses the less powerful 330 kW "engine" option so you don't need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer, and you might catch one in the Used Truck Dealer as well.
 
-Tested with ETS2 version 1.50 (**minimum version**) and works without issues with version 1.53.
+Tested with ETS2 version 1.50 (**minimum version**) and works without issues with version 1.54.
 
 ## Download
 

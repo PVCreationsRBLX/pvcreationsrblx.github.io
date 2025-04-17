@@ -4,7 +4,7 @@ title: ETS2-QJTI
 weight: 4
 ---
 
-ETS2-QJTI (short for Euro Truck Simulator 2 Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for Euro Truck Simulator 2.
+ETS2-QJTI (short for Euro Truck Simulator 2 Quick Job Truck Improvements), as its name suggests, aims to improve some Quick Job truck configurations for Euro Truck Simulator 2.
 
 See its (in-development) ATS counterpart [here](../../ats-qjti).
 
