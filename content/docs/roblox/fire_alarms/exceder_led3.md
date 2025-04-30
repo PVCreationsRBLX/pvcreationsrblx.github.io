@@ -11,6 +11,8 @@ The **Wheelock Exceder LED3** collection is PVC's very first – and largest. It
 
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
 
+**IMPORTANT:** With Release 25.04, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the "!Scripts_PVC_P01R" folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which scripts are needed – this is by no means essential.
+
 {{< cards >}}
     {{< card link="https://create.roblox.com/store/asset/7791778862/" title="Roblox Creator Store" icon="robloxstudio">}}
     {{< card link="https://ko-fi.com/s/75d82c93dd" title="Ko-fi Shop" icon="kofi">}}

@@ -27,7 +27,7 @@
         &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mod_etecht_buyable.webp&#34; alt=&#34;Buyable E-Tech T&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck had already created such a mod.&lt;/p&gt;
 &lt;p&gt;The config also uses the less powerful 330 kW &amp;ldquo;engine&amp;rdquo; option so you don&amp;rsquo;t need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer, and you might catch one in the Used Truck Dealer as well.&lt;/p&gt;
-&lt;p&gt;Tested with ETS2 version 1.50 (&lt;strong&gt;minimum version&lt;/strong&gt;) and works without issues with version 1.53.&lt;/p&gt;
+&lt;p&gt;Tested with ETS2 version 1.50 (&lt;strong&gt;minimum version&lt;/strong&gt;) and works without issues with version 1.54.&lt;/p&gt;
 &lt;h2&gt;Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
     &lt;a
@@ -94,7 +94,7 @@
       <description>
         
         
-        &lt;p&gt;ETS2-QJTI (short for Euro Truck Simulator 2 Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for Euro Truck Simulator 2.&lt;/p&gt;
+        &lt;p&gt;ETS2-QJTI (short for Euro Truck Simulator 2 Quick Job Truck Improvements), as its name suggests, aims to improve some Quick Job truck configurations for Euro Truck Simulator 2.&lt;/p&gt;
 &lt;p&gt;See its (in-development) ATS counterpart &lt;a href=&#34;../../ats-qjti&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Changes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;changes&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;DAF NGD&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;daf-ngd&#34;&gt;&lt;/span&gt;
@@ -145,8 +145,7 @@
       <description>
         
         
-        &lt;p&gt;This mod is an interim solution for &lt;a href=&#34;https://forum.scssoft.com/viewtopic.php?p=2002167&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this issue&lt;/a&gt; where the Iveco S-Way&amp;rsquo;s interior sounds conflict with those of the Volvo FH5 and FH6. It will likely be fixed by SCS with ETS2 1.54, so once it&amp;rsquo;s released, this mod should still work, but you should remove it from your mods folder as there will be no need for it.&lt;/p&gt;
-&lt;p&gt;If you don&amp;rsquo;t want its engine sounds to conflict with those trucks as well, use an engine sound mod for the S-Way.&lt;/p&gt;
+        &lt;p&gt;This mod was created as an interim solution for &lt;a href=&#34;https://forum.scssoft.com/viewtopic.php?p=2002167&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this issue&lt;/a&gt; where the Iveco S-Way&amp;rsquo;s interior sounds would conflict with those of the Volvo FH5 and FH6. If you are using ETS2 version 1.54, you should remove this mod from your mods folder as SCS fixed the issue with that version, making it obsolete.&lt;/p&gt;
 &lt;h2&gt;Discuss&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;discuss&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#discuss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
  &lt;a
