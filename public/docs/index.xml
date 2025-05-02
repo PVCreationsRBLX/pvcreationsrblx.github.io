@@ -1568,9 +1568,12 @@ Set the desired attributes.&lt;/p&gt;
     &lt;ul&gt;
 &lt;li&gt;Updated all models to use CollectionService. This will make things easier for you AND me!&lt;/li&gt;
 &lt;li&gt;New attribute entitled &amp;ldquo;ContVisualCircuit&amp;rdquo; (boolean). Set to TRUE for strobe to flash continuously or FALSE for the strobe to flash if VisualCircuit is set to 1.&lt;/li&gt;
-&lt;li&gt;6 new models:&lt;/li&gt;
+&lt;li&gt;6 new models:
+&lt;ul&gt;
 &lt;li&gt;4906-9105/-9106/-9113 weatherproof strobes&lt;/li&gt;
 &lt;li&gt;4906-9131/-9132/-9143 weatherproof horn strobes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/details&gt;

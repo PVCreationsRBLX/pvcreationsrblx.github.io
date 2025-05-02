@@ -78,8 +78,8 @@ The pack contains 24 wall-mount devices.
 * Updated all models to use CollectionService. This will make things easier for you AND me!
 * New attribute entitled "ContVisualCircuit" (boolean). Set to TRUE for strobe to flash continuously or FALSE for the strobe to flash if VisualCircuit is set to 1.
 * 6 new models:
- * 4906-9105/-9106/-9113 weatherproof strobes
- * 4906-9131/-9132/-9143 weatherproof horn strobes
+    * 4906-9105/-9106/-9113 weatherproof strobes
+    * 4906-9131/-9132/-9143 weatherproof horn strobes
 
 {{% /details %}}
 
