@@ -171,7 +171,7 @@ A total of 106 devices are included.
 
 * Restored async functionality for alarms that didn't have them
 
-{{ % /details %}}
+{{% /details %}}
 
 ### Version 25.04 (11 April 2025)
 
