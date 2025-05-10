@@ -35,6 +35,11 @@ The 2012 configurations will appear in the Used Dealer at random.
 
 * Configs that originally used metallic paintjobs now use solid ones
 
+### MAN TGX Euro 6
+
+* Added pre-facelift configs based on the originals
+* Added facelift oversize config based on original
+
 ### Volvo FH5/6
 
 * Added new 6×4 heavy/oversize configs (standard front only for the FH6)
