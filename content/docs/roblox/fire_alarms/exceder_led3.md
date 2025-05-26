@@ -22,7 +22,7 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 * **First release** (overall): [Release Candidate 1](#release-candidate-1-19-january-2019) (19 January 2019)
 * **First release** (PVC): [21.11](#version-2111-2-november-2021) (2 November 2021)
-* **Latest release**: [25.04a](#version-2504a-3-may-2025) (3 May 2025)
+* **Latest release**: [25.04b](#version-2504b-26-may-2025) (26 May 2025)
 
 ## Contents
 
@@ -165,9 +165,18 @@ A total of 106 devices are included.
 
 
 ## Changelog
-### Version 25.04a (3 May 2025)
+
+### Version 25.04b (26 May 2025)
 
 {{% details title="Click me to reveal" closed="false" %}}
+
+* Implemented some logic improvements introduced with the L-Series
+
+{{% /details %}}
+
+### Version 25.04a (3 May 2025)
+
+{{% details title="Click me to reveal" closed="true" %}}
 
 * Restored async functionality for alarms that didn't have them
 
