@@ -18,7 +18,7 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 * **First release** (overall): [Release Candidate 1α](#release-candidate-1α-31-july-2019) (31 July 2019)
 * **First release** (PVC): [21.06](#version-2106-19-june-2021) (19 June 2021)
-* **Latest release**: [25.01](#version-2501-17-january-2025) (17 January 2025)
+* **Latest release**: [25.05](#version-2505-26-may-2025) (26 May 2025)
 
 ## Contents
 
@@ -93,9 +93,17 @@ A total of 43 devices are included in this collection. This is one of two PVC fi
 
 ## Changelog
 
-### Version 25.01 (17 January 2025)
+### Version 25.05 (26 May 2025)
 
 {{% details title="Click me to reveal" closed="false" %}}
+
+* Upgraded all models to use CollectionService
+
+{{% /details %}}
+
+### Version 25.01 (17 January 2025)
+
+{{% details title="Click me to reveal" closed="true" %}}
 
 * Fixed an issue where strobes would only flash once on continuous visual circuits
 * Upgraded all models to use Attributes (excl. HN/HNC)
