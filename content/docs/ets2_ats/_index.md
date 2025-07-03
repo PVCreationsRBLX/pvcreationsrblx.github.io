@@ -16,11 +16,14 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 ## Mods
 
 {{<callout type="warning">}}
-**IMPORTANT:** As of 29 March 2025, American Truck Simulator has been updated to version 1.54. My mods should have minimal (if any) issues with the new version as they're not trailer/cargo mods, but if you have any issues with them, please let me know!
+**IMPORTANT:** As of 3 July 2025, American Truck Simulator and Euro Truck Simulator 2 have been updated to version 1.55. My mods should have minimal (if any) issues with the new version, but if you have any issues with them, please let me know!
 {{</callout>}}
 
 
 ### American Truck Simulator
+
+A full list of ATS mods can be found [here](ats).
+
 {{< tabs items="5700XE Sound Patch">}}
 
 {{< tab >}}
@@ -29,7 +32,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 
 This mod changes the indicator and brake pressure warning sound effects for SCS' Western Star 5700XE to be more accurate. It's just like the pre-2017 Freightliner Cascadia. Apparently this was too laborious for SCS.
 
-Tested with ATS version 1.46 (**minimum version**) and works without issues with version 1.54.
+Tested with ATS version 1.46 (**minimum version**) and works without issues with version 1.55.
 
 {{< cards >}}
     {{< card link="https://drive.google.com/file/d/1hBxZltRKGQCcrIGOHGVYLnJuGlkK1m2r/view?usp=sharing" icon="googledrive" title="Google Drive" >}}

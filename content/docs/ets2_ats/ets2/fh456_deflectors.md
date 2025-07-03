@@ -8,6 +8,8 @@ This mod adds the rear deflectors (standard and LED) from the FH5/6 Globetrotter
 
 **The [FH Tuning Pack](https://store.steampowered.com/app/1299530/) is required** if you wish to use the LED rear deflectors. However, the mod will still work without the DLC; you simply won't see the LED deflectors in the customization menu.
 
+Despite the Volvo FH6 receiving Tuning Pack support with the 1.55 update, this mod does not need updating as it was already developed to accommodate that.
+
 ## Download
 
 {{< cards >}}
