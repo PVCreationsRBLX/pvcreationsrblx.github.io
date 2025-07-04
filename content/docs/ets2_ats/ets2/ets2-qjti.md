@@ -41,11 +41,11 @@ The 2012 configurations will appear in the Used Dealer at random.
 * Added pre-facelift configs based on the originals
 * Added facelift oversize config based on original
 
-## Volvo FH3/4
+### Volvo FH3/4
 
 * All FH16 configs use correct headlights (**requires FH Tuning Pack**)
 
-## Volvo FH5/6
+### Volvo FH5/6
 
 * Added new 6×4 heavy/oversize configs (standard front only for the FH6)
 
