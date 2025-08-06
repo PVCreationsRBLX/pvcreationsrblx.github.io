@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PV Creations – ETS2/ATS Updates</title>
+    <link>http://localhost:1313/categories/ets2/ats-updates/</link>
+    <description>Recent content in ETS2/ATS Updates on PV Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/categories/ets2/ats-updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>ETS2/ATS Mod Status (1.55)</title>
+      <link>http://localhost:1313/blog/tsupdate-155/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/tsupdate-155/</guid>
+      <description>
+        
+        
+        &lt;p&gt;It appears that all of my supported mods for Euro Truck Simulator 2 and American Truck Simulator work without issues with the 1.55 update.&lt;/p&gt;
+&lt;p&gt;You can see all mods &lt;a href=&#34;../docs/ets2_ats/&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

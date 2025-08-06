@@ -15,8 +15,8 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 {{< /cards >}}
 
 ## Details
-* **First release**: 24.04 (24 April 2024)
-* **Latest release**: 24.08 (4 August 2024)
+* **First release**: [24.04](#version-2404-24-april-2024) (24 April 2024)
+* **Latest release**: [25.08](#version-2508-6-august-2025) (6 August 2025)
 
 ## Strobe intensities
 | Strobe type       | Intensity       |
@@ -32,6 +32,43 @@ A total of five wall-mount devices are included.
 * **MT4-115-WH-VFR** – red horn + white 15cd strobe with FIRE lettering
 * **MT4-115-WH-VNS** – silver horn + white 15cd unlettered strobe
 * **MT4-24-LS/MS/IS-VFR** – red horn + UL 1971-compliant 15/30/75cd strobe with FIRE lettering
+
+## Changelog
+
+### Version 25.08 (6 August 2025)
+
+{{% details title="Click me to reveal" closed="false" %}}
+
+* Tone logic closer to that of other alarms. No more BindableEvents!
+* Updated all alarms to use CollectionService
+
+{{% /details %}}
+
+
+### Version 24.08 (4 August 2024)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* Updated horn model
+
+{{% /details %}}
+
+### Version 24.05 (27 May 2024)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* Added flashtube click SFX.
+* Added MT4-24-LS/MS/IS-VFR.
+
+{{% /details %}}
+
+### Version 24.04 (24 April 2024)
+
+{{% details title="Click me to reveal" closed="true" %}}
+
+* First version to be released.
+
+{{% /details %}}
 
 ## Known issues
 * None
