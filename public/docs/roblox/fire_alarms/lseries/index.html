@@ -32,7 +32,7 @@ These alarms were tested with moneyLAB’s RSA2000 system and should also be com
 IMPORTANT: With Release 25.04, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the “!Scripts_PVC_P03” folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which scripts are needed – this is by no means essential.">
   <meta itemprop="datePublished" content="2024-06-12T16:05:20-07:00">
   <meta itemprop="dateModified" content="2024-06-12T16:05:20-07:00">
-  <meta itemprop="wordCount" content="1138">
+  <meta itemprop="wordCount" content="1175">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="L-Series">
   <meta name="twitter:description" content="The System Sensor L-Series collection is PVC’s most popular. It was first released in October 2019. The collection contains 58 devices.
@@ -759,6 +759,10 @@ IMPORTANT: With Release 25.04, these alarms now use CollectionService. As such, 
         </a>
       </li>
       <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
+        <a class="ltr:hx-pl-4 rtl:hx-pr-4 hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#version-2504a-7-august-2025">Version 25.04a (7 August 2025)
+        </a>
+      </li>
+      <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
         <a class="ltr:hx-pl-4 rtl:hx-pr-4 hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#version-2504-30-april-2025">Version 25.04 (30 April 2025)
         </a>
       </li>
@@ -851,7 +855,7 @@ IMPORTANT: With Release 25.04, these alarms now use CollectionService. As such, 
 <p>The <strong>System Sensor L-Series</strong> collection is PVC&rsquo;s most popular. It was first released in October 2019. The collection contains 58 devices.</p>
 <p>These alarms were tested with moneyLAB&rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.</p>
 <p><strong>IMPORTANT:</strong> With Release 25.04, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the &ldquo;!Scripts_PVC_P03&rdquo; folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which scripts are needed – this is by no means essential.</p>
-<p>You should also remove tags from alarms that aren&rsquo;t part of a system to prevent an issue that, more often than not, prevents alarms that are actually part of a system from working correctly. The &ldquo;Detagger&rdquo; script handles this automatically.</p>
+<p><del>You should also remove tags from alarms that aren&rsquo;t part of a system to prevent an issue that, more often than not, prevents alarms that are actually part of a system from working correctly. The &ldquo;Detagger&rdquo; script handles this automatically.</del> This was fixed with version 25.04a.</p>
 <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
     <a
       class="hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900"href="https://create.roblox.com/store/asset/7031992297/"
@@ -865,7 +869,7 @@ IMPORTANT: With Release 25.04, these alarms now use CollectionService. As such, 
     <a href="#details" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
 <li><strong>First release</strong> (overall): <a href="#alpha-1-25-october-2019" >Alpha 1</a> (25 October 2019)</li>
 <li><strong>First release</strong> (PVC): <a href="#version-2107-1-july-2021" >21.07</a> (1 July 2021)</li>
-<li><strong>Latest release</strong>: <a href="#version-2504-30-april-2025" >25.04</a> (30 April 2025)</li>
+<li><strong>Latest release</strong>: <a href="#version-2504-7-august-2025" >25.04a</a> (7 August 2025)</li>
 </ul>
 <h2>Contents<span class="hx-absolute -hx-mt-20" id="contents"></span>
     <a href="#contents" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>A total of 58 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.</p>
@@ -1013,8 +1017,20 @@ IMPORTANT: With Release 25.04, these alarms now use CollectionService. As such, 
 <li><strong>SPSWL-CLR-ALERT</strong> – ceiling-mount combination speaker/strobe with clear lens and ALERT lettering</li>
 </ul>
 <h2>Changelog<span class="hx-absolute -hx-mt-20" id="changelog"></span>
-    <a href="#changelog" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Version 25.04 (30 April 2025)<span class="hx-absolute -hx-mt-20" id="version-2504-30-april-2025"></span>
-    <a href="#version-2504-30-april-2025" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><details class="last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group" open>
+    <a href="#changelog" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Version 25.04a (7 August 2025)<span class="hx-absolute -hx-mt-20" id="version-2504a-7-august-2025"></span>
+    <a href="#version-2504a-7-august-2025" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><details class="last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group" open>
+  <summary class="hx-flex hx-items-center hx-cursor-pointer hx-select-none hx-list-none hx-p-1 hx-rounded hx-transition-colors hover:hx-bg-gray-100 dark:hover:hx-bg-neutral-800 before:hx-mr-1 before:hx-inline-block before:hx-transition-transform before:hx-content-[''] dark:before:hx-invert rtl:before:hx-rotate-180 group-open:before:hx-rotate-90">
+    <strong class="hx-text-lg">Click me to reveal</strong>
+  </summary>
+  <div class="hx-p-2 hx-overflow-hidden">
+    <ul>
+<li>Scripts will now ignore unused alarms. &ldquo;Unused&rdquo; is determined by an alarm being part of an RFS-based NAC peripheral.</li>
+<li>Deprecated Detagger script</li>
+</ul>
+  </div>
+</details>
+<h3>Version 25.04 (30 April 2025)<span class="hx-absolute -hx-mt-20" id="version-2504-30-april-2025"></span>
+    <a href="#version-2504-30-april-2025" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><details class="last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group" >
   <summary class="hx-flex hx-items-center hx-cursor-pointer hx-select-none hx-list-none hx-p-1 hx-rounded hx-transition-colors hover:hx-bg-gray-100 dark:hover:hx-bg-neutral-800 before:hx-mr-1 before:hx-inline-block before:hx-transition-transform before:hx-content-[''] dark:before:hx-invert rtl:before:hx-rotate-180 group-open:before:hx-rotate-90">
     <strong class="hx-text-lg">Click me to reveal</strong>
   </summary>

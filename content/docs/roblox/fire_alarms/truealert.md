@@ -18,7 +18,7 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 ## Details
 * **First release**: [23.07](#version-2307-4-july-2023) (4 July 2023)
-* **Latest release**: [25.02a](#version-2502a-10-april-2025) (10 April 2025)
+* **Latest release**: [25.02b](#version-2502b-7-august-2025) (7 August 2025)
 
 ## Strobe intensities
 | Strobe type       | Options         | Models |
@@ -63,6 +63,15 @@ The pack contains 24 wall-mount devices.
 {{< /tabs >}}
 
 ## Changelog
+### Version 25.02b (7 August 2025)
+
+{{% details title="Click me to reveal" closed="false" %}}
+
+* Scripts will now ignore unused alarms. "Unused" is determined by an alarm being part of an RFS-based NAC peripheral.
+* Added strobe intensity ModuleScript
+
+{{% /details %}}
+
 ### Version 25.02a (10 April 2025)
 
 {{% details title="Click me to reveal" closed="false" %}}

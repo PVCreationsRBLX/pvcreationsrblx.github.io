@@ -30,7 +30,7 @@ These alarms were tested with moneyLAB’s RSA2000 system and should also be com
 IMPORTANT: With Release 25.02, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the “!Scripts_PVC_P10” folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which individual scripts are needed – this is by no means essential.">
   <meta itemprop="datePublished" content="2024-06-13T12:35:55-07:00">
   <meta itemprop="dateModified" content="2024-06-13T12:35:55-07:00">
-  <meta itemprop="wordCount" content="483">
+  <meta itemprop="wordCount" content="515">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="TrueAlert">
   <meta name="twitter:description" content="The Simplex TrueAlert SmartSync collection is PVC’s first new collection in almost four years!
@@ -751,6 +751,10 @@ IMPORTANT: With Release 25.02, these alarms now use CollectionService. As such, 
         </a>
       </li>
       <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
+        <a class="ltr:hx-pl-4 rtl:hx-pr-4 hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#version-2502b-7-august-2025">Version 25.02b (7 August 2025)
+        </a>
+      </li>
+      <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
         <a class="ltr:hx-pl-4 rtl:hx-pr-4 hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#version-2502a-10-april-2025">Version 25.02a (10 April 2025)
         </a>
       </li>
@@ -814,7 +818,7 @@ IMPORTANT: With Release 25.02, these alarms now use CollectionService. As such, 
 <h2>Details<span class="hx-absolute -hx-mt-20" id="details"></span>
     <a href="#details" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
 <li><strong>First release</strong>: <a href="#version-2307-4-july-2023" >23.07</a> (4 July 2023)</li>
-<li><strong>Latest release</strong>: <a href="#version-2502a-10-april-2025" >25.02a</a> (10 April 2025)</li>
+<li><strong>Latest release</strong>: <a href="#version-2502b-7-august-2025" >25.02b</a> (7 August 2025)</li>
 </ul>
 <h2>Strobe intensities<span class="hx-absolute -hx-mt-20" id="strobe-intensities"></span>
     <a href="#strobe-intensities" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><table>
@@ -900,7 +904,19 @@ IMPORTANT: With Release 25.02, these alarms now use CollectionService. As such, 
 </div>
 </div>
 <h2>Changelog<span class="hx-absolute -hx-mt-20" id="changelog"></span>
-    <a href="#changelog" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Version 25.02a (10 April 2025)<span class="hx-absolute -hx-mt-20" id="version-2502a-10-april-2025"></span>
+    <a href="#changelog" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Version 25.02b (7 August 2025)<span class="hx-absolute -hx-mt-20" id="version-2502b-7-august-2025"></span>
+    <a href="#version-2502b-7-august-2025" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><details class="last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group" open>
+  <summary class="hx-flex hx-items-center hx-cursor-pointer hx-select-none hx-list-none hx-p-1 hx-rounded hx-transition-colors hover:hx-bg-gray-100 dark:hover:hx-bg-neutral-800 before:hx-mr-1 before:hx-inline-block before:hx-transition-transform before:hx-content-[''] dark:before:hx-invert rtl:before:hx-rotate-180 group-open:before:hx-rotate-90">
+    <strong class="hx-text-lg">Click me to reveal</strong>
+  </summary>
+  <div class="hx-p-2 hx-overflow-hidden">
+    <ul>
+<li>Scripts will now ignore unused alarms. &ldquo;Unused&rdquo; is determined by an alarm being part of an RFS-based NAC peripheral.</li>
+<li>Added strobe intensity ModuleScript</li>
+</ul>
+  </div>
+</details>
+<h3>Version 25.02a (10 April 2025)<span class="hx-absolute -hx-mt-20" id="version-2502a-10-april-2025"></span>
     <a href="#version-2502a-10-april-2025" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><details class="last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group" open>
   <summary class="hx-flex hx-items-center hx-cursor-pointer hx-select-none hx-list-none hx-p-1 hx-rounded hx-transition-colors hover:hx-bg-gray-100 dark:hover:hx-bg-neutral-800 before:hx-mr-1 before:hx-inline-block before:hx-transition-transform before:hx-content-[''] dark:before:hx-invert rtl:before:hx-rotate-180 group-open:before:hx-rotate-90">
     <strong class="hx-text-lg">Click me to reveal</strong>

@@ -22,7 +22,7 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 * **First release** (overall): [Release Candidate 1](#release-candidate-1-19-january-2019) (19 January 2019)
 * **First release** (PVC): [21.11](#version-2111-2-november-2021) (2 November 2021)
-* **Latest release**: [25.04b](#version-2504b-26-may-2025) (26 May 2025)
+* **Latest release**: [25.04c](#version-2504c-7-august-2025) (7 August 2025)
 
 ## Contents
 
@@ -166,9 +166,18 @@ A total of 106 devices are included.
 
 ## Changelog
 
-### Version 25.04b (26 May 2025)
+### Version 25.04c (7 August 2025)
 
 {{% details title="Click me to reveal" closed="false" %}}
+
+* Scripts will now ignore unused alarms. "Unused" is determined by an alarm being part of an RFS-based NAC peripheral.
+* Deprecated Detagger script
+
+{{% /details %}}
+
+### Version 25.04b (26 May 2025)
+
+{{% details title="Click me to reveal" closed="true" %}}
 
 * Implemented some logic improvements introduced with the L-Series
 

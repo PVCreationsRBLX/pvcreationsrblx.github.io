@@ -13,7 +13,7 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 **IMPORTANT:** With Release 25.04, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the "!Scripts_PVC_P03" folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which scripts are needed – this is by no means essential.
 	
-You should also remove tags from alarms that aren't part of a system to prevent an issue that, more often than not, prevents alarms that are actually part of a system from working correctly. The "Detagger" script handles this automatically.
+~~You should also remove tags from alarms that aren't part of a system to prevent an issue that, more often than not, prevents alarms that are actually part of a system from working correctly. The "Detagger" script handles this automatically.~~ This was fixed with version 25.04a.
 
 {{< cards >}}
     {{< card link="https://create.roblox.com/store/asset/7031992297/" title="Roblox Creator Store" icon="robloxstudio" >}}
@@ -23,7 +23,7 @@ You should also remove tags from alarms that aren't part of a system to prevent 
 ## Details
 * **First release** (overall): [Alpha 1](#alpha-1-25-october-2019) (25 October 2019)
 * **First release** (PVC): [21.07](#version-2107-1-july-2021) (1 July 2021)
-* **Latest release**: [25.04](#version-2504-30-april-2025) (30 April 2025)
+* **Latest release**: [25.04a](#version-2504-7-august-2025) (7 August 2025)
 
 ## Contents
 A total of 58 wall- and ceiling-mounted, indoor-rated alarm appliances are included, for both fire and general notification use.
@@ -120,9 +120,18 @@ The label parts weren't removed from these models, allowing you to easily add la
 * **SPSWL-CLR-ALERT** – ceiling-mount combination speaker/strobe with clear lens and ALERT lettering
 
 ## Changelog
-### Version 25.04 (30 April 2025)
+### Version 25.04a (7 August 2025)
 
 {{% details title="Click me to reveal" closed="false" %}}
+
+* Scripts will now ignore unused alarms. "Unused" is determined by an alarm being part of an RFS-based NAC peripheral.
+* Deprecated Detagger script
+
+{{% /details %}}
+
+### Version 25.04 (30 April 2025)
+
+{{% details title="Click me to reveal" closed="true" %}}
 
 * Upgraded all models to use CollectionService, Attributes, and tone/strobe intensity modules
 * New tone samples, plus new Temporal 4 tone, for low-frequency models 

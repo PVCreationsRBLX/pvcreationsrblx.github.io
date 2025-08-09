@@ -9,6 +9,10 @@ The **Wheelock Exceder Xenon** collection was first released in mid-2019, with a
 
 These alarms were tested with moneyLAB's RSA2000 system and should also be compatible with other systems based on that standard.
 
+**IMPORTANT:** With Release 25.05, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the "!Scripts_PVC_P02" folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which scripts are needed – this is by no means essential.
+	
+If you're using version 25.05, you should also remove tags from alarms that aren't part of a system to prevent an issue that, more often than not, prevents alarms that are actually part of a system from working correctly. The "Detagger" script handles this automatically. **This was fixed with version 25.05a**, and the "Detagger" script was deprecated. 
+
 {{< cards >}}
     {{< card link="https://create.roblox.com/store/asset/6974666429/" title="Roblox Creator Store" icon="robloxstudio" >}}
     {{< card link="https://ko-fi.com/s/7f03967cf6" title="Ko-fi Shop" icon="kofi" >}}
@@ -18,7 +22,7 @@ These alarms were tested with moneyLAB's RSA2000 system and should also be compa
 
 * **First release** (overall): [Release Candidate 1α](#release-candidate-1α-31-july-2019) (31 July 2019)
 * **First release** (PVC): [21.06](#version-2106-19-june-2021) (19 June 2021)
-* **Latest release**: [25.05](#version-2505-26-may-2025) (26 May 2025)
+* **Latest release**: [25.05a](#version-2505a-7-august-2025) (26 May 2025)
 
 ## Contents
 
@@ -93,9 +97,19 @@ A total of 43 devices are included in this collection. This is one of two PVC fi
 
 ## Changelog
 
-### Version 25.05 (26 May 2025)
+### Version 25.05a (7 August 2025)
 
 {{% details title="Click me to reveal" closed="false" %}}
+
+* Scripts will now ignore unused alarms. "Unused" is determined by an alarm being part of an RFS-based NAC peripheral.
+* Deprecated Detagger script
+
+{{% /details %}}
+
+
+### Version 25.05 (26 May 2025)
+
+{{% details title="Click me to reveal" closed="true" %}}
 
 * Upgraded all models to use CollectionService
 
