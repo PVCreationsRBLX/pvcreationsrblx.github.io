@@ -1,6 +1,6 @@
 ---
-date: "2025-03-10"
-draft: true
+date: "2025-08-15"
+draft: false
 title: ATS-QJTI
 weight: 2
 ---
@@ -13,8 +13,26 @@ ATS-QJTI (short for American Truck Simulator Quick Job Truck Improvements), as i
 
 * Added new 4×2 config
 
-As of March 2025, these trucks are: Freightliner Cascadia (2019 and 2024), International LT, Kenworth T680 2014, Mack Anthem, Peterbilt 579, Volvo VNL (2014 and 2018), Western Star 57X. Truck-specific changes are described below.
+As of the 1.54 update, these trucks are: Freightliner Cascadia (2019 and 2024), International LT, Kenworth T680 2014, Mack Anthem, Peterbilt 579, Volvo VNL (2014 and 2018), Western Star 57X. Truck-specific changes are described below.
 
 ### International LT
 
-* Added facelift configs (plus powertrain changes) based on originals
+* Added facelift configs based on originals, plus powertrain changes (International S13 + T14, Cummins X15 + Eaton Endurant HD)
+
+### Mack Anthem
+
+* Added Black Edition config
+
+### Volvo VNL 2014
+
+* Steering wheel and interior match on configs where they didn’t originally
+
+### Western Star 57X
+
+* Additional basic configs based on originals
+
+## Download
+
+{{< cards >}}
+    {{< card link="https://truckymods.io/american-truck-simulator/others/ats-qjti-947037" title="TruckyMods" >}}
+{{< /cards >}}
