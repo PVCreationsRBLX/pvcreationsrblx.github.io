@@ -16,7 +16,7 @@ All ETS2 and ATS mods by PV Creations. They're not very big, mind you.
 ## Mods
 
 {{<callout type="warning">}}
-**IMPORTANT:** As of 3 July 2025, American Truck Simulator and Euro Truck Simulator 2 have been updated to version 1.55. My mods should have minimal (if any) issues with the new version, but if you have any issues with them, please let me know!
+**IMPORTANT:** As of 19 September 2025, American Truck Simulator and Euro Truck Simulator 2 have been updated to version 1.56. My mods should have minimal (if any) issues with the new version, but if you have any issues with them, please let me know!
 {{</callout>}}
 
 
