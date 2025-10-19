@@ -18,23 +18,42 @@
     <item>
       <title>ATS-QJTI</title>
       <link>http://localhost:1313/docs/ets2_ats/ats/ats-qjti/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/docs/ets2_ats/ats/ats-qjti/</guid>
       <description>
         
         
-        &lt;p&gt;ATS-QJTI (short for American Truck Simulator Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for American Truck Simulator. However, it focuses more on adding new configs to the Quick Job pool than fixing pre-existing ones, which was the primary goal of its &lt;a href=&#34;../ets2/ets2-qjti&#34; &gt;ETS2 counterpart&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Changes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;changes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;All trucks with a 4×2 chassis option&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;all-trucks-with-a-42-chassis-option&#34;&gt;&lt;/span&gt;
+        &lt;p&gt;ATS-QJTI (short for American Truck Simulator Quick Job Truck Improvements), as its name suggest, aims to improve some Quick Job truck configurations for American Truck Simulator. However, it focuses more on adding new configs to the Quick Job pool than fixing pre-existing ones, which was the primary goal of its &lt;a href=&#34;../ets2/ets2-qjti&#34;&gt;ETS2 counterpart&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Changes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;All trucks with a 4×2 chassis option&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;all-trucks-with-a-42-chassis-option&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#all-trucks-with-a-42-chassis-option&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Added new 4×2 config&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;As of March 2025, these trucks are: Freightliner Cascadia (2019 and 2024), International LT, Kenworth T680 2014, Mack Anthem, Peterbilt 579, Volvo VNL (2014 and 2018), Western Star 57X. Truck-specific changes are described below.&lt;/p&gt;
-&lt;h3&gt;International LT&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;international-lt&#34;&gt;&lt;/span&gt;
+&lt;p&gt;As of the 1.54 update, these trucks are: Freightliner Cascadia (2019 and 2024), International LT, Kenworth T680 2014, Mack Anthem, Peterbilt 579, Volvo VNL (2014 and 2018), Western Star 57X. Truck-specific changes are described below.&lt;/p&gt;
+&lt;h3&gt;International LT&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;international-lt&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#international-lt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Added facelift configs (plus powertrain changes) based on originals&lt;/li&gt;
+&lt;li&gt;Added facelift configs based on originals, plus powertrain changes (International S13 + T14, Cummins X15 + Eaton Endurant HD)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Mack Anthem&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mack-anthem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mack-anthem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Added Black Edition config&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Volvo VNL 2014&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;volvo-vnl-2014&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#volvo-vnl-2014&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Steering wheel and interior match on configs where they didn’t originally&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Western Star 57X&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;western-star-57x&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#western-star-57x&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Additional basic configs based on originals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Download&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+    &lt;a
+      class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://truckymods.io/american-truck-simulator/others/ats-qjti-947037&#34;
+        target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;TruckyMods&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
 
       </description>
     </item>
@@ -49,11 +68,11 @@
         
         
         &lt;p&gt;This mod adjusts the flash rate of the SCS International LT&amp;rsquo;s and LoneStar&amp;rsquo;s turn signals to be more realistic (flash duration of 0.4 sec → 0.325 sec).&lt;/p&gt;
-&lt;h2&gt;Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+&lt;h2&gt;Download&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
     &lt;a
-      class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://truckymods.io/american-truck-simulator/others/ltlonestar-realistic-blinker-speed&#34;
-        target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;TruckyMods&lt;/span&gt;&lt;/a&gt;
+      class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://truckymods.io/american-truck-simulator/others/ltlonestar-realistic-blinker-speed&#34;
+        target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;TruckyMods&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 

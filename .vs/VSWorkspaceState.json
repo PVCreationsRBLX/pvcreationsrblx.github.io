@@ -3,8 +3,11 @@
     "",
     "\\assets",
     "\\content",
-    "\\content\\blog"
+    "\\content\\docs",
+    "\\content\\docs\\guides",
+    "\\content\\docs\\roblox",
+    "\\content\\docs\\roblox\\fire_alarms"
   ],
-  "SelectedNode": "\\content\\blog\\rebrand.md",
+  "SelectedNode": "\\content\\docs\\roblox\\fire_alarms\\exceder_led3.md",
   "PreviewInSolutionExplorer": false
 }
