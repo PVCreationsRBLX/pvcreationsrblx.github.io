@@ -7,6 +7,10 @@
   --hx-font-sans: 'Noto Sans', 'Arial', 'Helvetica', sans-serif;
 }
 
+:host {
+  font-family: var(--hx-font-sans)
+}
+
 html {
 	letter-spacing: 0.021px;
 }
