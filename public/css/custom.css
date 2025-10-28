@@ -12,10 +12,12 @@
 }
 
 html {
+  font-family: var(--hx-font-sans);
 	letter-spacing: 0.021px;
 }
 
 .content {
+  font-family: var(--hx-font-sans);
 	letter-spacing: 0.021px;
 }
 
