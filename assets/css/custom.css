@@ -11,6 +11,11 @@ html {
 	letter-spacing: 0.021px;
 }
 
+.content {
+	font-family: 'Noto Sans', 'Arial', 'Helvetica', sans-serif;
+	letter-spacing: 0.021px;
+}
+
 .pvc-link {
   --tw-text-opacity: 1;
   color: hsl(var(--primary-hue) var(--primary-saturation) calc(calc(var(--primary-lightness) / 50) * 45) / var(--tw-text-opacity));
