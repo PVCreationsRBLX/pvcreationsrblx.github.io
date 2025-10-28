@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<!-- <meta http-equiv="refresh" content="5; {{ .Site.Home.RelPermalink }}" /> -->
+
+<link rel="stylesheet" href="/assets/css/404.css">
+
+<div style="height:76vh; text-align:center; display:flex; flex-direction:column; align-items:center; justify-content:center">
+  <h1 style="font-size:2.5rem; font-weight:700">404</h1>
+  <p>The page you requested could not be found.</p>
+
+  <p>
+    <a class="pvc-link" href="{{ .Site.Home.RelPermalink }}">
+      Return to home page
+    </a>
+  </p>
+</div>
+{{ end }}
