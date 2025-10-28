@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PV Creations – Guides</title>
-    <link>http://localhost:1313/docs/guides/</link>
+    <link>https://pvcreationsrblx.github.io/docs/guides/</link>
     <description>Recent content in Guides on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 05 Sep 2024 05:00:00 -0700</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/guides/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://pvcreationsrblx.github.io/docs/guides/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,14 +17,14 @@
     
     <item>
       <title>Setting an attribute</title>
-      <link>http://localhost:1313/docs/guides/setattribute/</link>
+      <link>https://pvcreationsrblx.github.io/docs/guides/setattribute/</link>
       <pubDate>Thu, 05 Sep 2024 21:14:17 -0700</pubDate>
       
-      <guid>http://localhost:1313/docs/guides/setattribute/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/guides/setattribute/</guid>
       <description>
         
         
-        &lt;p&gt;This guide shows you how to set an attribute for any Roblox instance. Beginning with PVC&amp;rsquo;s &lt;a href=&#34;http://localhost:1313/docs/roblox/fire_alarms/mt4/&#34;&gt;MT4 series&lt;/a&gt;, this method has been adopted for changing alarm parameters such as tone and strobe intensity (some models only), instead of using the traditional method of havivng all parameters defined in a script. This allows developers to more easily make use of services like &lt;a href=&#34;https://create.roblox.com/docs/reference/engine/classes/CollectionService&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CollectionService&lt;/a&gt;, if necessary, while maintaining individuality between multiple alarms.&lt;/p&gt;
+        &lt;p&gt;This guide shows you how to set an attribute for any Roblox instance. Beginning with PVC&amp;rsquo;s &lt;a href=&#34;https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/mt4/&#34;&gt;MT4 series&lt;/a&gt;, this method has been adopted for changing alarm parameters such as tone and strobe intensity (some models only), instead of using the traditional method of havivng all parameters defined in a script. This allows developers to more easily make use of services like &lt;a href=&#34;https://create.roblox.com/docs/reference/engine/classes/CollectionService&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CollectionService&lt;/a&gt;, if necessary, while maintaining individuality between multiple alarms.&lt;/p&gt;
 &lt;h2&gt;Prerequisites&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prerequisites&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#prerequisites&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You will need:&lt;/p&gt;
 &lt;ul&gt;

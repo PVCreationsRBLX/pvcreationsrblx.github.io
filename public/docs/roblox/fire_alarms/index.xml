@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PV Creations – Fire Alarms</title>
-    <link>http://localhost:1313/docs/roblox/fire_alarms/</link>
+    <link>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/</link>
     <description>Recent content in Fire Alarms on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Jun 2024 16:08:23 -0700</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/roblox/fire_alarms/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,14 +17,14 @@
     
     <item>
       <title>Exceder LED3</title>
-      <link>http://localhost:1313/docs/roblox/fire_alarms/exceder_led3/</link>
+      <link>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/exceder_led3/</link>
       <pubDate>Thu, 13 Jun 2024 13:27:02 -0700</pubDate>
       
-      <guid>http://localhost:1313/docs/roblox/fire_alarms/exceder_led3/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/exceder_led3/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/main_led3.webp&#34; alt=&#34;LED3 Main&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://pvcreationsrblx.github.io/images/main_led3.webp&#34; alt=&#34;LED3 Main&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;Wheelock Exceder LED3&lt;/strong&gt; collection is PVC&amp;rsquo;s very first – and largest. It was first released in January 2019, with a remastered version releasing in 2021, consisting of completely remodeled wall-mount devices among other updates. Not to mention lower poly count – that&amp;rsquo;s always nice!&lt;/p&gt;
 &lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;IMPORTANT:&lt;/strong&gt; With Release 25.04, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the &amp;ldquo;!Scripts_PVC_P01R&amp;rdquo; folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which scripts are needed – this is by no means essential.&lt;/p&gt;
@@ -434,10 +434,10 @@
     
     <item>
       <title>Exceder Xenon</title>
-      <link>http://localhost:1313/docs/roblox/fire_alarms/exceder_xe/</link>
+      <link>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/exceder_xe/</link>
       <pubDate>Thu, 13 Jun 2024 13:26:56 -0700</pubDate>
       
-      <guid>http://localhost:1313/docs/roblox/fire_alarms/exceder_xe/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/exceder_xe/</guid>
       <description>
         
         
@@ -670,14 +670,14 @@
     
     <item>
       <title>L-Series</title>
-      <link>http://localhost:1313/docs/roblox/fire_alarms/lseries/</link>
+      <link>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/lseries/</link>
       <pubDate>Wed, 12 Jun 2024 16:05:20 -0700</pubDate>
       
-      <guid>http://localhost:1313/docs/roblox/fire_alarms/lseries/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/lseries/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/main_lseries.webp&#34; alt=&#34;L-Series Main&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://pvcreationsrblx.github.io/images/main_lseries.webp&#34; alt=&#34;L-Series Main&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;System Sensor L-Series&lt;/strong&gt; collection is PVC&amp;rsquo;s most popular. It was first released in October 2019. The collection contains 58 devices.&lt;/p&gt;
 &lt;p&gt;These alarms were tested with moneyLAB&amp;rsquo;s RSA2000 system and should also be compatible with other systems based on that standard.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;IMPORTANT:&lt;/strong&gt; With Release 25.04, these alarms now use CollectionService. As such, their scripts have been extensively restructured in a way that means that alarms no longer have individual scripts. All alarms are now controlled by the scripts in the &amp;ldquo;!Scripts_PVC_P03&amp;rdquo; folder. I recommend you place this folder to ServerScriptService, but because the alarms have no module calls – for which scripts are needed – this is by no means essential.&lt;/p&gt;
@@ -1067,10 +1067,10 @@
     
     <item>
       <title>TrueAlert</title>
-      <link>http://localhost:1313/docs/roblox/fire_alarms/truealert/</link>
+      <link>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/truealert/</link>
       <pubDate>Thu, 13 Jun 2024 12:35:55 -0700</pubDate>
       
-      <guid>http://localhost:1313/docs/roblox/fire_alarms/truealert/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/truealert/</guid>
       <description>
         
         
@@ -1253,10 +1253,10 @@
     
     <item>
       <title>MT4</title>
-      <link>http://localhost:1313/docs/roblox/fire_alarms/mt4/</link>
+      <link>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/mt4/</link>
       <pubDate>Wed, 12 Jun 2024 17:02:00 -0700</pubDate>
       
-      <guid>http://localhost:1313/docs/roblox/fire_alarms/mt4/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/mt4/</guid>
       <description>
         
         
