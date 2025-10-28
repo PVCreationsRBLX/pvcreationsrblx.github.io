@@ -4,15 +4,18 @@
   --primary-hue: 285deg;
   --primary-saturation: 100%;
   --primary-lightness: 50%;
+  --hx-font-sans: 'Noto Sans', 'Arial', 'Helvetica', sans-serif;
+}
+
+:host {
+  font-family: var(--hx-font-sans)
 }
 
 html {
-	font-family: 'Noto Sans', 'Arial', 'Helvetica', sans-serif;
 	letter-spacing: 0.021px;
 }
 
 .content {
-	font-family: 'Noto Sans', 'Arial', 'Helvetica', sans-serif;
 	letter-spacing: 0.021px;
 }
 
