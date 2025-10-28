@@ -12,6 +12,8 @@ This site is a **work in progress**!
 
 ![Building](images/main.webp)
 
+See the new home page [here](/_index_new) (**work in progress**).
+
 ## About this site
 
 This website is intended to serve as a reference for all things PV Creations. It's going to be quite detailed, containing tidbits about a lot of things that wouldn't fit elsewhere.

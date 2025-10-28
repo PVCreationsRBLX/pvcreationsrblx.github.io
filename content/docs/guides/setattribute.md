@@ -26,16 +26,20 @@ This guide assumes you are not enrolled in the [Next Generation Studio Preview b
 
 ### Toggle the Object Explorer panel
 
-On the ribbon, in the **View** group, click the **Explorer** button. Alternatively, you can press Alt+X (Windows) or Option+X (macOS).
+* **2014 ribbon bar:** On the ribbon, in the **View** group, click the **Explorer** button.
+* **2025 ribbon bar:** On the ribbon, in the **Home** group, click the **Explorer** button. 
+
+Alternatively, you can press Alt+X (Windows) or Option+X (macOS).
 
 ### Toggle the Properties panel
 
-On the ribbon, in the **View** group, click the **Properties** button.
+* **2014 ribbon bar:** On the ribbon, in the **View** group, click the **Properties** button.
+* **2025 ribbon bar:** On the ribbon, in the **Home** group, click the **Properties** button. 
 
 ### Setting an attribute
 
-Select the desired instance in the viewport or the Object Explorer. The instance's properties appear in the Properties panel.
-If necessary, scroll down to the **Attributes** section.
-Set the desired attributes.
+* Select the desired instance in the viewport or the Object Explorer. The instance's properties appear in the Properties panel.
+* If necessary, scroll down to the **Attributes** section.
+* Set the desired attributes.
 
 {{% /steps %}}

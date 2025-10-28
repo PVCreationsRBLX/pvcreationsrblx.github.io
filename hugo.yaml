@@ -29,25 +29,28 @@ menu:
     - name: Docs
       pageRef: /docs
       weight: 1
+    - name: About
+      pageref: /about
+      weight: 2
     - name: Newsroom
       pageref: /blog
-      weight: 2
+      weight: 3
     - name: Search
       weight: 4
       params:
         type: search
     - name: PV Creations on Roblox
-      weight: 5
+      weight: 11
       url: "https://www.roblox.com/groups/11056797"
       params:
         icon: roblox
     - name: PV Creations Discord server
-      weight: 6
+      weight: 12
       url: "https://discord.gg/kFckVRv56b"
       params:
         icon: discord
     - name: PV Creations on Bluesky
-      weight: 7
+      weight: 13
       url: "https://bsky.app/profile/pvcreationsrblx.github.io"
       params:
         icon: bluesky
@@ -71,3 +74,9 @@ params:
      path: images/pvc-logo.svg
      dark: images/pvc-logo-darkmode.svg
      width: 45
+    width: wide  
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
