@@ -1,38 +1,56 @@
 ---
-date: "2024-06-12T15:33:52-07:00"
-draft: false
-title: ""
+draft: true
+title: "New Home"
+layout: hextra-home
 ---
 
-# Welcome to PV Creations
 
-{{<callout type="warning">}}
-This site is a **work in progress**!
-{{</callout>}}
+{{< hextra/hero-container
+    image="/images/main.webp"
+    imageTitle="Sturgeon Blue"
+    imageWidth="auto"
+    imageHeight="auto"
+>}}
 
-![Building](images/main.webp)
+<div class="hx:mt-6 hx:mb-6">
+{{< hextra/hero-headline >}}
+  Welcome to&nbsp;<br class="hx:sm:block hx:hidden" />PV Creations
+{{< /hextra/hero-headline >}}
+</div>
 
-See the new home page [here](/_index_new) (**work in progress**).
+<div class="hx:mb-12">
+{{< hextra/hero-subtitle >}}
+  Assets for Roblox and mods for&nbsp;<br class="hx:sm:block hx:hidden" />Euro Truck Simulator 2 and American Truck Simulator
+{{< /hextra/hero-subtitle >}}
+</div>
 
-## About this site
 
-This website is intended to serve as a reference for all things PV Creations. It's going to be quite detailed, containing tidbits about a lot of things that wouldn't fit elsewhere.
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-button class="pvc_herobutton" text="Docs" link="../docs" >}}
+{{< hextra/hero-button class="pvc_herobutton" text="About" link="../about" >}}
+{{< hextra/hero-button class="pvc_herobutton" text="Newsroom" link="../blog" >}}
+</div>
 
-## Feedback
+{{</ hextra/hero-container >}}
 
-Questions? Comments? Want to report an issue with the site? Feel free to leave your feedback in the [PVC Discord server](https://discord.gg/kFckVRv56b). Some of you are way better at this than I am! Alternatively, you can send your feedback to [pv.creations.rbx@gmail.com](mailto:pv.creations.rbx@gmail.com).
+{{< hextra/hero-section heading="h1" >}}&nbsp;{{< /hextra/hero-section >}}
 
-## Supporting PV Creations
+{{< hextra/feature-grid cols="3" >}}
+  {{< hextra/feature-card 
+    class="hx:aspect-[auto] hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
+    image="/images/main_mesa.webp" 
+    imageClass="hx:w-[90%] hx:sm:w-[90%] hx:dark:opacity-80" 
+    title="Roblox assets" >}}
 
-If you appreciate PV Creations' work, please consider donating!
+  {{< hextra/feature-card 
+    class="hx:aspect-[auto] hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
+    image="/images/main_ets2.webp" 
+    imageClass="hx:w-[90%] hx:sm:w-[90%] hx:dark:opacity-80" 
+    title="ETS2 mods" >}}  
 
-{{<cards>}}
-    {{<card link="https://ko-fi.com/pvcreations" icon="kofi" title="Donate via Ko-fi">}}
-{{</cards>}}
-
-If you are unable to donate, simply using PVC assets and spreading the word helps a lot!
-
-## Thanks
-
-* [Luke Smith](https://www.youtube.com/watch?v=cvDyQUpaFf4), some guy who went on a lengthy tirade about modern web bloat
-* [Simple Icons](https://icon-sets.iconify.design/simple-icons/) for the Roblox, Ko-fi, Linktree, Bluesky and Google Drive icons used
+  {{< hextra/feature-card 
+    class="hx:aspect-[auto] hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
+    image="/images/main_ats.webp" 
+    imageClass="hx:w-[90%] hx:sm:w-[90%] hx:dark:opacity-80" 
+    title="ATS mods" >}}  
+{{</ hextra/feature-grid >}}
