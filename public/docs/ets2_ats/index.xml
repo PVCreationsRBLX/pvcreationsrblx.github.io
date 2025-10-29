@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PV Creations – ETS2/ATS</title>
-    <link>http://localhost:1313/docs/ets2_ats/</link>
+    <link>https://pvcreationsrblx.github.io/docs/ets2_ats/</link>
     <description>Recent content in ETS2/ATS on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jun 2024 14:10:37 -0700</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/ets2_ats/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://pvcreationsrblx.github.io/docs/ets2_ats/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>American Truck Simulator</title>
-      <link>http://localhost:1313/docs/ets2_ats/ats/</link>
+      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ats/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ets2_ats/ats/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ats/</guid>
       <description>
         
         
@@ -32,7 +32,7 @@
           class=&#34;hextra-card-image&#34;
           loading=&#34;lazy&#34;
           decoding=&#34;async&#34;
-          src=&#34;http://localhost:1313/images/ets2_ats_mods/cards_ltls_blinker_hu_a4cf3005bf01959c.webp&#34;
+          src=&#34;https://pvcreationsrblx.github.io/images/ets2_ats_mods/cards_ltls_blinker_hu_a4cf3005bf01959c.webp&#34;
           width=&#34;800&#34;
           height=&#34;800&#34;
           
@@ -46,7 +46,7 @@
           class=&#34;hextra-card-image&#34;
           loading=&#34;lazy&#34;
           decoding=&#34;async&#34;
-          src=&#34;http://localhost:1313/images/ets2_ats_mods/cards_ats-qjti_hu_4cbb77458b2cd36a.webp&#34;
+          src=&#34;https://pvcreationsrblx.github.io/images/ets2_ats_mods/cards_ats-qjti_hu_4cbb77458b2cd36a.webp&#34;
           width=&#34;800&#34;
           height=&#34;800&#34;
           
@@ -61,10 +61,10 @@
     
     <item>
       <title>Euro Truck Simulator 2</title>
-      <link>http://localhost:1313/docs/ets2_ats/ets2/</link>
+      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/ets2_ats/ets2/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/</guid>
       <description>
         
         
@@ -76,7 +76,7 @@
           class=&#34;hextra-card-image&#34;
           loading=&#34;lazy&#34;
           decoding=&#34;async&#34;
-          src=&#34;http://localhost:1313/images/ets2_ats_mods/cards_etecht_buyable_hu_756d8fa28f642bd2.webp&#34;
+          src=&#34;https://pvcreationsrblx.github.io/images/ets2_ats_mods/cards_etecht_buyable_hu_756d8fa28f642bd2.webp&#34;
           width=&#34;800&#34;
           height=&#34;800&#34;
           
@@ -90,7 +90,7 @@
           class=&#34;hextra-card-image&#34;
           loading=&#34;lazy&#34;
           decoding=&#34;async&#34;
-          src=&#34;http://localhost:1313/images/ets2_ats_mods/cards_fh456_trnsm_hu_9441612b01f276b6.webp&#34;
+          src=&#34;https://pvcreationsrblx.github.io/images/ets2_ats_mods/cards_fh456_trnsm_hu_9441612b01f276b6.webp&#34;
           width=&#34;800&#34;
           height=&#34;800&#34;
           
@@ -104,7 +104,7 @@
           class=&#34;hextra-card-image&#34;
           loading=&#34;lazy&#34;
           decoding=&#34;async&#34;
-          src=&#34;http://localhost:1313/images/ets2_ats_mods/cards_fh456_defl_hu_7a57cb0a4f8947f7.webp&#34;
+          src=&#34;https://pvcreationsrblx.github.io/images/ets2_ats_mods/cards_fh456_defl_hu_7a57cb0a4f8947f7.webp&#34;
           width=&#34;800&#34;
           height=&#34;800&#34;
           
@@ -118,7 +118,7 @@
           class=&#34;hextra-card-image&#34;
           loading=&#34;lazy&#34;
           decoding=&#34;async&#34;
-          src=&#34;http://localhost:1313/images/ets2_ats_mods/cards_ets2-qjti_hu_5a5d04b737cbc93f.webp&#34;
+          src=&#34;https://pvcreationsrblx.github.io/images/ets2_ats_mods/cards_ets2-qjti_hu_5a5d04b737cbc93f.webp&#34;
           width=&#34;800&#34;
           height=&#34;800&#34;
           
@@ -132,7 +132,7 @@
           class=&#34;hextra-card-image&#34;
           loading=&#34;lazy&#34;
           decoding=&#34;async&#34;
-          src=&#34;http://localhost:1313/images/ets2_ats_mods/cards_sway_sfx_fix_hu_90e904083c9d1d1d.webp&#34;
+          src=&#34;https://pvcreationsrblx.github.io/images/ets2_ats_mods/cards_sway_sfx_fix_hu_90e904083c9d1d1d.webp&#34;
           width=&#34;800&#34;
           height=&#34;800&#34;
           

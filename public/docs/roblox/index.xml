@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PV Creations – Roblox</title>
-    <link>http://localhost:1313/docs/roblox/</link>
+    <link>https://pvcreationsrblx.github.io/docs/roblox/</link>
     <description>Recent content in Roblox on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jun 2024 14:02:51 -0700</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/roblox/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://pvcreationsrblx.github.io/docs/roblox/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Fire Alarms</title>
-      <link>http://localhost:1313/docs/roblox/fire_alarms/</link>
+      <link>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/</link>
       <pubDate>Tue, 25 Jun 2024 16:08:23 -0700</pubDate>
       
-      <guid>http://localhost:1313/docs/roblox/fire_alarms/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/roblox/fire_alarms/</guid>
       <description>
         
         
@@ -48,10 +48,10 @@
     
     <item>
       <title>Furniture</title>
-      <link>http://localhost:1313/docs/roblox/furniture/</link>
+      <link>https://pvcreationsrblx.github.io/docs/roblox/furniture/</link>
       <pubDate>Tue, 25 Jun 2024 16:10:56 -0700</pubDate>
       
-      <guid>http://localhost:1313/docs/roblox/furniture/</guid>
+      <guid>https://pvcreationsrblx.github.io/docs/roblox/furniture/</guid>
       <description>
         
         
@@ -74,19 +74,6 @@
 &lt;/div&gt;
 
 
-      </description>
-    </item>
-    
-    <item>
-      <title>Miscellaneous</title>
-      <link>http://localhost:1313/docs/roblox/misc/</link>
-      <pubDate>Tue, 25 Jun 2024 16:11:04 -0700</pubDate>
-      
-      <guid>http://localhost:1313/docs/roblox/misc/</guid>
-      <description>
-        
-        
-        
       </description>
     </item>
     
