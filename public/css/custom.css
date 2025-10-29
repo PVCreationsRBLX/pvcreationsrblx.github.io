@@ -1,10 +1,39 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face {
+  font-family: "Noto Sans";
+  font-display: swap;
+  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Noto Sans SemiBold";
+  font-display: swap;
+  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Noto Sans Bold";
+  font-display: swap;
+  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Noto Sans Black";
+  font-display: swap;
+  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+  font-weight: 900;
+}
+
+
 
 :root {
   --primary-hue: 285deg;
   --primary-saturation: 100%;
   --primary-lightness: 50%;
-  --hx-font-sans: 'Noto Sans', 'Arial', 'Helvetica', sans-serif;
+  --hx-font-sans: 'Noto Sans', sans-serif;
 }
 
 :host {
