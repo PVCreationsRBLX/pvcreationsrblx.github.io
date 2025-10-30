@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Noto Sans";
   font-display: swap;
-  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2 supports variations");
   font-weight: normal;
   font-style: normal;
 }
@@ -9,21 +9,21 @@
 @font-face {
   font-family: "Noto Sans SemiBold";
   font-display: swap;
-  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2 supports variations");
   font-weight: 600;
 }
 
 @font-face {
   font-family: "Noto Sans Bold";
   font-display: swap;
-  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2 supports variations");
   font-weight: 700;
 }
 
 @font-face {
   font-family: "Noto Sans Black";
   font-display: swap;
-  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+  src: url("/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.woff2") format("woff2 supports variations");
   font-weight: 900;
 }
 
@@ -31,7 +31,7 @@
   --primary-hue: 285deg;
   --primary-saturation: 100%;
   --primary-lightness: 50%;
-  --hx-font-sans: 'Noto Sans', sans-serif;
+  --hx-font-sans: "Noto Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
 :host {
