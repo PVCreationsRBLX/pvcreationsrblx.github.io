@@ -11,4 +11,5 @@ weight: 2
     {{< card link="fh456_deflectors" image="/images/ets2_ats_mods/cards_fh456_defl.webp" title="Additional FH4/5/6 Deflectors" tag="1.57 compatible" tagType="info" >}}
     {{< card link="ets2-qjti" image="/images/ets2_ats_mods/cards_ets2-qjti.webp" title="ETS2-QJTI" tag="1.57 compatible" tagType="info" >}}
     {{< card link="sway_sfx_fix" image="/images/ets2_ats_mods/cards_sway_sfx_fix.webp" title="S-Way Interior Sound Fix" tag="obsolete" tagType="warning" >}}
+    {{< card link="fh6_hl_fix" image="" title="FH6 Headlight Guard Fix" tag="1.57 compatible" tagType="info" >}}
 {{< /cards >}}
