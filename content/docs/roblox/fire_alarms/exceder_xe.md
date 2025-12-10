@@ -22,7 +22,7 @@ If you're using version 25.05, you should also remove tags from alarms that aren
 
 * **First release** (overall): [Release Candidate 1α](#release-candidate-1α-31-july-2019) (31 July 2019)
 * **First release** (PVC): [21.06](#version-2106-19-june-2021) (19 June 2021)
-* **Latest release**: [25.05b](#version-2505a-9-december-2025) (9 December 2025)
+* **Latest release**: [25.05b](#version-2505b-9-december-2025) (9 December 2025)
 
 ## Contents
 
