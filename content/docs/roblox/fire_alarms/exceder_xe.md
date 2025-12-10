@@ -22,7 +22,7 @@ If you're using version 25.05, you should also remove tags from alarms that aren
 
 * **First release** (overall): [Release Candidate 1α](#release-candidate-1α-31-july-2019) (31 July 2019)
 * **First release** (PVC): [21.06](#version-2106-19-june-2021) (19 June 2021)
-* **Latest release**: [25.05a](#version-2505a-7-august-2025) (26 May 2025)
+* **Latest release**: [25.05b](#version-2505a-9-december-2025) (9 December 2025)
 
 ## Contents
 
@@ -97,9 +97,17 @@ A total of 43 devices are included in this collection. This is one of two PVC fi
 
 ## Changelog
 
-### Version 25.05a (7 August 2025)
+### Version 25.05b (9 December 2025)
 
 {{% details title="Click me to reveal" closed="false" %}}
+
+* Fixed ceiling mount alarms not working
+
+{{% /details %}}
+
+### Version 25.05a (7 August 2025)
+
+{{% details title="Click me to reveal" closed="true" %}}
 
 * Scripts will now ignore unused alarms. "Unused" is determined by an alarm being part of an RFS-based NAC peripheral.
 * Deprecated Detagger script
