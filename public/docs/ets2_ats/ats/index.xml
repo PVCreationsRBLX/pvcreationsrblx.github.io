@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PV Creations – American Truck Simulator</title>
-    <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ats/</link>
+    <link>http://localhost:1313/docs/ets2_ats/ats/</link>
     <description>Recent content in American Truck Simulator on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://pvcreationsrblx.github.io/docs/ets2_ats/ats/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/ets2_ats/ats/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>ATS-QJTI</title>
-      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ats/ats-qjti/</link>
+      <link>http://localhost:1313/docs/ets2_ats/ats/ats-qjti/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ats/ats-qjti/</guid>
+      <guid>http://localhost:1313/docs/ets2_ats/ats/ats-qjti/</guid>
       <description>
         
         
@@ -60,10 +60,10 @@
     
     <item>
       <title>LT/LoneStar Realistic Blinker Speed</title>
-      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ats/lt_lonestar_blinker/</link>
+      <link>http://localhost:1313/docs/ets2_ats/ats/lt_lonestar_blinker/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ats/lt_lonestar_blinker/</guid>
+      <guid>http://localhost:1313/docs/ets2_ats/ats/lt_lonestar_blinker/</guid>
       <description>
         
         

@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PV Creations – ETS2/ATS Updates</title>
-    <link>https://pvcreationsrblx.github.io/categories/ets2/ats-updates/</link>
+    <link>http://localhost:1313/categories/ets2/ats-updates/</link>
     <description>Recent content in ETS2/ATS Updates on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://pvcreationsrblx.github.io/categories/ets2/ats-updates/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/categories/ets2/ats-updates/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,44 +17,44 @@
     
     <item>
       <title>ETS2/ATS Mod Status (1.58)</title>
-      <link>https://pvcreationsrblx.github.io/blog/tsupdate-158/</link>
+      <link>http://localhost:1313/blog/tsupdate-158/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/blog/tsupdate-158/</guid>
+      <guid>http://localhost:1313/blog/tsupdate-158/</guid>
       <description>
         
         
         &lt;p&gt;Since ATS 1.58 came out yesterday and ETS2 1.58 is apparently coming out tomorrow, figured I&amp;rsquo;d write this.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/ets2-qjti/&#34;&gt;ETS2-QJTI&lt;/a&gt; release 26.01 has some issues with the 1.58 update. This is due to SCS changing some things around with the Scania R &amp;amp; S with this update. Older releases, however, should work fine. SCS already fixed the issue that version intended to fix, so that override will be removed with the next update anyway.&lt;/p&gt;
-&lt;p&gt;I will also need to verify if &lt;a href=&#34;https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/fh6_hl_fix/&#34;&gt;FH6 Headlight Guard Fix&lt;/a&gt; needs tweaking.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/ets2_ats/ets2/ets2-qjti/&#34;&gt;ETS2-QJTI&lt;/a&gt; release 26.01 has some issues with the 1.58 update. This is due to SCS changing some things around with the Scania R &amp;amp; S with this update. Older releases, however, should work fine. SCS already fixed the issue that version intended to fix, so that override will be removed with the next update anyway.&lt;/p&gt;
+&lt;p&gt;~~I will also need to verify if &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/ets2/fh6_hl_fix/&#34;&gt;FH6 Headlight Guard Fix&lt;/a&gt; needs tweaking. ~~ &lt;strong&gt;UPDATE:&lt;/strong&gt; This mod is now obsolete with 1.58.&lt;/p&gt;
 &lt;p&gt;It appears that all other currently supported mods for Euro Truck Simulator 2 and American Truck Simulator work without issues with the 1.58 update.&lt;/p&gt;
-&lt;p&gt;You can see all mods &lt;a href=&#34;https://pvcreationsrblx.github.io/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>ETS2/ATS Mod Status (1.57)</title>
-      <link>https://pvcreationsrblx.github.io/blog/tsupdate-157/</link>
+      <link>http://localhost:1313/blog/tsupdate-157/</link>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/blog/tsupdate-157/</guid>
+      <guid>http://localhost:1313/blog/tsupdate-157/</guid>
       <description>
         
         
         &lt;p&gt;I wrote the last update because I was going to be on vacation the week following, leaving me unable to update any mods.&lt;/p&gt;
 &lt;p&gt;It appears that all currently supported mods for Euro Truck Simulator 2 and American Truck Simulator work without issues with the 1.57 update.&lt;/p&gt;
-&lt;p&gt;You can see all mods &lt;a href=&#34;https://pvcreationsrblx.github.io/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>TruckyMods update</title>
-      <link>https://pvcreationsrblx.github.io/blog/modsupdate-251118/</link>
+      <link>http://localhost:1313/blog/modsupdate-251118/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/blog/modsupdate-251118/</guid>
+      <guid>http://localhost:1313/blog/modsupdate-251118/</guid>
       <description>
         
         
@@ -66,47 +66,47 @@
     
     <item>
       <title>ETS2 Mod Status (1.57 Open Beta)</title>
-      <link>https://pvcreationsrblx.github.io/blog/tsupdate-157ob/</link>
+      <link>http://localhost:1313/blog/tsupdate-157ob/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/blog/tsupdate-157ob/</guid>
+      <guid>http://localhost:1313/blog/tsupdate-157ob/</guid>
       <description>
         
         
         &lt;p&gt;I&amp;rsquo;m not sure if any mods need updating at the moment – probably not. At the time I&amp;rsquo;m writing this, I&amp;rsquo;m currently downloading the open beta for ETS2 1.57.&lt;/p&gt;
 &lt;p&gt;Depending on how this update affects the Scania R and S Quick Job trucks, which were &lt;a href=&#34;https://blog.scssoft.com/2025/11/ets2-157-scania-r-s-trucks-update.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updated with this version&lt;/a&gt;, ETS2-QJTI &lt;em&gt;may&lt;/em&gt; receive an update related to them. ETS2-QJTI never affected these trucks, so the current version should still work with 1.57.&lt;/p&gt;
-&lt;p&gt;You can see all mods &lt;a href=&#34;https://pvcreationsrblx.github.io/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>ETS2/ATS Mod Status (1.56)</title>
-      <link>https://pvcreationsrblx.github.io/blog/tsupdate-156/</link>
+      <link>http://localhost:1313/blog/tsupdate-156/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/blog/tsupdate-156/</guid>
+      <guid>http://localhost:1313/blog/tsupdate-156/</guid>
       <description>
         
         
         &lt;p&gt;Long overdue, but it appears that all currently supported mods for Euro Truck Simulator 2 and American Truck Simulator work without issues with the 1.56 update.&lt;/p&gt;
 &lt;p&gt;An undocumented change with 1.56 was that FMOD was updated from version 2.02.25 to 2.03.09. A select few sound mods may be impacted by this change. I haven&amp;rsquo;t produced any, but others have, so check with them to see if they need updating.&lt;/p&gt;
-&lt;p&gt;You can see all mods &lt;a href=&#34;https://pvcreationsrblx.github.io/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>ETS2/ATS Mod Status (1.55)</title>
-      <link>https://pvcreationsrblx.github.io/blog/tsupdate-155/</link>
+      <link>http://localhost:1313/blog/tsupdate-155/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/blog/tsupdate-155/</guid>
+      <guid>http://localhost:1313/blog/tsupdate-155/</guid>
       <description>
         
         
         &lt;p&gt;It appears that all currently supported mods for Euro Truck Simulator 2 and American Truck Simulator work without issues with the 1.55 update.&lt;/p&gt;
-&lt;p&gt;You can see all mods &lt;a href=&#34;https://pvcreationsrblx.github.io/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>

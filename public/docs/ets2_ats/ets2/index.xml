@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PV Creations – Euro Truck Simulator 2</title>
-    <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/</link>
+    <link>http://localhost:1313/docs/ets2_ats/ets2/</link>
     <description>Recent content in Euro Truck Simulator 2 on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/ets2_ats/ets2/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,14 +17,14 @@
     
     <item>
       <title>Buyable E-Tech T</title>
-      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/buyable_etech_t/</link>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/buyable_etech_t/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/buyable_etech_t/</guid>
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/buyable_etech_t/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://pvcreationsrblx.github.io/images/mod_etecht_buyable.webp&#34; alt=&#34;Buyable E-Tech T&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mod_etecht_buyable.webp&#34; alt=&#34;Buyable E-Tech T&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck had already created such a mod.&lt;/p&gt;
 &lt;p&gt;The config also uses the less powerful 330 kW &amp;ldquo;engine&amp;rdquo; option so you don&amp;rsquo;t need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer, and you might catch one in the Used Truck Dealer as well.&lt;/p&gt;
 &lt;p&gt;Tested with ETS2 version 1.50 (&lt;strong&gt;minimum version&lt;/strong&gt;) and works without issues with version 1.57.&lt;/p&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>Additional FH4/5/6 Transmissions</title>
-      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/fh456_transmissions/</link>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/fh456_transmissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/fh456_transmissions/</guid>
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/fh456_transmissions/</guid>
       <description>
         
         
@@ -62,10 +62,10 @@
     
     <item>
       <title>Additional FH4/5/6 Deflectors</title>
-      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/fh456_deflectors/</link>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/fh456_deflectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/fh456_deflectors/</guid>
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/fh456_deflectors/</guid>
       <description>
         
         
@@ -88,10 +88,10 @@
     
     <item>
       <title>ETS2-QJTI</title>
-      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/ets2-qjti/</link>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/ets2-qjti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/ets2-qjti/</guid>
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/ets2-qjti/</guid>
       <description>
         
         
@@ -149,10 +149,10 @@
     
     <item>
       <title>S-Way Interior Sound Fix (Temp)</title>
-      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/sway_sfx_fix/</link>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/sway_sfx_fix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/sway_sfx_fix/</guid>
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/sway_sfx_fix/</guid>
       <description>
         
         
@@ -185,10 +185,10 @@
     
     <item>
       <title>FH6 Headlight Guard Fix</title>
-      <link>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/fh6_hl_fix/</link>
+      <link>http://localhost:1313/docs/ets2_ats/ets2/fh6_hl_fix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/ets2_ats/ets2/fh6_hl_fix/</guid>
+      <guid>http://localhost:1313/docs/ets2_ats/ets2/fh6_hl_fix/</guid>
       <description>
         
         
