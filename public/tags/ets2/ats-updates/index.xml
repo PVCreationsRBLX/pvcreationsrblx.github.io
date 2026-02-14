@@ -26,7 +26,7 @@
         
         &lt;p&gt;Since ATS 1.58 came out yesterday and ETS2 1.58 is apparently coming out tomorrow, figured I&amp;rsquo;d write this.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/ets2_ats/ets2/ets2-qjti/&#34;&gt;ETS2-QJTI&lt;/a&gt; release 26.01 has some issues with the 1.58 update. This is due to SCS changing some things around with the Scania R &amp;amp; S with this update. Older releases, however, should work fine. SCS already fixed the issue that version intended to fix, so that override will be removed with the next update anyway.&lt;/p&gt;
-&lt;p&gt;~~I will also need to verify if &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/ets2/fh6_hl_fix/&#34;&gt;FH6 Headlight Guard Fix&lt;/a&gt; needs tweaking. ~~ &lt;strong&gt;UPDATE:&lt;/strong&gt; This mod is now obsolete with 1.58.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;I will also need to verify if &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/ets2/fh6_hl_fix/&#34;&gt;FH6 Headlight Guard Fix&lt;/a&gt; needs tweaking.&lt;/del&gt; &lt;strong&gt;UPDATE FEB 12, 2026:&lt;/strong&gt; This mod is now obsolete with 1.58.&lt;/p&gt;
 &lt;p&gt;It appears that all other currently supported mods for Euro Truck Simulator 2 and American Truck Simulator work without issues with the 1.58 update.&lt;/p&gt;
 &lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
