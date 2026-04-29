@@ -1,12 +1,13 @@
 baseURL: https://pvcreationsrblx.github.io/
-languageCode: en
+language:
+  locale: en
 defaultContentLanguage: en
 title: PV Creations
 
 hasCJKLanguage: true
 languages:
   en:
-    languageName: English
+    label: English
     weight: 1
 
 module:
@@ -80,3 +81,11 @@ params:
     # light | dark | system
     default: system
     displayToggle: true
+
+  imageZoom:
+    enable: true
+
+security:
+  http:
+    urls:
+      - '(?i)^https?://[a-z]'

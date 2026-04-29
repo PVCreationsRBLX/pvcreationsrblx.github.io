@@ -25,7 +25,7 @@ Released in 2015.
 
 ## Nova
 
-Chairs inspired by Allsteel's Seek line. I tried to be very quirky, which ultimately led to the failure of the first generation released in 2015. A second generation, dubbed **Nova2**, was released in 2017.
+Chairs inspired by Allsteel's [Seek](https://www.allsteeloffice.com/seek) line. I tried to be very quirky, which ultimately led to the failure of the first generation released in 2015. A second generation, dubbed **Nova2**, was released in 2017.
 
 **No R15 support for Nova 1**
 
@@ -50,11 +50,13 @@ Huh? Released in 2015.
 
 ## Flourish I
 
-The venerable Flourish legacy series has cemented itself as SEET's quintessential product line (i.e. the one that's held up better than the rest). First released in 2015 with further variants being released up to 2018.
+![Flourish 1 chairs in blue](/images/galleries/legacy_seet/legacy_seet_flourish1.webp)
+
+Inspired by Artcobell's [Alphabet](https://catalog.artcobell.com/products/four-leg-caster-chair) and HON's [SmartLink](https://www.hon.com/chairs/smartlink) lines, the venerable Flourish legacy series has cemented itself as SEET's quintessential product line (i.e. the one that's held up better than the rest). First released in 2015 with further variants being released up to 2018.
 
 ## Explore
 
-Inspired by Artcobell's Discover series. Not very good. Released in 2015.
+Inspired by Artcobell's [Discover](https://catalog.artcobell.com/products/four-leg-stacking-chair) series. Not very good. Released in 2015.
 
 **No R15 support**
 
