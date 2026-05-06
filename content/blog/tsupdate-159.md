@@ -5,7 +5,7 @@ authors:
 categories:
 - ETS2/ATS Updates
 date: "2026-05-05"
-draft: true
+draft: false
 tags:
 - ETS2/ATS Updates
 title: ETS2/ATS Mod Status (1.59)
