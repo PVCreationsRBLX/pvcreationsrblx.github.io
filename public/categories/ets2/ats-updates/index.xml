@@ -5,7 +5,7 @@
     <description>Recent content in ETS2/ATS Updates on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/categories/ets2/ats-updates/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,13 +18,14 @@
     <item>
       <title>ETS2/ATS Mod Status (1.59)</title>
       <link>http://localhost:1313/blog/tsupdate-159/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/blog/tsupdate-159/</guid>
       <description>
         
         
-        &lt;p&gt;It appears that all currently supported mods for Euro Truck Simulator 2 and American Truck Simulator work without issues with the 1.59 update.&lt;/p&gt;
+        &lt;p&gt;Mods that rely on SCS localization string keys may have display issues in the games&amp;rsquo; user interface with the 1.59 update. This affects some of my ETS2 mods.&lt;/p&gt;
+&lt;p&gt;It appears that all of my currently supported mods for American Truck Simulator work without issues with the 1.59 update.&lt;/p&gt;
 &lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
