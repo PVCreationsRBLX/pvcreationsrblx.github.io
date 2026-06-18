@@ -82,7 +82,7 @@
     </item>
     
     <item>
-      <title>Extra VNL Parts</title>
+      <title>Extra VNL &#39;25 Parts</title>
       <link>http://localhost:1313/docs/ets2_ats/ats/extra_vnl_parts/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       
@@ -90,7 +90,7 @@
       <description>
         
         
-        &lt;p&gt;This mod adds some extra parts to the 2025 Volvo VNL, primarily additional side deflector options for all sleepers. As a bonus, it also makes the sideskirt aero removable for all sideskirts.&lt;/p&gt;
+        &lt;p&gt;This mod adds some extra parts to the 2025 Volvo VNL, primarily additional side deflector options for all sleepers and a painted version of the Core bumper. As a bonus, it also makes the sideskirt extensions removable for all sideskirts.&lt;/p&gt;
 &lt;p&gt;This mod conflicts with other mods that edit these accessories:&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -99,7 +99,8 @@ std_pnt_74.volvo.vnl2025.sideskirt
 std_pnt_dc.volvo.vnl2025.sideskirt
 std_pla_42.volvo.vnl2025.sideskirt
 std_pla_74.volvo.vnl2025.sideskirt
-std_pla_dc.volvo.vnl2025.sideskirt&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+std_pla_dc.volvo.vnl2025.sideskirt
+oversize.volvo.vnl2025.f_banner&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
   &lt;button
     class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
     title=&#34;Copy code&#34;
