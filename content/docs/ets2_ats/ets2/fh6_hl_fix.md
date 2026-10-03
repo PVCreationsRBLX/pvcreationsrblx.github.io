@@ -1,7 +1,7 @@
 ---
 draft: false
-title: FH6 Headlight Guard Fix 
-weight: 6
+title: FH6 Headlight Guard Fix (Obsolete)
+weight: 9999.02
 ---
 
 {{<callout type="warning">}}

@@ -1,7 +1,7 @@
 ---
 draft: false
-title: S-Way Interior Sound Fix (Temp)
-weight: 5
+title: S-Way Interior Sound Fix (Obsolete)
+weight: 9999.01
 ---
 
 {{<callout type="warning">}}
