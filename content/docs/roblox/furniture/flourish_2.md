@@ -71,7 +71,13 @@ A total of 16 chairs are available.
 
 ## Gallery
 
-{{< image-gallery gallery_dir="/images/galleries/flourish_2/variants" >}}
+{{< gallery cols="5" >}}
+ {{< gallery-item src="/images/galleries/flourish_2/variants/Cantilever.png" width="1200" height="1200" caption="Cantilever" >}}
+ {{< gallery-item src="/images/galleries/flourish_2/variants/Four-Leg.png" width="1200" height="1200" caption="Four-Leg" >}}
+ {{< gallery-item src="/images/galleries/flourish_2/variants/Sled.png" width="1200" height="1200" caption="Sled" >}}
+ {{< gallery-item src="/images/galleries/flourish_2/variants/Stool 1.png" width="1200" height="1200" caption="Stool (Civitas style)" >}}
+ {{< gallery-item src="/images/galleries/flourish_2/variants/Stool 2.png" width="1200" height="1200" caption="Stool (SmartLink style)" >}}
+{{< /gallery >}}
 
 ## Known issues
 

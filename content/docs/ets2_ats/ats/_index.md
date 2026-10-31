@@ -9,4 +9,5 @@ weight: 1
     {{< card link="lt_lonestar_blinker" image="/images/ets2_ats_mods/cards_ltls_blinker.webp" title="LT/LoneStar Realistic Blinker Speed" tag="1.61 compatible" tagColor="green" >}}
     {{< card link="ats-qjti" image="images/ets2_ats_mods/cards_ats-qjti.webp" title="ATS-QJTI" tag="1.61 compatible" tagColor="green" >}}
     {{< card link="extra_vnl_parts" image="images/ets2_ats_mods/cards_extra_vnl_parts.webp" title="Extra VNL '25 Parts" tag="1.61 compatible" tagColor="green" >}}
+    {{< card link="ford_pt_fixes" image="images/ets2_ats_mods/cards_ford_pt_fixes.webp" title="Ford Powertrain Fixes" tag="1.61 compatible" tagColor="green" >}}
 {{< /cards >}}

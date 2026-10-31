@@ -5,7 +5,7 @@
     <description>Recent content in ETS2/ATS Updates on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/categories/ets2/ats-updates/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,21 @@
         
       
     
+    
+    <item>
+      <title>ETS2 Mod Status (1.62 Open Beta)</title>
+      <link>http://localhost:1313/blog/tsupdate-162ob/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/tsupdate-162ob/</guid>
+      <description>
+        
+        
+        &lt;p&gt;ETS2 update 1.62 brought some changes to the DAF XG+ (the top lights are now separate from the cab), meaning ETS2-QJTI needs to be updated. The compatibility changes have been made and will be released after the beta is over.&lt;/p&gt;
+&lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>ETS2/ATS Mod Status (1.61)</title>
@@ -126,7 +141,7 @@
         
         
         &lt;p&gt;I&amp;rsquo;m not sure if any mods need updating at the moment – probably not. At the time I&amp;rsquo;m writing this, I&amp;rsquo;m currently downloading the open beta for ETS2 1.57.&lt;/p&gt;
-&lt;p&gt;Depending on how this update affects the Scania R and S Quick Job trucks, which were &lt;a href=&#34;https://blog.scssoft.com/2025/11/ets2-157-scania-r-s-trucks-update.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updated with this version&lt;/a&gt;, ETS2-QJTI &lt;em&gt;may&lt;/em&gt; receive an update related to them. ETS2-QJTI never affected these trucks, so the current version should still work with 1.57.&lt;/p&gt;
+&lt;p&gt;Depending on how this update affects the Scania R and S Quick Job trucks, which were &lt;a href=&#34;https://blog.scssoft.com/2025/11/ets2-157-scania-r-s-trucks-update.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updated with this version&lt;/a&gt;, ETS2-QJTI &lt;em&gt;may&lt;/em&gt; receive an update related to them. ETS2-QJTI never affected these trucks, so the current version should still work with 1.57.&lt;/p&gt;
 &lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
       </description>
