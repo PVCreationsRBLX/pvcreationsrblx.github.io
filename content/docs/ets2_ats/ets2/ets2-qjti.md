@@ -13,13 +13,13 @@ See its ATS counterpart [here](../../ats-qjti).
 ### DAF NGD
 
 * Replaced original 4×2 heavy/oversize configs with 6×4 XG+ config (2021)
-* Added 6×4 and 8×4 configs for XFC and XG+ (2021 and 2025)
+* Added 6×4 and 8×4 configs for XF Robust and XG+ (2021 and 2025)
 
 These configurations are also available at any DAF dealer or the Mod Dealer.
 
 ### DAF XD
 
-* Replaced original 4×2 heavy/oversize configs with 6×4 XDC config (2021)
+* Replaced original 4×2 heavy/oversize configs with 6×4 XD Robust config (2021)
 * Added new 2025 6×4 heavy/oversize config
 
 These configurations are also available at any DAF dealer or the Mod Dealer.
@@ -33,7 +33,7 @@ The 2012 configurations will appear in the Used Dealer at random.
 
 ### Iveco S-Way
 
-* Configs that originally used metallic paintjobs now use solid ones
+* **Before ETS2 1.60:** Configs that originally used metallic paintjobs now use solid ones
 * Higher-end configs use transmissions with retarders
 
 ### MAN TGX Euro 6
