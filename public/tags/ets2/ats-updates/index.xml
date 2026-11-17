@@ -5,7 +5,7 @@
     <description>Recent content in ETS2/ATS Updates on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/tags/ets2/ats-updates/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,23 @@
         
       
     
+    
+    <item>
+      <title>ETS2/ATS Mod Status (1.62)</title>
+      <link>http://localhost:1313/blog/tsupdate-162/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/tsupdate-162/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The 1.62 update is now available for American Truck Simulator and Euro Truck Simulator 2.&lt;/p&gt;
+&lt;p&gt;SCS implemented a new &amp;ldquo;drivetrain_loss&amp;rdquo; parameter for the Road Trip cars in this version. I&amp;rsquo;ve updated &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/ats/ford_pt_fixes/&#34;&gt;Ford Car Pack Powertrain Fixes&lt;/a&gt; to incorporate this change. As per their apparent insistence on treating the games like a black box, much to the chagrin of many players and modders, they opted to omit this, among many changes far more interesting than some paintjobs being darker shades of blue and yellow (that you also have to pay for), from the official changelog. You should notice the cars accelerating somewhat more slowly above certain speeds with this version than with 1.61.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/ets2_ats/ets2/ets2-qjti/&#34;&gt;ETS2-QJTI&lt;/a&gt; has received an update to incorporate some changes SCS made to the DAF XG+. The update will also add the new special XG+ editions to the quick job pool, amend the vanilla oversize FH6 configs to use a more suitable transmission, and fix an issue where the existing FH6 configs would be black.&lt;/p&gt;
+&lt;p&gt;You can see all mods &lt;a href=&#34;http://localhost:1313/docs/ets2_ats/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>ETS2 Mod Status (1.62 Open Beta)</title>

@@ -503,7 +503,7 @@
         &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mod_etecht_buyable.webp&#34; alt=&#34;Buyable E-Tech T&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This mod allows you to buy an E-Tech T of your own – or several, if you so desire. I made this at a rapid pace before learning someone with early access to the truck had already created such a mod.&lt;/p&gt;
 &lt;p&gt;The config also uses the less powerful 330 kW &amp;ldquo;engine&amp;rdquo; option so you don&amp;rsquo;t need to be level 20+ to buy it. You can buy the truck at any Renault dealer or the Mod Dealer, and you might catch one in the Used Truck Dealer as well.&lt;/p&gt;
-&lt;p&gt;Tested with ETS2 version 1.50 (&lt;strong&gt;minimum version&lt;/strong&gt;) and works without issues with version 1.61.&lt;/p&gt;
+&lt;p&gt;Tested with ETS2 version 1.50 (&lt;strong&gt;minimum version&lt;/strong&gt;) and works without issues with version 1.62.&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;download&#34;&gt;Download&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
     &lt;a class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34; href=&#34;https://drive.google.com/file/d/1uTsUS_WbO8avJDURbuNaA4zyGD2BDa4S/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
@@ -644,53 +644,69 @@
 &lt;h2 data-hextra-search-id=&#34;contents&#34;&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A total of 16 chairs are available.&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;gallery&#34;&gt;Gallery&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;gallery&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#gallery&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block;}
-&lt;/style&gt;
+    &lt;a href=&#34;#gallery&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div
+  id=&#34;hextra-gallery-5&#34;
+  class=&#34;hextra-gallery hextra-gallery--grid not-prose&#34;
+  data-pswp-gallery=&#34;#hextra-gallery-5&#34;
+  style=&#34;--hextra-gallery-cols: 5; --hextra-gallery-gap: 0.5rem;&#34;
+&gt;
+ &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
+   &lt;a
+     class=&#34;hextra-gallery__link&#34;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     &lt;img
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever_hu_749fcc6062976b31.webp&#34;
+       alt=&#34;Cantilever&#34;
+       loading=&#34;lazy&#34;
+       decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
+   &lt;/a&gt;&lt;figcaption class=&#34;hextra-gallery__caption&#34;&gt;Cantilever&lt;/figcaption&gt;&lt;/figure&gt;
 
+ &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
+   &lt;a
+     class=&#34;hextra-gallery__link&#34;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     &lt;img
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg_hu_a86df4ff52bb84e2.webp&#34;
+       alt=&#34;Four-Leg&#34;
+       loading=&#34;lazy&#34;
+       decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
+   &lt;/a&gt;&lt;figcaption class=&#34;hextra-gallery__caption&#34;&gt;Four-Leg&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;ul class=&#34;image-gallery&#34;&gt;
-&lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever_hu_ac07b74939da8b9f.png&#34; title=&#34;Cantilever&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever_hu_c2f53f00030aff95.png&#34; alt=&#34;Cantilever&#34; title=&#34;Cantilever&#34;&gt;
-        &lt;span&gt;Cantilever&lt;/span&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
-&lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg_hu_ee436f2c48125522.png&#34; title=&#34;Four-Leg&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg_hu_23889d807c3e9ba6.png&#34; alt=&#34;Four-Leg&#34; title=&#34;Four-Leg&#34;&gt;
-        &lt;span&gt;Four-Leg&lt;/span&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
-&lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled_hu_4ddaad757658d959.png&#34; title=&#34;Sled&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled_hu_3cefffcbe2b551f1.png&#34; alt=&#34;Sled&#34; title=&#34;Sled&#34;&gt;
-        &lt;span&gt;Sled&lt;/span&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
-&lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201_hu_40d00e5e9a71ad05.png&#34; title=&#34;Stool 1&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201_hu_c0360f9bdccf1511.png&#34; alt=&#34;Stool 1&#34; title=&#34;Stool 1&#34;&gt;
-        &lt;span&gt;Stool 1&lt;/span&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
-&lt;li&gt;
-      &lt;a href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202_hu_31ffc9bcf67b4b72.png&#34; title=&#34;Stool 2&#34; class=&#34;lightbox-image&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202_hu_1f482b133ec6d5aa.png&#34; alt=&#34;Stool 2&#34; title=&#34;Stool 2&#34;&gt;
-        &lt;span&gt;Stool 2&lt;/span&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
+ &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
+   &lt;a
+     class=&#34;hextra-gallery__link&#34;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     &lt;img
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled_hu_e9179a07d2f7b7cd.webp&#34;
+       alt=&#34;Sled&#34;
+       loading=&#34;lazy&#34;
+       decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
+   &lt;/a&gt;&lt;figcaption class=&#34;hextra-gallery__caption&#34;&gt;Sled&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;/ul&gt;
+ &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
+   &lt;a
+     class=&#34;hextra-gallery__link&#34;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     &lt;img
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201_hu_b4430d60f84780f0.webp&#34;
+       alt=&#34;Stool (Civitas style)&#34;
+       loading=&#34;lazy&#34;
+       decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
+   &lt;/a&gt;&lt;figcaption class=&#34;hextra-gallery__caption&#34;&gt;Stool (Civitas style)&lt;/figcaption&gt;&lt;/figure&gt;
+
+ &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
+   &lt;a
+     class=&#34;hextra-gallery__link&#34;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     &lt;img
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202_hu_13e3f210bf715b9e.webp&#34;
+       alt=&#34;Stool (SmartLink style)&#34;
+       loading=&#34;lazy&#34;
+       decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
+   &lt;/a&gt;&lt;figcaption class=&#34;hextra-gallery__caption&#34;&gt;Stool (SmartLink style)&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;/div&gt;
+
 &lt;h2 data-hextra-search-id=&#34;known-issues&#34;&gt;Known issues&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;known-issues&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#known-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;None&lt;/li&gt;
@@ -1678,12 +1694,12 @@ oversize.volvo.vnl2025.f_banner&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div clas
     &lt;a href=&#34;#changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;daf-ngd&#34;&gt;DAF NGD&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;daf-ngd&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#daf-ngd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Replaced original 4×2 heavy/oversize configs with 6×4 XG+ config (2021)&lt;/li&gt;
-&lt;li&gt;Added 6×4 and 8×4 configs for XFC and XG+ (2021 and 2025)&lt;/li&gt;
+&lt;li&gt;Added 6×4 and 8×4 configs for XF Robust and XG+ (2021 and 2025)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;These configurations are also available at any DAF dealer or the Mod Dealer.&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;daf-xd&#34;&gt;DAF XD&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;daf-xd&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#daf-xd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Replaced original 4×2 heavy/oversize configs with 6×4 XDC config (2021)&lt;/li&gt;
+&lt;li&gt;Replaced original 4×2 heavy/oversize configs with 6×4 XD Robust config (2021)&lt;/li&gt;
 &lt;li&gt;Added new 2025 6×4 heavy/oversize config&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;These configurations are also available at any DAF dealer or the Mod Dealer.&lt;/p&gt;
@@ -1695,7 +1711,7 @@ oversize.volvo.vnl2025.f_banner&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div clas
 &lt;p&gt;The 2012 configurations will appear in the Used Dealer at random.&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;iveco-s-way&#34;&gt;Iveco S-Way&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;iveco-s-way&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#iveco-s-way&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Configs that originally used metallic paintjobs now use solid ones&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Before ETS2 1.60:&lt;/strong&gt; Configs that originally used metallic paintjobs now use solid ones&lt;/li&gt;
 &lt;li&gt;Higher-end configs use transmissions with retarders&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 data-hextra-search-id=&#34;man-tgx-euro-6&#34;&gt;MAN TGX Euro 6&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;man-tgx-euro-6&#34;&gt;&lt;/span&gt;
