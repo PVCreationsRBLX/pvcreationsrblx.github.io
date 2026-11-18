@@ -1,5 +1,5 @@
 ---
-date: "2024-06-13T14:10:37-07:00"
+date: '2024-06-13T14:10:37-07:00'
 draft: false
 title: ETS2/ATS
 weight: 2

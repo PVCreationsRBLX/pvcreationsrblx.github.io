@@ -1,10 +1,10 @@
 ---
 authors:
-  - name: PV
-    image: https://github.com/PVCreationsRBLX.png
+- image: https://github.com/PVCreationsRBLX.png
+  name: PV
 categories:
 - News
-date: "2025-02-01T08:10:34-08:00"
+date: '2025-02-01T08:10:34-08:00'
 draft: false
 tags:
 - News

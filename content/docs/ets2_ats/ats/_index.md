@@ -1,5 +1,5 @@
 ---
-date: "2025-04-07"
+date: '2025-04-07'
 draft: false
 title: American Truck Simulator
 weight: 1

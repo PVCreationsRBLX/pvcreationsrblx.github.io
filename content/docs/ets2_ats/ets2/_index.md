@@ -1,5 +1,5 @@
 ---
-date: "2025-03-22"
+date: '2025-03-22'
 draft: false
 title: Euro Truck Simulator 2
 weight: 2

@@ -1,5 +1,5 @@
 ---
-date: "2024-06-25T16:21:19-07:00"
+date: '2024-06-25T16:21:19-07:00'
 draft: false
 title: Lounge chairs
 weight: 1

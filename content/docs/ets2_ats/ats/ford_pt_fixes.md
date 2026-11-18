@@ -1,5 +1,5 @@
 ---
-date: "2026-10-01"
+date: '2026-10-01'
 draft: false
 title: Ford Car Pack Powertrain Fixes
 weight: 5

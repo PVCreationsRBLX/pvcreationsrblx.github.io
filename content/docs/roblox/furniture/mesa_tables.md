@@ -1,7 +1,7 @@
 ---
-date: "2025-04-04T19:00:00Z"
+date: '2025-04-04T19:00:00Z'
 draft: false
-title: Mesa Tables 
+title: Mesa Tables
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-date: "2024-06-13T13:27:02-07:00"
+date: '2024-06-13T13:27:02-07:00'
 draft: false
 title: Exceder LED3
 weight: 1

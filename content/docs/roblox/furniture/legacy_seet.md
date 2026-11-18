@@ -1,5 +1,5 @@
 ---
-date: "2024-09-26T19:40:50-07:00"
+date: '2024-09-26T19:40:50-07:00'
 draft: false
 title: Legacy SEET
 weight: 999999

@@ -1,5 +1,5 @@
 ---
-date: "2024-07-05T16:41:49-07:00"
+date: '2024-07-05T16:41:49-07:00'
 draft: false
 title: Privacy Policy
 ---

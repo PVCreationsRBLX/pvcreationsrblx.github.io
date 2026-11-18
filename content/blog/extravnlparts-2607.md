@@ -1,16 +1,16 @@
 ---
 authors:
-  - name: PV
-    image: https://github.com/PVCreationsRBLX.png
+- image: https://github.com/PVCreationsRBLX.png
+  name: PV
 categories:
 - Extra VNL '25 Parts
 - Mod Updates
-date: "2026-07-31"
+date: '2026-07-31'
 draft: false
 tags:
 - Extra VNL '25 Parts
 - Mod Updates
-title: Extra VNL '25 Parts - Release 26.07
+title: 'Extra VNL ''25 Parts - Release 26.07'
 ---
 [Extra VNL Parts](/docs/ets2_ats/ats/extra_vnl_parts/) has been updated! Here's what's new:
 

@@ -1,7 +1,7 @@
 ---
-date: "2025-10-27"
+date: '2025-10-27'
 draft: false
-linkTitle: "About"
+linkTitle: About
 title: About
 ---
 

@@ -1,10 +1,10 @@
 ---
 authors:
-  - name: PV
-    image: https://github.com/PVCreationsRBLX.png
+- image: https://github.com/PVCreationsRBLX.png
+  name: PV
 categories:
 - ETS2/ATS Updates
-date: "2025-10-20"
+date: '2025-10-20'
 draft: false
 tags:
 - ETS2/ATS Updates

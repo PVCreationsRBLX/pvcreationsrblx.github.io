@@ -1,5 +1,5 @@
 ---
-date: "2026-05-15"
+date: '2026-05-15'
 draft: false
 title: Extra VNL '25 Parts
 weight: 4

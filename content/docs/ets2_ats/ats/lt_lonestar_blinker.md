@@ -1,5 +1,5 @@
 ---
-date: "2025-04-07"
+date: '2025-04-07'
 draft: false
 title: LT/LoneStar Realistic Blinker Speed
 weight: 3
