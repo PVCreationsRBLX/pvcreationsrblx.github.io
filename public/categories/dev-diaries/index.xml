@@ -1,0 +1,43 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PV Creations – Dev Diaries</title>
+    <link>http://localhost:1313/categories/dev-diaries/</link>
+    <description>Recent content in Dev Diaries on PV Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Nov 2026 11:00:00 -0800</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/categories/dev-diaries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Stuff I&#39;m working on - Dev Diary #1</title>
+      <link>http://localhost:1313/blog/wip-1-2026-11-18/</link>
+      <pubDate>Wed, 18 Nov 2026 11:00:00 -0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/wip-1-2026-11-18/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Today, I wanted to share with you all a few projects I&amp;rsquo;m working on.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;bus-driver-inspired-paint-jobs&#34;&gt;Bus Driver-inspired paint jobs&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;bus-driver-inspired-paint-jobs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bus-driver-inspired-paint-jobs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;ve wanted to create paint jobs inspired by &lt;a href=&#34;https://store.steampowered.com/app/302080/Bus_Driver/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bus Driver&lt;/a&gt;, a cult classic created by a much smaller SCS that brought myself and others endless joy and frustration as a child, for the ETS2 Coaches DLC ever since it was first announced. It&amp;rsquo;s also their first independently published game! Though I&amp;rsquo;ve made skins before, mainly for Rigs of Rods and OMSI, the new Coaches DLC proved to be quite a challenge, especially with how the UVs are laid out. At least for the Lion&amp;rsquo;s Coach.&lt;/p&gt;
+&lt;p&gt;I plan on creating numerous paint jobs for all existing coaches in the DLC. Some coaches may have unique paint jobs. I have yet to finalize exact details.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/devlogs/2026-11-18/eut2_hq_6afbb4e6.webp&#34; alt=&#34;Orange MAN Lion’s Coach with yellow stripes driving in Iceland. Taken in Euro Truck Simulator 2.&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;
+I call this paint job &lt;em&gt;&lt;strong&gt;Laetiporus&lt;/strong&gt;&lt;/em&gt;, after &lt;em&gt;Laetiporus sulphureus&lt;/em&gt;, an edible bracket fungus that reportedly tastes like chicken (hence it being commonly called chicken of the woods). I&amp;rsquo;ll probably change the name of this paint job, though I&amp;rsquo;m not opposed to chucking in some Latin whenever I can. Due to this paint job&amp;rsquo;s relative simplicity (just bodyside stripes), I was able to incorporate much of this paint job&amp;rsquo;s definitions into a single def (.sii) file. I created a separate texture for the front bumper mainly to &lt;del&gt;hide my sloppy texture work&lt;/del&gt; prevent bleeding and blank spots, primarily, again, due to how the Lion&amp;rsquo;s Coach&amp;rsquo;s UVs were made.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;scania-touring-tweaks&#34;&gt;Scania Touring tweaks&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;scania-touring-tweaks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#scania-touring-tweaks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I noticed SCS changed quite a few things about the Touring during development, namely the wiper cowl material. It went from painted (mid-2025) to plastic, then to glossy at release. Research showed the Touring could be specced with either. I didn&amp;rsquo;t like the glossy cowl, so I brought back the plastic cowl as an option since the cowl is already its own accessory! I might adjust the actual wiper materials as well.&lt;/p&gt;
+&lt;p&gt;Fun fact: the Touring is the only coach in the DLC that required me to stop for fuel mid-route.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/devlogs/2026-11-18/eut2_hq_6afa543d_lr_wip.webp&#34; alt=&#34;White Scania Touring in Bulgaria. Taken in Euro Truck Simulator 2.&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jaspermodding.com/p/jasper-s-wheels-pack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wheels&lt;/a&gt; (paid) by Jasper.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
