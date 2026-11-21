@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PV Creations – Furniture</title>
-    <link>https://pvcreationsrblx.github.io/docs/roblox/furniture/</link>
+    <link>http://localhost:1313/docs/roblox/furniture/</link>
     <description>Recent content in Furniture on PV Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Jun 2024 16:10:56 -0700</lastBuildDate>
     
-	  <atom:link href="https://pvcreationsrblx.github.io/docs/roblox/furniture/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/roblox/furniture/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Lounge chairs</title>
-      <link>https://pvcreationsrblx.github.io/docs/roblox/furniture/lounge_chairs/</link>
+      <link>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</link>
       <pubDate>Tue, 25 Jun 2024 16:21:19 -0700</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/roblox/furniture/lounge_chairs/</guid>
+      <guid>http://localhost:1313/docs/roblox/furniture/lounge_chairs/</guid>
       <description>
         
         
@@ -71,10 +71,10 @@
     
     <item>
       <title>Flourish II</title>
-      <link>https://pvcreationsrblx.github.io/docs/roblox/furniture/flourish_2/</link>
+      <link>http://localhost:1313/docs/roblox/furniture/flourish_2/</link>
       <pubDate>Tue, 25 Jun 2024 16:21:04 -0700</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/roblox/furniture/flourish_2/</guid>
+      <guid>http://localhost:1313/docs/roblox/furniture/flourish_2/</guid>
       <description>
         
         
@@ -166,9 +166,9 @@
  &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
    &lt;a
      class=&#34;hextra-gallery__link&#34;
-     href=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Cantilever.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
      &lt;img
-       src=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Cantilever_hu_749fcc6062976b31.webp&#34;
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Cantilever_hu_749fcc6062976b31.webp&#34;
        alt=&#34;Cantilever&#34;
        loading=&#34;lazy&#34;
        decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
@@ -177,9 +177,9 @@
  &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
    &lt;a
      class=&#34;hextra-gallery__link&#34;
-     href=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Four-Leg.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
      &lt;img
-       src=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Four-Leg_hu_a86df4ff52bb84e2.webp&#34;
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Four-Leg_hu_a86df4ff52bb84e2.webp&#34;
        alt=&#34;Four-Leg&#34;
        loading=&#34;lazy&#34;
        decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
@@ -188,9 +188,9 @@
  &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
    &lt;a
      class=&#34;hextra-gallery__link&#34;
-     href=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Sled.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
      &lt;img
-       src=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Sled_hu_e9179a07d2f7b7cd.webp&#34;
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Sled_hu_e9179a07d2f7b7cd.webp&#34;
        alt=&#34;Sled&#34;
        loading=&#34;lazy&#34;
        decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
@@ -199,9 +199,9 @@
  &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
    &lt;a
      class=&#34;hextra-gallery__link&#34;
-     href=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Stool%201.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
      &lt;img
-       src=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Stool%201_hu_b4430d60f84780f0.webp&#34;
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%201_hu_b4430d60f84780f0.webp&#34;
        alt=&#34;Stool (Civitas style)&#34;
        loading=&#34;lazy&#34;
        decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
@@ -210,9 +210,9 @@
  &lt;figure class=&#34;hextra-gallery__item&#34;&gt;
    &lt;a
      class=&#34;hextra-gallery__link&#34;
-     href=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Stool%202.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
+     href=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202.png&#34; data-pswp-width=&#34;1200&#34; data-pswp-height=&#34;1200&#34;&gt;
      &lt;img
-       src=&#34;https://pvcreationsrblx.github.io/images/galleries/flourish_2/variants/Stool%202_hu_13e3f210bf715b9e.webp&#34;
+       src=&#34;http://localhost:1313/images/galleries/flourish_2/variants/Stool%202_hu_13e3f210bf715b9e.webp&#34;
        alt=&#34;Stool (SmartLink style)&#34;
        loading=&#34;lazy&#34;
        decoding=&#34;async&#34; width=&#34;800&#34; height=&#34;800&#34;/&gt;
@@ -230,10 +230,10 @@
     
     <item>
       <title>Apex! Desks</title>
-      <link>https://pvcreationsrblx.github.io/docs/roblox/furniture/apex_desks/</link>
+      <link>http://localhost:1313/docs/roblox/furniture/apex_desks/</link>
       <pubDate>Tue, 25 Jun 2024 16:21:11 -0700</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/roblox/furniture/apex_desks/</guid>
+      <guid>http://localhost:1313/docs/roblox/furniture/apex_desks/</guid>
       <description>
         
         
@@ -264,10 +264,10 @@
     
     <item>
       <title>Mesa Tables</title>
-      <link>https://pvcreationsrblx.github.io/docs/roblox/furniture/mesa_tables/</link>
+      <link>http://localhost:1313/docs/roblox/furniture/mesa_tables/</link>
       <pubDate>Fri, 04 Apr 2025 19:00:00 +0000</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/roblox/furniture/mesa_tables/</guid>
+      <guid>http://localhost:1313/docs/roblox/furniture/mesa_tables/</guid>
       <description>
         
         
@@ -316,10 +316,10 @@
     
     <item>
       <title>Legacy SEET</title>
-      <link>https://pvcreationsrblx.github.io/docs/roblox/furniture/legacy_seet/</link>
+      <link>http://localhost:1313/docs/roblox/furniture/legacy_seet/</link>
       <pubDate>Thu, 26 Sep 2024 19:40:50 -0700</pubDate>
       
-      <guid>https://pvcreationsrblx.github.io/docs/roblox/furniture/legacy_seet/</guid>
+      <guid>http://localhost:1313/docs/roblox/furniture/legacy_seet/</guid>
       <description>
         
         
@@ -351,7 +351,7 @@
     &lt;a href=&#34;#enrich&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Huh? Released in 2015.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;No R15 support&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;flourish-i&#34;&gt;Flourish I&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;flourish-i&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#flourish-i&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pvcreationsrblx.github.io/images/galleries/legacy_seet/legacy_seet_flourish1.webp&#34; alt=&#34;Flourish 1 chairs in blue&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#flourish-i&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/galleries/legacy_seet/legacy_seet_flourish1.webp&#34; alt=&#34;Flourish 1 chairs in blue&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Inspired by Artcobell&amp;rsquo;s &lt;a href=&#34;https://catalog.artcobell.com/products/four-leg-caster-chair&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alphabet&lt;/a&gt; and HON&amp;rsquo;s &lt;a href=&#34;https://www.hon.com/chairs/smartlink&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SmartLink&lt;/a&gt; lines, the venerable Flourish legacy series has cemented itself as SEET&amp;rsquo;s quintessential product line (i.e. the one that&amp;rsquo;s held up better than the rest). First released in 2015 with further variants being released up to 2018.&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;explore&#34;&gt;Explore&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;explore&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#explore&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Inspired by Artcobell&amp;rsquo;s &lt;a href=&#34;https://catalog.artcobell.com/products/four-leg-stacking-chair&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discover&lt;/a&gt; series. Not very good. Released in 2015.&lt;/p&gt;
